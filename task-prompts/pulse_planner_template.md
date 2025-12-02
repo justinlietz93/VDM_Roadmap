@@ -10,6 +10,11 @@ Your job is to produce a **self-contained, step-by-step implementation guide** t
 
 For this specific case:
 
+- Eisenhower Quadrant Score:
+  - Q1 = Important + Urgent (Indicator - Do NOW)
+  - Q2 = Important + Not Urgent (Indicator - Schedule it immediately)
+  - Q3 = Not Important + Urgent (Indicator - Delegate it out)
+  - Q4 = Not Important + Not Urgent (Inidicator - Delete or archive)
 - Topic / object I care about:
   [BRIEF DESCRIPTION, e.g. "classical OTOC spectroscopy for metriplectic dynamics" or "void-lensing interface meter using DES-Y6"]
 - External anchor(s) (paper, result, dataset):
@@ -54,3 +59,4 @@ Constraints and style:
 - Assume I want to go from **zero memory to implementation** as fast as possible.
 - Do not waste space on generic background — focus on **what I personally need to reuse and how to do it**.
 - When in doubt, bias toward **explicit steps, named files, and concrete mathematical objects** instead of vague descriptions.
+
