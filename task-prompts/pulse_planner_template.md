@@ -18,7 +18,7 @@ For this specific case:
 - Topic / object I care about:
   [BRIEF DESCRIPTION, e.g. "classical OTOC spectroscopy for metriplectic dynamics" or "void-lensing interface meter using DES-Y6"]
 - External anchor(s) (paper, result, dataset):
-  [ALL LINKS OR TITLES]
+  [LINKS OR TITLES]
 - High-level goal in my stack:
   [WHAT THIS IS SUPPOSED TO DO FOR VDM / SIE / COSMOLOGY / IDE, IN ONE OR TWO SENTENCES]
 
@@ -52,6 +52,7 @@ I want the answer structured in the following sections:
    - In a short paragraph, tell Future-Justin how this topic connects to:
      - at least one **Axiom / CF chain** (e.g. A8, CF1, CF3, CF4, CF8), and  
      - at least one **instrument chain** (e.g. void-lensing meters, ringdown meters, SIE/agency, KG+RD engine).  
+     - Read the `Current_TODO.md` document you should have been provided and determine where in the sequence this belongs. If you did not receive one, DO NOT respond with anything. FIRST ask Justin for it so time isn't wasted.
    - The goal is: if I only read this paragraph, I remember *why this is worth doing*.
 
 Constraints and style:
@@ -59,4 +60,3 @@ Constraints and style:
 - Assume I want to go from **zero memory to implementation** as fast as possible.
 - Do not waste space on generic background — focus on **what I personally need to reuse and how to do it**.
 - When in doubt, bias toward **explicit steps, named files, and concrete mathematical objects** instead of vague descriptions.
-
