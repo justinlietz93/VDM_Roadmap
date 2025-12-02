@@ -1,4 +1,5 @@
 # References
+<!-- NOTE TO AI: When editing this file, follow AMA 11th style for all references. Do not fabricate metadata; only reformat and normalize what is already present. -->
 
 ## AI Solvers
 
