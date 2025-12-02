@@ -18,7 +18,7 @@ For this specific case:
 - Topic / object I care about:
   [BRIEF DESCRIPTION, e.g. "classical OTOC spectroscopy for metriplectic dynamics" or "void-lensing interface meter using DES-Y6"]
 - External anchor(s) (paper, result, dataset):
-  [LINKS OR TITLES]
+  [ALL LINKS OR TITLES]
 - High-level goal in my stack:
   [WHAT THIS IS SUPPOSED TO DO FOR VDM / SIE / COSMOLOGY / IDE, IN ONE OR TWO SENTENCES]
 
