@@ -74,7 +74,7 @@
 52. Eric Weinstein Says He Solved the Universe’s Mysteries. Scientists Disagree. Accessed [DATE].
 53. Geometric Unity: phenomenal advance, or crazy theory?. The Aperiodical. Accessed [DATE].
 54. Eric Weinstein on Geometric Unity. Not Even Wrong. Accessed [DATE].
-55. Eric WEinstein's Geometric Unity theory • Physics Forums. Accessed [DATE].
+55. Eric Weinstein's Geometric Unity theory • Physics Forums. Accessed [DATE].
 
 ## geometric unity weinstein status
 
