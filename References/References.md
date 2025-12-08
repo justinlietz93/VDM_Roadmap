@@ -1,3964 +1,2173 @@
+
 # References
 <!-- NOTE TO AI: When editing this file, follow AMA 11th style for all references. Do not fabricate metadata; only reformat and normalize what is already present. -->
 
 ## AI Solvers
 
-Ax-Prover: a deep reasoning agentic framework for theorem proving in mathematics and quantum physics. <https://arxiv.org/html/2510.12787v1>
+1. Ax-Prover: a deep reasoning agentic framework for theorem proving in mathematics and quantum physics. *arXiv*. https://arxiv.org/html/2510.12787v1
 
-Lin Y, Tang S, Lyu B, et al. Goedel-Prover-V2: Scaling Formal Theorem Proving with Scaffolded Data Synthesis and Self-Correction. arXiv.org. Published August 5, 2025. <https://arxiv.org/abs/2508.03613?utm_source=chatgpt.com>
+2. Lin Y, Tang S, Lyu B, et al. Goedel-Prover-V2: Scaling Formal Theorem Proving with Scaffolded Data Synthesis and Self-Correction. arXiv.org. Published August 5, 2025. *arXiv*. https://arxiv.org/abs/2508.03613
 
-Ospanov A, Farnia F, Yousefzadeh R. APOLLO: Automated LLM and lean collaboration for advanced formal reasoning. arXiv.org. Published May 9, 2025. <https://arxiv.org/abs/2505.05758?utm_source=chatgpt.com>
+3. Ospanov A, Farnia F, Yousefzadeh R. APOLLO: Automated LLM and lean collaboration for advanced formal reasoning. arXiv.org. Published May 9, 2025. *arXiv*. https://arxiv.org/abs/2505.05758
 
-Hu J, Zhang J, Zhao Y, Ringer T. HybridProver: Augmenting Theorem Proving with LLM-Driven Proof Synthesis and Refinement. arXiv.org. Published May 21, 2025. <https://arxiv.org/abs/2505.15740?utm_source=chatgpt.com>
+4. Hu J, Zhang J, Zhao Y, Ringer T. HybridProver: Augmenting Theorem Proving with LLM-Driven Proof Synthesis and Refinement. arXiv.org. Published May 21, 2025. *arXiv*. https://arxiv.org/abs/2505.15740
 
-Zheng T, Deng Z, Tsang HT, et al. From Automation to Autonomy: A survey on large language models in Scientific Discovery. arXiv.org. Published May 19, 2025. <https://arxiv.org/abs/2505.13259>
+5. Zheng T, Deng Z, Tsang HT, et al. From Automation to Autonomy: A survey on large language models in Scientific Discovery. arXiv.org. Published May 19, 2025. *arXiv*. https://arxiv.org/abs/2505.13259
 
 ## causal set continuum limit
 
-10 results
+6. On the continuum limit of Benincasa-Dowker-Glaser causal set action. *arXiv*. https://arxiv.org/abs/2007.13192
 
-[2007.13192] On the continuum limit of Benincasa-Dowker-Glaser causal set action
+7. The continuum limit of a 4-dimensional causal set scalar d'Alembertian. *arXiv*. https://arxiv.org/abs/1510.04656
 
-arxiv.org
+8. Evidence for a continuum limit in causal set dynamics. *arXiv*. https://arxiv.org/abs/gr-qc/0003117
 
-[1510.04656] The continuum limit of a 4-dimensional causal set scalar d'Alembertian
+9. Evidence for a continuum limit in causal set dynamics | Phys. Rev. D. *Phys Rev*. https://journals.aps.org
 
-arxiv.org
+10. The causal set approach to quantum gravity | Living Reviews in Relativity. *Springer*. https://link.springer.com
 
-[gr-qc/0003117] Evidence for a continuum limit in causal set dynamics
+11. Causal sets and an emerging continuum | General Relativity and Gravitation. *Springer*. https://link.springer.com
 
-arxiv.org
+12. Chapter 2: Spacetime from causality: causal set theory. *arXiv*. https://arxiv.org/abs/2005.10873
 
-Evidence for a continuum limit in causal set dynamics | Phys. Rev. D
+13. Causal set generator and action computer - ScienceDirect. *Sciencedirect*. https://www.sciencedirect.com
 
-aps.org
+14. Local d’Alembertian for causal sets. *Arxiv*. https://arxiv.org
 
-The causal set approach to quantum gravity | Living Reviews in Relativity
-
-springer.com
-
-Causal sets and an emerging continuum | General Relativity and Gravitation
-
-springer.com
-
-[2005.10873] Chapter 2: Spacetime from causality: causal set theory
-
-arxiv.org
-
-Causal set generator and action computer - ScienceDirect
-
-sciencedirect.com
-
-Local d’Alembertian for causal sets
-
-arxiv.org
-
-Measuring spatial distances in causal sets via causal overlaps
-
-arxiv.org
+15. Measuring spatial distances in causal sets via causal overlaps. *Arxiv*. https://arxiv.org
 
 ## wolfram physics project validation
 
-10 results
+16. The Wolfram Physics Project: A One-Year Update—Stephen Wolfram Writings. *Stephenwolfram*. https://writings.stephenwolfram.com
 
-The Wolfram Physics Project: A One-Year Update—Stephen Wolfram Writings
+17. The Wolfram Physics Project: The First Two Weeks—Stephen Wolfram Writings. *Stephenwolfram*. https://writings.stephenwolfram.com
 
-stephenwolfram.com
+18. The Wolfram Physics Project hopes to find fundamental theory of physics. *Phys*. https://phys.org
 
-The Wolfram Physics Project: The First Two Weeks—Stephen Wolfram Writings
+19. Stephen Wolfram - Wikipedia. *Wikipedia*. https://en.wikipedia.org
 
-stephenwolfram.com
+20. Wolfram Fundamental Physics Project Forum—Wolfram Community. *Wolfram*. https://www.wolfram.com
 
-The Wolfram Physics Project hopes to find fundamental theory of physics
+21. The Wolfram Physics Project Makes Me Queasy | 4 gravitons. *4Gravitons*. https://4gravitons.com
 
-phys.org
+22. What do physicists think of the Wolfram Physics Project? - Quora. *Quora*. https://www.quora.com
 
-Stephen Wolfram - Wikipedia
+23. A Gentle Introduction to the Wolfram Physics Project | by Ostav Nadezhdu | The Startup | Medium. *Medium*. https://medium.com
 
-wikipedia.org
+24. Physicists Criticize Stephen Wolfram's 'Theory of Everything' | Scientific American. *Scientificamerican*. https://www.scientificamerican.com
 
-Wolfram Fundamental Physics Project Forum—Wolfram Community
-
-wolfram.com
-
-The Wolfram Physics Project Makes Me Queasy | 4 gravitons
-
-4gravitons.com
-
-What do physicists think of the Wolfram Physics Project? - Quora
-
-quora.com
-
-A Gentle Introduction to the Wolfram Physics Project | by Ostav Nadezhdu | The Startup | Medium
-
-medium.com
-
-Physicists Criticize Stephen Wolfram's 'Theory of Everything' | Scientific American
-
-scientificamerican.com
-
-Stephen Wolfram Physics Project | Fundamental Theory of Physics
-
-popularmechanics.com
+25. Stephen Wolfram Physics Project | Fundamental Theory of Physics. *Popularmechanics*. https://www.popularmechanics.com
 
 ## hypergraph quantum gravity
 
-10 results
+26. Quantum Hypergraph States. *arXiv*. https://arxiv.org/abs/1211.5554
 
-[1211.5554] Quantum Hypergraph States
+27. (PDF) Quantum Hypergraph States. *Researchgate*. https://www.researchgate.net
 
-arxiv.org
+28. Qudit hypergraph states and their properties. *arXiv*. https://arxiv.org/abs/1701.07733
 
-(PDF) Quantum Hypergraph States
+29. Stephen Wolfram’s hypergraph project aims for a fundamental theory of physics. *Sciencenews*. https://www.sciencenews.org
 
-researchgate.net
+30. Quantum Hypergraph States and the Theory of Multiparticle . *Uni-Siegen*. https://www.uni-siegen.de
 
-[1701.07733] Qudit hypergraph states and their properties
+31. Quantum walks on regular uniform hypergraphs | Scientific Reports. *Nature*. https://www.nature.com
 
-arxiv.org
+32. Finally We May Have a Path to the Fundamental Theory of Physics… and It’s Beautiful—Stephen Wolfram Writings. *Stephenwolfram*. https://writings.stephenwolfram.com
 
-Stephen Wolfram’s hypergraph project aims for a fundamental theory of physics
+33. Quantum computational universality of hypergraph states with Pauli-X and Z basis measurements | Scientific Reports. *Nature*. https://www.nature.com
 
-sciencenews.org
+34. Demonstration of hypergraph-state quantum information processing | Nature Communications. *Nature*. https://www.nature.com
 
-Quantum Hypergraph States and the Theory of Multiparticle ...
-
-uni-siegen.de
-
-Quantum walks on regular uniform hypergraphs | Scientific Reports
-
-nature.com
-
-Finally We May Have a Path to the Fundamental Theory of Physics… and It’s Beautiful—Stephen Wolfram Writings
-
-stephenwolfram.com
-
-Quantum computational universality of hypergraph states with Pauli-X and Z basis measurements | Scientific Reports
-
-nature.com
-
-Demonstration of hypergraph-state quantum information processing | Nature Communications
-
-nature.com
-
-Exploring Wolfram's Theory of Everything: Can the Universe Be a Giant Computer Program? - David Maiolo
-
-davidmaiolo.com
+35. Exploring Wolfram's Theory of Everything: Can the Universe Be a Giant Computer Program? - David Maiolo. *Davidmaiolo*. https://davidmaiolo.com
 
 ## causal set theory recent developments
 
-10 results
+36. Causal sets - Wikipedia. *Wikipedia*. https://en.wikipedia.org
 
-Causal sets - Wikipedia
+37. Geometry from order: causal sets « Einstein-Online. *Einstein-Online*. https://www.einstein-online.info
 
-wikipedia.org
+38. Seventeenth Marcel Grossmann Meeting (7-July 12, 2024): Causal set theory · ICRANet Indico platform. *Icranet*. https://www.icranet.org
 
-Geometry from order: causal sets « Einstein-Online
+39. In-in correlators and scattering amplitudes on a causal set | Phys. Rev. D. *Phys Rev*. https://journals.aps.org
 
-einstein-online.info
+40. The causal set approach to quantum gravity | Living Reviews in Relativity. *Springer*. https://link.springer.com
 
-Seventeenth Marcel Grossmann Meeting (7-July 12, 2024): Causal set theory · ICRANet Indico platform
+41. Causal Set Theory and the Benincasa-Dowker Conjecture Ansh Bhatnagar. *Imperial*. https://www.imperial.ac.uk
 
-icranet.org
+42. Causal Sets And Discrete Spacetime: A Local Relativistic Operator. *Quantumzeitgeist*. https://quantumzeitgeist.com
 
-In-in correlators and scattering amplitudes on a causal set | Phys. Rev. D
+43. Causal Set Theory and Quantum Gravity | Nature Research Intelligence. *Nature*. https://www.nature.com
 
-aps.org
+44. Causal Sets Dynamics: Review & Outlook Petros Wallden. *Cern*. https://home.cern
 
-The causal set approach to quantum gravity | Living Reviews in Relativity
-
-springer.com
-
-Causal Set Theory and the Benincasa-Dowker Conjecture Ansh Bhatnagar
-
-imperial.ac.uk
-
-Causal Sets And Discrete Spacetime: A Local Relativistic Operator.
-
-quantumzeitgeist.com
-
-Causal Set Theory and Quantum Gravity | Nature Research Intelligence
-
-nature.com
-
-Causal Sets Dynamics: Review & Outlook Petros Wallden
-
-cern.ch
-
-Everything you always wanted to know about how causal ...
-
-worldscientific.com
+45. Everything you always wanted to know about how causal . *Worldscientific*. https://www.worldscientific.com
 
 ## geometric unity peer review
 
-10 results
+46. The Truth About Geometric Unity, viXra.org e-Print archive, viXra:1307.0075. *Vixra*. https://vixra.org
 
-The Truth About Geometric Unity, viXra.org e-Print archive, viXra:1307.0075
+47. Eric Weinstein - Wikipedia. *Wikipedia*. https://en.wikipedia.org
 
-vixra.org
+48. Problems with Eric Weinstein's “Geometric Unity” | Hacker News. *Ycombinator*. https://www.ycombinator.com
 
-Eric Weinstein - Wikipedia
+49. Curt Jaimungal with Eric Weinstein | Geometric Unity: 40 Years in the Making – The Portal Group
 
-wikipedia.org
+50. Geometric Unity. *Nasaspaceflight*. https://www.nasaspaceflight.com
 
-Problems with Eric Weinstein's “Geometric Unity” | Hacker News
+51. A Shot at the Theory of Everything: Geometric Unity – Eric Weinstein | Hacker News. *Ycombinator*. https://www.ycombinator.com
 
-ycombinator.com
+52. Eric Weinstein Says He Solved the Universe’s Mysteries. Scientists Disagree. *Vice*. https://www.vice.com
 
-Curt Jaimungal with Eric Weinstein | Geometric Unity: 40 Years in the Making – The Portal Group
+53. Geometric Unity: phenomenal advance, or crazy theory? | The Aperiodical. *Aperiodical*. https://www.aperiodical.com
 
-theportal.group
+54. Eric Weinstein on Geometric Unity | Not Even Wrong. *Columbia*. https://www.columbia.edu
 
-Geometric Unity
-
-nasaspaceflight.com
-
-A Shot at the Theory of Everything: Geometric Unity – Eric Weinstein | Hacker News
-
-ycombinator.com
-
-Eric Weinstein Says He Solved the Universe’s Mysteries. Scientists Disagree
-
-vice.com
-
-Geometric Unity: phenomenal advance, or crazy theory? | The Aperiodical
-
-aperiodical.com
-
-Eric Weinstein on Geometric Unity | Not Even Wrong
-
-columbia.edu
-
-Eric WEinstein's Geometric Unity theory • Physics Forums
-
-physicsforums.com
+55. Eric WEinstein's Geometric Unity theory • Physics Forums. *Physicsforums*. https://www.physicsforums.com
 
 ## geometric unity weinstein status
 
-10 results
+56. A Response to Geometric Unity Timothy Nguyen∗ Theo Polya† February 23, 2021. *Timothynguyen*. https://www.timothynguyen.org
 
-A Response to Geometric Unity Timothy Nguyen∗ Theo Polya† February 23, 2021
+57. unified theories - What is Eric Weinstein's Geometric Unity theory? - Physics Stack Exchange. *Stackexchange*. https://www.stackexchange.com
 
-timothynguyen.org
+58. Eric Weinstein - Wikipedia. *Wikipedia*. https://en.wikipedia.org
 
-unified theories - What is Eric Weinstein's Geometric Unity theory? - Physics Stack Exchange
+59. Geometric Unity. *Geometricunity*. https://www.geometricunity.org
 
-stackexchange.com
+60. Eric Weinstein on Geometric Unity | Not Even Wrong. *Columbia*. https://www.columbia.edu
 
-Eric Weinstein - Wikipedia
+61. Geometric Unity – Timothy Nguyen. *Timothynguyen*. https://www.timothynguyen.org
 
-wikipedia.org
+62. The Truth About Geometric Unity, viXra.org e-Print archive, viXra:1307.0075. *Vixra*. https://vixra.org
 
-Geometric Unity
+63. Eric Weinstein's Geometric Unity Has A Fundamental Flaw. No Lagrangian, No Theory | Science 2.0. *Science20*. https://www.science20.com
 
-geometricunity.org
+64. What do you think about Eric Weinstein's theory of geometric unity? - Quora. *Quora*. https://www.quora.com
 
-Eric Weinstein on Geometric Unity | Not Even Wrong
-
-columbia.edu
-
-Geometric Unity – Timothy Nguyen
-
-timothynguyen.org
-
-The Truth About Geometric Unity, viXra.org e-Print archive, viXra:1307.0075
-
-vixra.org
-
-Eric Weinstein's Geometric Unity Has A Fundamental Flaw. No Lagrangian, No Theory | Science 2.0
-
-science20.com
-
-What do you think about Eric Weinstein's theory of geometric unity? - Quora
-
-quora.com
-
-Eric Weinstein Says He Solved the Universe’s Mysteries. Scientists Disagree
-
-vice.com
+65. Eric Weinstein Says He Solved the Universe’s Mysteries. Scientists Disagree. *Vice*. https://www.vice.com
 
 ## CMB anomalies cold spot
 
-10 results
+66. CMB cold spot - Wikipedia. *Wikipedia*. https://en.wikipedia.org
 
-CMB cold spot - Wikipedia
+67. The enduring enigma of the cosmic cold spot – Physics World. *Physicsworld*. https://physicsworld.com
 
-wikipedia.org
+68. Our Universe is normal! Its biggest anomaly, the CMB cold spot, is now explained. *Bigthink*. https://bigthink.com
 
-The enduring enigma of the cosmic cold spot – Physics World
+69. DES view of the Eridanus supervoid and the CMB cold spot | Monthly Notices of the Royal Astronomical Society | Oxford Academic. *Oxford Academic*. https://academic.oup.com
 
-physicsworld.com
+70. The CMB Cold Spot as predicted by foregrounds around nearby galaxies | Astronomy & Astrophysics (A&A). *Aanda*. https://www.aanda.org
 
-Our Universe is normal! Its biggest anomaly, the CMB cold spot, is now explained
+71. Scientists move a step closer to understanding the “cold spot” in the cosmic microwave background. *Fnal*. https://www.fnal.gov
 
-bigthink.com
+72. A-void-ing the CMB cold spot | astrobites. *Astrobites*. https://www.astrobites.org
 
-DES view of the Eridanus supervoid and the CMB cold spot | Monthly Notices of the Royal Astronomical Society | Oxford Academic
+73. Evidence against a supervoid causing the CMB Cold Spot | Monthly Notices of the Royal Astronomical Society | Oxford Academic. *Oxford Academic*. https://academic.oup.com
 
-oup.com
+74. New Clues in the CMB Cold (Spot) Case | astrobites. *Astrobites*. https://www.astrobites.org
 
-The CMB Cold Spot as predicted by foregrounds around nearby galaxies | Astronomy & Astrophysics (A&A)
-
-aanda.org
-
-Scientists move a step closer to understanding the “cold spot” in the cosmic microwave background
-
-fnal.gov
-
-A-void-ing the CMB cold spot | astrobites
-
-astrobites.org
-
-Evidence against a supervoid causing the CMB Cold Spot | Monthly Notices of the Royal Astronomical Society | Oxford Academic
-
-oup.com
-
-New Clues in the CMB Cold (Spot) Case | astrobites
-
-astrobites.org
-
-[2211.16139] The CMB cold spot under the lens: ruling out a supervoid interpretation
-
-arxiv.org
+75. The CMB cold spot under the lens: ruling out a supervoid interpretation. *arXiv*. https://arxiv.org/abs/2211.16139
 
 ## hubble tension 2024
 
-10 results
+76. Loosening the Hubble Tension - Sky & Telescope. *Skyandtelescope*. https://www.skyandtelescope.org
 
-Loosening the Hubble Tension - Sky & Telescope
+77. Astronomers rule out one explanation for the Hubble tension. *Phys*. https://phys.org
 
-skyandtelescope.org
+78. James Webb Space Telescope Archives - NASA Science. *Nasa*. https://www.nasa.gov
 
-Astronomers rule out one explanation for the Hubble tension
+79. NASA's Webb, Hubble Telescopes Affirm Universe's Expansion Rate, Puzzle Persists - NASA Science. *Webbtelescope*. https://www.webbtelescope.org
 
-phys.org
+80. New analysis of Webb data measures universe expansion rate, finds there may not be a 'Hubble tension'. *Phys*. https://phys.org
 
-James Webb Space Telescope Archives - NASA Science
+81. Webb telescope's largest study of universe expansion confirms challenge to cosmic theory | Hub. *Jhu*. https://www.jhu.edu
 
-nasa.gov
+82. ESA - Webb & Hubble confirm Universe’s expansion rate. *Esa*. https://www.esa.int
 
-NASA's Webb, Hubble Telescopes Affirm Universe's Expansion Rate, Puzzle Persists - NASA Science
+83. Cosmic Origins (COR). *Nasa*. https://www.nasa.gov
 
-webbtelescope.org
+84. Nasa’s Webb, Hubble telescopes affirm universe’s expansion rate, puzzle persists | ScienceDaily. *Sciencedaily*. https://www.sciencedaily.com
 
-New analysis of Webb data measures universe expansion rate, finds there may not be a 'Hubble tension'
-
-phys.org
-
-Webb telescope's largest study of universe expansion confirms challenge to cosmic theory | Hub
-
-jhu.edu
-
-ESA - Webb & Hubble confirm Universe’s expansion rate
-
-esa.int
-
-Cosmic Origins (COR)
-
-nasa.gov
-
-Nasa’s Webb, Hubble telescopes affirm universe’s expansion rate, puzzle persists | ScienceDaily
-
-sciencedaily.com
-
-Lemaître Conference 2024 (16-21 June 2024): The Hubble Tension: New Results from JWST · Indico Global
-
-cern.ch
+85. Lemaître Conference 2024 (16-21 June 2024): The Hubble Tension: New Results from JWST · Indico Global. *Cern*. https://home.cern
 
 ## H0 tension planck SH0ES
 
-10 results
+86. Hubble Tension Headache: Clashing Measurements Make the Universe's Expansion a Lingering Mystery | Scientific American. *Scientificamerican*. https://www.scientificamerican.com
 
-Hubble Tension Headache: Clashing Measurements Make the Universe's Expansion a Lingering Mystery | Scientific American
+87. What is the Hubble tension, really? A SH0ES-centric view of the problem — Sunny Vagnozzi. *Sunnyvagnozzi*. https://www.sunnyvagnozzi.com
 
-scientificamerican.com
+88. Is the Hubble Tension actually a Temperature Tension? | astrobites. *Astrobites*. https://www.astrobites.org
 
-What is the Hubble tension, really? A SH0ES-centric view of the problem — Sunny Vagnozzi
+89. In the realm of the Hubble tension—a review of solutions - IOPscience. *IOP Science*. https://iopscience.iop.org
 
-sunnyvagnozzi.com
+90. A critical discussion on the H0 tension. *Arxiv*. https://arxiv.org
 
-Is the Hubble Tension actually a Temperature Tension? | astrobites
+91. Dark Energy with Phantom Crossing and the H0 Tension - PMC. *Nih*. https://www.nih.gov
 
-astrobites.org
+92. Questioning the H0 tension via the look-back time - INSU - Institut national des sciences de l'Univers
 
-In the realm of the Hubble tension—a review of solutions - IOPscience
+93. So, how’s it going with the Hubble tension? | astrobites. *Astrobites*. https://www.astrobites.org
 
-iop.org
+94. The H 0 tension: Δ G N vs. Δ N eff | Request PDF. *Researchgate*. https://www.researchgate.net
 
-A critical discussion on the H0 tension
-
-arxiv.org
-
-Dark Energy with Phantom Crossing and the H0 Tension - PMC
-
-nih.gov
-
-Questioning the H0 tension via the look-back time - INSU - Institut national des sciences de l'Univers
-
-hal.science
-
-So, how’s it going with the Hubble tension? | astrobites
-
-astrobites.org
-
-The H 0 tension: Δ G N vs. Δ N eff | Request PDF
-
-researchgate.net
-
-The Trouble with H0 (or not?) | astrobites
-
-astrobites.org
+95. The Trouble with H0 (or not?) | astrobites. *Astrobites*. https://www.astrobites.org
 
 ## S8 tension cosmology
 
-10 results
+96. The S8 tension in cosmology | PIRSA. *Pirsa*. https://www.pirsa.org
 
-The S8 tension in cosmology | PIRSA
+97. sigma-8 tension. *Vaporia*. https://www.vaporia.com
 
-pirsa.org
+98. The Sigma-8 Tension is a Drag. *arXiv*. https://arxiv.org/abs/2209.06217
 
-sigma-8 tension
+99. Hints of a physical origin for the S8 tension | Nature Astronomy. *Nature*. https://www.nature.com
 
-vaporia.com
+100. Bridging Cosmic Discrepancies: The S8 Tension and the FLAMINGO Project | by Graham Wallington | Medium. *Medium*. https://medium.com
 
-[2209.06217] The Sigma-8 Tension is a Drag
+101. Largest-ever computer simulation of the universe escalates cosmology dilemma | Space. *Space*. https://www.space.com
 
-arxiv.org
+102. non-linear solution to the S8 tension? | Monthly Notices of the Royal Astronomical Society | Oxford Academic. *Oxford Academic*. https://academic.oup.com
 
-Hints of a physical origin for the S8 tension | Nature Astronomy
+103. FLAMINGO project: revisiting the S8 tension and the role of baryonic physics | Monthly Notices of the Royal Astronomical Society | Oxford Academic. *Oxford Academic*. https://academic.oup.com
 
-nature.com
+104. Unexpected cosmic clumping could disprove our best understanding of the universe | Live Science. *Livescience*. https://www.livescience.com
 
-Bridging Cosmic Discrepancies: The S8 Tension and the FLAMINGO Project | by Graham Wallington | Medium
-
-medium.com
-
-Largest-ever computer simulation of the universe escalates cosmology dilemma | Space
-
-space.com
-
-non-linear solution to the S8 tension? | Monthly Notices of the Royal Astronomical Society | Oxford Academic
-
-oup.com
-
-FLAMINGO project: revisiting the S8 tension and the role of baryonic physics | Monthly Notices of the Royal Astronomical Society | Oxford Academic
-
-oup.com
-
-Unexpected cosmic clumping could disprove our best understanding of the universe | Live Science
-
-livescience.com
-
-S8 increases with effective redshift in ΛCDM cosmology | Monthly Notices of the Royal Astronomical Society: Letters | Oxford Academic
-
-oup.com
+105. S8 increases with effective redshift in ΛCDM cosmology | Monthly Notices of the Royal Astronomical Society: Letters | Oxford Academic. *Oxford Academic*. https://academic.oup.com
 
 ## axis of evil CMB
 
-10 results
+106. Axis of evil (cosmology) - Wikipedia. *Wikipedia*. https://en.wikipedia.org
 
-Axis of evil (cosmology) - Wikipedia
+107. The Axis of Evil and the Cold Spot—Sear-ious Problems for the Big Bang? | Answers in Genesis. *Answersingenesis*. https://www.answersingenesis.org
 
-wikipedia.org
+108. The (Cosmological) Axis of Evil (Op-Ed) | Space. *Space*. https://www.space.com
 
-The Axis of Evil and the Cold Spot—Sear-ious Problems for the Big Bang? | Answers in Genesis
+109. cosmology - Implications of the axis of evil in Big Bang theory and cosmological inflation? - Physics Stack Exchange. *Stackexchange*. https://www.stackexchange.com
 
-answersingenesis.org
+110. The CMB Axis of Evil and the Nature of Randomness. *Thephysicsmill*. https://www.thephysicsmill.com
 
-The (Cosmological) Axis of Evil (Op-Ed) | Space
+111. axis of evil – a polarization perspective | Monthly Notices of the Royal Astronomical Society | Oxford Academic. *Oxford Academic*. https://academic.oup.com
 
-space.com
+112. The CMB Axis of Evil. *Vixra*. https://vixra.org
 
-cosmology - Implications of the axis of evil in Big Bang theory and cosmological inflation? - Physics Stack Exchange
+113. The axis of evil - a polarization perspective - ADS. *Harvard*. https://www.harvard.edu
 
-stackexchange.com
+114. The "Axis of Evil" in Astrophysics : Proslogion. *Drwile*. https://www.drwile.com
 
-The CMB Axis of Evil and the Nature of Randomness
-
-thephysicsmill.com
-
-axis of evil – a polarization perspective | Monthly Notices of the Royal Astronomical Society | Oxford Academic
-
-oup.com
-
-The CMB Axis of Evil
-
-vixra.org
-
-The axis of evil - a polarization perspective - ADS
-
-harvard.edu
-
-The "Axis of Evil" in Astrophysics : Proslogion
-
-drwile.com
-
-The Cosmological Axis of Evil | theDiagonal
-
-thediagonal.com
+115. The Cosmological Axis of Evil | theDiagonal. *Thediagonal*. https://www.thediagonal.com
 
 ## ΛCDM tensions review
 
-10 results
+116. Challenges for $Λ$CDM: An update. *arXiv*. https://arxiv.org/abs/2105.05208
 
-[2105.05208] Challenges for $Λ$CDM: An update
+117. ΛCDM Tensions: Localising Missing Physics through Consistency Checks | MDPI. *Mdpi*. https://www.mdpi.com
 
-arxiv.org
+118. ΛCDM Tensions: Localising Missing Physics through Consistency Checks - ADS. *Harvard*. https://www.harvard.edu
 
-ΛCDM Tensions: Localising Missing Physics through Consistency Checks | MDPI
+119. Challenges to the ΛCDM cosmology - PMC. *Nih*. https://www.nih.gov
 
-mdpi.com
+120. Tension with the flat ΛCDM model from a high redshift Hubble Diagram of supernovae, quasars and gamma-ray bursts. *arXiv*. https://arxiv.org/abs/1907.07692
 
-ΛCDM Tensions: Localising Missing Physics through Consistency Checks - ADS
+121. Lambda-CDM model - Wikipedia. *Wikipedia*. https://en.wikipedia.org
 
-harvard.edu
+122. Challenges to the ΛCDM cosmology | Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences. *Royalsocietypublishing*. https://www.royalsocietypublishing.org
 
-Challenges to the ΛCDM cosmology - PMC
+123. (PDF) ΛCDM Tensions: Localising Missing Physics through Consistency Checks. *Researchgate*. https://www.researchgate.net
 
-nih.gov
+124. ΛCDM Tensions: Localising Missing Physics through Consistency Checks. *Arxiv*. https://arxiv.org
 
-[1907.07692] Tension with the flat ΛCDM model from a high redshift Hubble Diagram of supernovae, quasars and gamma-ray bursts
-
-arxiv.org
-
-Lambda-CDM model - Wikipedia
-
-wikipedia.org
-
-Challenges to the ΛCDM cosmology | Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences
-
-royalsocietypublishing.org
-
-(PDF) ΛCDM Tensions: Localising Missing Physics through Consistency Checks
-
-researchgate.net
-
-ΛCDM Tensions: Localising Missing Physics through Consistency Checks
-
-arxiv.org
-
-ΛCDM is alive and well | Published in The Open Journal of Astrophysics
-
-theoj.org
+125. ΛCDM is alive and well | Published in The Open Journal of Astrophysics. *Theoj*. https://www.theoj.org
 
 ## early dark energy Hubble tension
 
-10 results
+126. How dark energy could relieve 'Hubble tension' and galaxy headaches | Space. *Space*. https://www.space.com
 
-How dark energy could relieve 'Hubble tension' and galaxy headaches | Space
+127. Early Dark Energy Can Resolve The Hubble Tension. *arXiv*. https://arxiv.org/abs/1811.04083
 
-space.com
+128. Early dark energy idea offers way to resolve the Hubble tension | Knowable Magazine. *Knowablemagazine*. https://www.knowablemagazine.org
 
-[1811.04083] Early Dark Energy Can Resolve The Hubble Tension
+129. Physics - Tension for a Hubble-Tension Solution. *Phys Rev*. https://journals.aps.org
 
-arxiv.org
+130. The Hubble Tension and Early Dark Energy | Annual Reviews. *Annualreviews*. https://www.annualreviews.org
 
-Early dark energy idea offers way to resolve the Hubble tension | Knowable Magazine
+131. The Hubble Tension and Early Dark Energy. *arXiv*. https://arxiv.org/abs/2211.04492
 
-knowablemagazine.org
+132. Early Dark Energy can Resolve the Hubble Tension | Phys. Rev. Lett. *Phys Rev*. https://journals.aps.org
 
-Physics - Tension for a Hubble-Tension Solution
+133. Relieving the Hubble tension with Early Dark Energy. *Mpg*. https://www.mpg.de
 
-aps.org
+134. It's going to take more than early dark energy to resolve the Hubble tension. *Phys*. https://phys.org
 
-The Hubble Tension and Early Dark Energy | Annual Reviews
-
-annualreviews.org
-
-[2211.04492] The Hubble Tension and Early Dark Energy
-
-arxiv.org
-
-Early Dark Energy can Resolve the Hubble Tension | Phys. Rev. Lett.
-
-aps.org
-
-Relieving the Hubble tension with Early Dark Energy
-
-mpg.de
-
-It's going to take more than early dark energy to resolve the Hubble tension
-
-phys.org
-
-[2302.09032] The Ups and Downs of Early Dark Energy solutions to the Hubble tension: a review of models, hints and constraints circa 2023
-
-arxiv.org
+135. The Ups and Downs of Early Dark Energy solutions to the Hubble tension: a review of models, hints and constraints circa 2023. *arXiv*. https://arxiv.org/abs/2302.09032
 
 ## modified gravity Hubble tension
 
-10 results
+136. In the realm of the Hubble tension—a review of solutions - IOPscience. *IOP Science*. https://iopscience.iop.org
 
-In the realm of the Hubble tension—a review of solutions - IOPscience
+137. How a "supervoid" and modified gravity could solve a cosmic conundrum. *Newatlas*. https://www.newatlas.com
 
-iop.org
+138. Can conformally coupled modified gravity solve the Hubble tension? | Phys. Rev. D. *Phys Rev*. https://journals.aps.org
 
-How a "supervoid" and modified gravity could solve a cosmic conundrum
+139. Exploring the Hubble tension with a late time Modified Gravity scenario. *arXiv*. https://arxiv.org/abs/2408.04354
 
-newatlas.com
+140. Analyzing the H0 tension in F(R) gravity models - ScienceDirect. *Sciencedirect*. https://www.sciencedirect.com
 
-Can conformally coupled modified gravity solve the Hubble tension? | Phys. Rev. D
+141. Can Conformally Coupled Modified Gravity Solve The Hubble Tension?. *arXiv*. https://arxiv.org/abs/2011.13853v2
 
-aps.org
+142. A new possible explanation for the Hubble tension | ScienceDaily. *Sciencedaily*. https://www.sciencedaily.com
 
-[2408.04354] Exploring the Hubble tension with a late time Modified Gravity scenario
+143. Exploring the Hubble tension with a late time Modified Gravity scenario. *Arxiv*. https://arxiv.org
 
-arxiv.org
+144. Exploring the Hubble tension with a late time Modified Gravity scenario - ScienceDirect. *Sciencedirect*. https://www.sciencedirect.com
 
-Analyzing the H0 tension in F(R) gravity models - ScienceDirect
-
-sciencedirect.com
-
-[2011.13853v2] Can Conformally Coupled Modified Gravity Solve The Hubble Tension?
-
-arxiv.org
-
-A new possible explanation for the Hubble tension | ScienceDaily
-
-sciencedaily.com
-
-Exploring the Hubble tension with a late time Modified Gravity scenario
-
-arxiv.org
-
-Exploring the Hubble tension with a late time Modified Gravity scenario - ScienceDirect
-
-sciencedirect.com
-
-Hubble tension and absolute constraints on the local Hubble parameter | Astronomy & Astrophysics (A&A)
-
-aanda.org
+145. Hubble tension and absolute constraints on the local Hubble parameter | Astronomy & Astrophysics (A&A). *Aanda*. https://www.aanda.org
 
 ## hemispherical asymmetry CMB
 
-10 results
+146. Hemispherical Power Asymmetry in intensity and polarization for Planck PR4 data. *arXiv*. https://arxiv.org/abs/2306.14880
 
-[2306.14880] Hemispherical Power Asymmetry in intensity and polarization for Planck PR4 data
+147. ESA Science & Technology - Hemispheric asymmetry and cold spot in the Cosmic Microwave Background. *Esa*. https://www.esa.int
 
-arxiv.org
+148. Hemispherical CMB power asymmetry: observation vs. . *Lancaster*. https://www.lancaster.ac.uk
 
-ESA Science & Technology - Hemispheric asymmetry and cold spot in the Cosmic Microwave Background
+149. CMB-S4 and the hemispherical variance anomaly | Monthly Notices of the Royal Astronomical Society | Oxford Academic. *Oxford Academic*. https://academic.oup.com
 
-esa.int
+150. A reassessment of LVE method and hemispherical power asymmetry in CMB temperature data from Planck PR4. *arXiv*. https://arxiv.org/abs/2411.15786
 
-Hemispherical CMB power asymmetry: observation vs. ...
+151. A Reassessment of Hemispherical Power Asymmetry in CMB Temperature Data from Planck PR4 using LVE method. *Arxiv*. https://arxiv.org
 
-lancaster.ac.uk
+152. Hemispherical power asymmetry: parameter estimation from cosmic microwave background WMAP5 data - ADS. *Harvard*. https://www.harvard.edu
 
-CMB-S4 and the hemispherical variance anomaly | Monthly Notices of the Royal Astronomical Society | Oxford Academic
+153. Power asymmetries in the cosmic microwave background temperature and polarization patterns | Monthly Notices of the Royal Astronomical Society | Oxford Academic. *Oxford Academic*. https://academic.oup.com
 
-oup.com
+154. CMB Hemispherical Power Asymmetry from Early Phase of Inflation. *Arxiv*. https://arxiv.org
 
-[2411.15786] A reassessment of LVE method and hemispherical power asymmetry in CMB temperature data from Planck PR4
-
-arxiv.org
-
-A Reassessment of Hemispherical Power Asymmetry in CMB Temperature Data from Planck PR4 using LVE method
-
-arxiv.org
-
-Hemispherical power asymmetry: parameter estimation from cosmic microwave background WMAP5 data - ADS
-
-harvard.edu
-
-Power asymmetries in the cosmic microwave background temperature and polarization patterns | Monthly Notices of the Royal Astronomical Society | Oxford Academic
-
-oup.com
-
-CMB Hemispherical Power Asymmetry from Early Phase of Inflation
-
-arxiv.org
-
-CMB hemispherical asymmetry: long mode modulation and non-Gaussianity (Journal Article) | ETDEWEB
-
-osti.gov
+155. CMB hemispherical asymmetry: long mode modulation and non-Gaussianity (Journal Article) | ETDEWEB. *Osti*. https://www.osti.gov
 
 ## cosmology tensions review 2024
 
-10 results
+156. Technical trials for easing the (cosmological) tension. *Phys*. https://phys.org
 
-Technical trials for easing the (cosmological) tension
+157. Challenges to the ΛCDM cosmology - PMC. *Nih*. https://www.nih.gov
 
-phys.org
+158. Universe | Special Issue : Universe: Feature Papers 2024—'Cosmology'. *Mdpi*. https://www.mdpi.com
 
-Challenges to the ΛCDM cosmology - PMC
+159. Cosmology intertwined: A review of the particle physics, astrophysics, and cosmology associated with the cosmological tensions and anomalies - ADS. *Harvard*. https://www.harvard.edu
 
-nih.gov
+160. The Dark Matter Crisis | The rise and fall of cosmological hypotheses. *Wordpress*. https://www.wordpress.com
 
-Universe | Special Issue : Universe: Feature Papers 2024—'Cosmology'
+161. Cosmology Intertwined: A Review of the Particle Physics, Astrophysics, and Cosmology Associated with the Cosmological Tensions and Anomalies. *arXiv*. https://arxiv.org/abs/2203.06142
 
-mdpi.com
+162. Tensions in cosmology José Luis Bernal Instituto de Física de Cantabria. *Benasque*. https://www.benasque.org
 
-Cosmology intertwined: A review of the particle physics, astrophysics, and cosmology associated with the cosmological tensions and anomalies - ADS
+163. CosmoVerse@Kraków (9-July 11, 2024): Hubble tension and its redshift tomography · Indico. *Uj*. https://www.uj.edu.pl
 
-harvard.edu
+164. On data set tensions and signatures of new cosmological physics | Monthly Notices of the Royal Astronomical Society: Letters | Oxford Academic. *Oxford Academic*. https://academic.oup.com
 
-The Dark Matter Crisis | The rise and fall of cosmological hypotheses
-
-wordpress.com
-
-[2203.06142] Cosmology Intertwined: A Review of the Particle Physics, Astrophysics, and Cosmology Associated with the Cosmological Tensions and Anomalies
-
-arxiv.org
-
-Tensions in cosmology José Luis Bernal Instituto de Física de Cantabria
-
-benasque.org
-
-CosmoVerse@Kraków (9-July 11, 2024): Hubble tension and its redshift tomography · Indico
-
-uj.edu.pl
-
-On data set tensions and signatures of new cosmological physics | Monthly Notices of the Royal Astronomical Society: Letters | Oxford Academic
-
-oup.com
-
-CosmoVerse@Istanbul 2025 – CosmoVerse • COST Action CA21136
-
-cosmoversetensions.eu
+165. CosmoVerse@Istanbul 2025 – CosmoVerse • COST Action CA21136. *Cosmoverse*. https://cosmoversetensions.eu
 
 ## quantum geometric tensor calculation
 
-10 results
+166. Measurements of the quantum geometric tensor in solids | Nature Physics. *Nature*. https://www.nature.com
 
-Measurements of the quantum geometric tensor in solids | Nature Physics
+167. Experimental measurement of the quantum geometric tensor using coupled qubits in diamond - PMC. *Nih*. https://www.nih.gov
 
-nature.com
+168. The quantum geometric tensor from generating functions. *arXiv*. https://arxiv.org/abs/1904.01559
 
-Experimental measurement of the quantum geometric tensor using coupled qubits in diamond - PMC
+169. Experimental measurement of the quantum geometric tensor using coupled qubits in diamond | National Science Review | Oxford Academic. *Oxford Academic*. https://academic.oup.com
 
-nih.gov
+170. Time-dependent quantum geometric tensor and some applications. *arXiv*. https://arxiv.org/abs/2502.01788
 
-[1904.01559] The quantum geometric tensor from generating functions
+171. Quantum geometric tensor in systems with fractional band dispersion. *Arxiv*. https://arxiv.org
 
-arxiv.org
+172. Quantum Geometric Tensor (Fubini-Study Metric) in Simple Quantum System: A pedagogical Introduction. *arXiv*. https://arxiv.org/abs/1012.1337
 
-Experimental measurement of the quantum geometric tensor using coupled qubits in diamond | National Science Review | Oxford Academic
+173. Mathematical foundation of the UN(1) quantum geometric tensor - ScienceDirect. *Sciencedirect*. https://www.sciencedirect.com
 
-oup.com
+174. The Quantum Geometric Tensor in a Parameter-Dependent Curved Space - PMC. *Nih*. https://www.nih.gov
 
-[2502.01788] Time-dependent quantum geometric tensor and some applications
-
-arxiv.org
-
-Quantum geometric tensor in systems with fractional band dispersion
-
-arxiv.org
-
-[1012.1337] Quantum Geometric Tensor (Fubini-Study Metric) in Simple Quantum System: A pedagogical Introduction
-
-arxiv.org
-
-Mathematical foundation of the UN(1) quantum geometric tensor - ScienceDirect
-
-sciencedirect.com
-
-The Quantum Geometric Tensor in a Parameter-Dependent Curved Space - PMC
-
-nih.gov
-
-[2412.17809] Measurements of the quantum geometric tensor in solids
-
-arxiv.org
+175. Measurements of the quantum geometric tensor in solids. *arXiv*. https://arxiv.org/abs/2412.17809
 
 ## quantum metric classical limit
 
-10 results
+176. Classical limit of quantum mechanics - Physics Stack Exchange. *Stackexchange*. https://www.stackexchange.com
 
-Classical limit of quantum mechanics - Physics Stack Exchange
+177. Frontiers | Classical Limit of Quantum Mechanics for Damped Driven Oscillatory Systems: Quantum–Classical Correspondence. *Frontiersin*. https://www.frontiersin.org
 
-stackexchange.com
+178. mp.mathematical physics - Classical limit of quantum mechanics - MathOverflow. *Mathoverflow*. https://www.mathoverflow.net
 
-Frontiers | Classical Limit of Quantum Mechanics for Damped Driven Oscillatory Systems: Quantum–Classical Correspondence
+179. The classical limit of quantum partition functions | Communications in Mathematical Physics. *Springer*. https://link.springer.com
 
-frontiersin.org
+180. The Classical-Quantum Limit | PRX Quantum. *Phys Rev*. https://journals.aps.org
 
-mp.mathematical physics - Classical limit of quantum mechanics - MathOverflow
+181. Classical limit - Wikipedia. *Wikipedia*. https://en.wikipedia.org
 
-mathoverflow.net
+182. The classical limit of quantum theory. *arXiv*. https://arxiv.org/abs/quant-ph/9504016
 
-The classical limit of quantum partition functions | Communications in Mathematical Physics
+183. (PDF) On the Classical Limit of Quantum Mechanics. *Researchgate*. https://www.researchgate.net
 
-springer.com
+184. On the Classical Limit of Quantum Mechanics | Foundations of Physics. *Springer*. https://link.springer.com
 
-The Classical-Quantum Limit | PRX Quantum
-
-aps.org
-
-Classical limit - Wikipedia
-
-wikipedia.org
-
-[quant-ph/9504016] The classical limit of quantum theory
-
-arxiv.org
-
-(PDF) On the Classical Limit of Quantum Mechanics
-
-researchgate.net
-
-On the Classical Limit of Quantum Mechanics | Foundations of Physics
-
-springer.com
-
-Classical Limit of Quantum Mechanics | SpringerLink
-
-springer.com
+185. Classical Limit of Quantum Mechanics | SpringerLink. *Springer*. https://link.springer.com
 
 ## berry curvature continuum limit
 
-10 results
+186. Real space Berry curvature of itinerant electron systems with spin-orbit interaction. *arXiv*. https://arxiv.org/abs/1909.13338
 
-[1909.13338] Real space Berry curvature of itinerant electron systems with spin-orbit interaction
+187. Real-space Berry curvature of itinerant electron systems with spin-orbit interaction | Phys. Rev. B. *Phys Rev*. https://journals.aps.org
 
-arxiv.org
+188. Chapter 2 Berry Phase, Chern Number. *Ustc*. https://www.ustc.edu.cn
 
-Real-space Berry curvature of itinerant electron systems with spin-orbit interaction | Phys. Rev. B
+189. Abelian and non-Abelian Berry curvatures in lattice QCD. *arXiv*. https://arxiv.org/abs/1712.02218
 
-aps.org
+190. Berry connection and curvature - Wikipedia. *Wikipedia*. https://en.wikipedia.org
 
-Chapter 2 Berry Phase, Chern Number
+191. 3 Berry phases and curvatures. *Iisc*. https://www.iisc.ac.in
 
-ustc.edu.cn
+192. Complex Berry curvature pair and quantum Hall admittance in non-Hermitian systems - IOPscience. *IOP Science*. https://iopscience.iop.org
 
-[1712.02218] Abelian and non-Abelian Berry curvatures in lattice QCD
+193. Berry curvature associated to Fermi arcs in continuum and lattice Weyl systems. *Arxiv*. https://arxiv.org
 
-arxiv.org
+194. Berry Phase - an overview | ScienceDirect Topics. *Sciencedirect*. https://www.sciencedirect.com
 
-Berry connection and curvature - Wikipedia
-
-wikipedia.org
-
-3 Berry phases and curvatures
-
-iisc.ac.in
-
-Complex Berry curvature pair and quantum Hall admittance in non-Hermitian systems - IOPscience
-
-iop.org
-
-Berry curvature associated to Fermi arcs in continuum and lattice Weyl systems
-
-arxiv.org
-
-Berry Phase - an overview | ScienceDirect Topics
-
-sciencedirect.com
-
-[1302.3165] Berry curvature effects in the Bloch oscillations of a quantum particle under a strong (synthetic) magnetic field
-
-arxiv.org
+195. Berry curvature effects in the Bloch oscillations of a quantum particle under a strong (synthetic) magnetic field. *arXiv*. https://arxiv.org/abs/1302.3165
 
 ## tight-binding geometric tensor
 
-10 results
+196. Quantum geometric tensor in systems with fractional band dispersion. *Arxiv*. https://arxiv.org
 
-Quantum geometric tensor in systems with fractional band dispersion
+197. Abstract. *Arxiv*. https://arxiv.org
 
-arxiv.org
+198. Geometric bound on structure factor. *Arxiv*. https://arxiv.org
 
-Abstract
+199. Quantum geometry of common semiconductors. *Arxiv*. https://arxiv.org
 
-arxiv.org
+200. Tight binding - Wikipedia. *Wikipedia*. https://en.wikipedia.org
 
-Geometric bound on structure factor
+201. Machine learning method for tight-binding Hamiltonian parameterization from ab-initio band structure | npj Computational Materials. *Nature*. https://www.nature.com
 
-arxiv.org
+202. (PDF) Measurements of the quantum geometric tensor in solids. *Researchgate*. https://www.researchgate.net
 
-Quantum geometry of common semiconductors
+203. An introduction to the tight binding approximation—. *Gnm*. https://www.gnm.cl
 
-arxiv.org
+204. Measurements of the quantum geometric tensor in solids | Request PDF. *Researchgate*. https://www.researchgate.net
 
-Tight binding - Wikipedia
-
-wikipedia.org
-
-Machine learning method for tight-binding Hamiltonian parameterization from ab-initio band structure | npj Computational Materials
-
-nature.com
-
-(PDF) Measurements of the quantum geometric tensor in solids
-
-researchgate.net
-
-An introduction to the tight binding approximation—
-
-gnm.cl
-
-Measurements of the quantum geometric tensor in solids | Request PDF
-
-researchgate.net
-
-Accurate Many-Body Repulsive Potentials for Density-Functional Tight Binding from Deep Tensor Neural Networks | The Journal of Physical Chemistry Letters
-
-acs.org
+205. Accurate Many-Body Repulsive Potentials for Density-Functional Tight Binding from Deep Tensor Neural Networks | The Journal of Physical Chemistry Letters. *Acs*. https://www.acs.org
 
 ## berry phase classical correspondence
 
-10 results
+206. On the correspondence between classical geometric phase of gyro-motion and quantum Berry phase | Physics of Plasmas | AIP Publishing. *Scitation*. https://www.scitation.org
 
-On the correspondence between classical geometric phase of gyro-motion and quantum Berry phase | Physics of Plasmas | AIP Publishing
+207. Berry’s Phase Sebastian Stengele. *Ethz*. https://www.ethz.ch
 
-scitation.org
+208. On the correspondence between classical geometric phase of gyro-motion and quantum Berry phase. *arXiv*. https://arxiv.org/abs/1609.02522
 
-Berry’s Phase Sebastian Stengele
+209. Classical Analogues to Berry’s Phase. *Researchgate*. https://www.researchgate.net
 
-ethz.ch
+210. Some connections between classical and quantum anholonomy | Phys. Rev. D. *Phys Rev*. https://journals.aps.org
 
-[1609.02522] On the correspondence between classical geometric phase of gyro-motion and quantum Berry phase
+211. Phase-space approach to Berry's phases. *arXiv*. https://arxiv.org/abs/quant-ph/0406026
 
-arxiv.org
+212. Berry connection and curvature - Wikipedia. *Wikipedia*. https://en.wikipedia.org
 
-Classical Analogues to Berry’s Phase
+213. Geometric phase - Wikipedia. *Wikipedia*. https://en.wikipedia.org
 
-researchgate.net
+214. Lecture 5 Berry’s Phase. *Cornell*. https://www.cornell.edu
 
-Some connections between classical and quantum anholonomy | Phys. Rev. D
-
-aps.org
-
-[quant-ph/0406026] Phase-space approach to Berry's phases
-
-arxiv.org
-
-Berry connection and curvature - Wikipedia
-
-wikipedia.org
-
-Geometric phase - Wikipedia
-
-wikipedia.org
-
-Lecture 5 Berry’s Phase
-
-cornell.edu
-
-Berry's Phase - Pines Lab - University of California, Berkeley
-
-berkeley.edu
+215. Berry's Phase - Pines Lab - University of California, Berkeley. *Berkeley*. https://www.berkeley.edu
 
 ## quantum geometric tensor lattice models
 
-10 results
+216. Extracting the Quantum Geometric Tensor of an Optical Raman Lattice by Bloch State Tomography. *arXiv*. https://arxiv.org/abs/2301.06090
 
-[2301.06090] Extracting the Quantum Geometric Tensor of an Optical Raman Lattice by Bloch State Tomography
+217. When Less is More: Approximating the Quantum Geometric Tensor with Block Structures. *Arxiv*. https://arxiv.org
 
-arxiv.org
+218. Quantum geometric tensor and the topological characterization of the extended Su-Schrieffer-Heeger model. *Arxiv*. https://arxiv.org
 
-When Less is More: Approximating the Quantum Geometric Tensor with Block Structures
+219. Manifestation of the quantum metric in chiral lattice systems | Communications Physics. *Nature*. https://www.nature.com
 
-arxiv.org
+220. Quantum geometric tensor and wavepacket dynamics in two-dimensional non-Hermitian systems | Phys. Rev. Research. *Phys Rev*. https://journals.aps.org
 
-Quantum geometric tensor and the topological characterization of the extended Su-Schrieffer-Heeger model
+221. Non-Abelian quantum geometric tensor in degenerate topological semimetals | Phys. Rev. A. *Phys Rev*. https://journals.aps.org
 
-arxiv.org
+222. Extracting the quantum geometric tensor of an optical Raman lattice by Bloch-state tomography | Phys. Rev. Research. *Phys Rev*. https://journals.aps.org
 
-Manifestation of the quantum metric in chiral lattice systems | Communications Physics
+223. (PDF) Measurements of the quantum geometric tensor in solids. *Researchgate*. https://www.researchgate.net
 
-nature.com
+224. Experimental measurement of the quantum geometric tensor using coupled qubits in diamond | National Science Review | Oxford Academic. *Oxford Academic*. https://academic.oup.com
 
-Quantum geometric tensor and wavepacket dynamics in two-dimensional non-Hermitian systems | Phys. Rev. Research
-
-aps.org
-
-Non-Abelian quantum geometric tensor in degenerate topological semimetals | Phys. Rev. A
-
-aps.org
-
-Extracting the quantum geometric tensor of an optical Raman lattice by Bloch-state tomography | Phys. Rev. Research
-
-aps.org
-
-(PDF) Measurements of the quantum geometric tensor in solids
-
-researchgate.net
-
-Experimental measurement of the quantum geometric tensor using coupled qubits in diamond | National Science Review | Oxford Academic
-
-oup.com
-
-[2502.01788] Time-dependent quantum geometric tensor and some applications
-
-arxiv.org
+225. Time-dependent quantum geometric tensor and some applications. *arXiv*. https://arxiv.org/abs/2502.01788
 
 ## Poisson bracket Berry phase metriplectic
 
-10 results
+226. Recursive properties of Dirac and metriplectic Dirac brackets with applications - ScienceDirect. *Sciencedirect*. https://www.sciencedirect.com
 
-Recursive properties of Dirac and metriplectic Dirac brackets with applications - ScienceDirect
+227. A Generalized Metriplectic System via Free Energy and System Identification via Bilevel Convex Optimization. *Arxiv*. https://arxiv.org
 
-sciencedirect.com
+228. An inclusive curvature-like framework for describing dissipation: metriplectic 4-bracket dynamics. *arXiv*. https://arxiv.org/abs/2306.06787
 
-A Generalized Metriplectic System via Free Energy and System Identification via Bilevel Convex Optimization
+229. Metriplectic structure, Leibniz dynamics and dissipative systems - ScienceDirect. *Sciencedirect*. https://www.sciencedirect.com
 
-arxiv.org
+230. Metriplectic bracket for guiding-center Vlasov-Maxwell-Landau theory. *Arxiv*. https://arxiv.org
 
-[2306.06787] An inclusive curvature-like framework for describing dissipation: metriplectic 4-bracket dynamics
+231. Dissipative brackets for the Fokker–Planck equation in Hamiltonian systems and characterization of metriplectic manifolds - ScienceDirect. *Sciencedirect*. https://www.sciencedirect.com
 
-arxiv.org
+232. Metriplectic formulations of variational thermodynamics. *Arxiv*. https://arxiv.org
 
-Metriplectic structure, Leibniz dynamics and dissipative systems - ScienceDirect
+233. Poisson bracket - Wikipedia. *Wikipedia*. https://en.wikipedia.org
 
-sciencedirect.com
+234. (PDF) Metriplectic 4-bracket algorithm for constructing thermodynamically consistent dynamical systems. *Researchgate*. https://www.researchgate.net
 
-Metriplectic bracket for guiding-center Vlasov-Maxwell-Landau theory
-
-arxiv.org
-
-Dissipative brackets for the Fokker–Planck equation in Hamiltonian systems and characterization of metriplectic manifolds - ScienceDirect
-
-sciencedirect.com
-
-Metriplectic formulations of variational thermodynamics
-
-arxiv.org
-
-Poisson bracket - Wikipedia
-
-wikipedia.org
-
-(PDF) Metriplectic 4-bracket algorithm for constructing thermodynamically consistent dynamical systems
-
-researchgate.net
-
-Energetically consistent model reduction for metriplectic systems - ScienceDirect
-
-sciencedirect.com
+235. Energetically consistent model reduction for metriplectic systems - ScienceDirect. *Sciencedirect*. https://www.sciencedirect.com
 
 ## quantum to classical correspondence Hamiltonian structure
 
-10 results
+236. Correspondence principle - Wikipedia. *Wikipedia*. https://en.wikipedia.org
 
-Correspondence principle - Wikipedia
+237. 18.3: Hamiltonian in Quantum Theory - Physics LibreTexts. *Libretexts*. https://www.libretexts.org
 
-wikipedia.org
+238. hilbert space - Are the classical hamiltonian and quantum hamiltonian different types of objects? - Physics Stack Exchange. *Stackexchange*. https://www.stackexchange.com
 
-18.3: Hamiltonian in Quantum Theory - Physics LibreTexts
+239. Chaos and quantum-classical correspondence via phase-space distribution functions | Phys. Rev. A. *Phys Rev*. https://journals.aps.org
 
-libretexts.org
+240. Hamiltonian in Quantum vs Classical. *Physicsforums*. https://www.physicsforums.com
 
-hilbert space - Are the classical hamiltonian and quantum hamiltonian different types of objects? - Physics Stack Exchange
+241. CLASSICAL AND QUANTUM COMPLEX DYNAMICS. *Arxiv*. https://arxiv.org
 
-stackexchange.com
+242. Chapter 2 Quantum statistical mechanics from classical 2.1. *Ox*. https://www.ox.ac.uk
 
-Chaos and quantum-classical correspondence via phase-space distribution functions | Phys. Rev. A
+243. Frontiers | Classical Limit of Quantum Mechanics for Damped Driven Oscillatory Systems: Quantum–Classical Correspondence. *Frontiersin*. https://www.frontiersin.org
 
-aps.org
+244. The Particle in a Box in Koopman–von Neumann Mechanics: A Hilbert Space representation of Classical Mechanics. *Arxiv*. https://arxiv.org
 
-Hamiltonian in Quantum vs Classical
-
-physicsforums.com
-
-CLASSICAL AND QUANTUM COMPLEX DYNAMICS
-
-arxiv.org
-
-Chapter 2 Quantum statistical mechanics from classical 2.1
-
-ox.ac.uk
-
-Frontiers | Classical Limit of Quantum Mechanics for Damped Driven Oscillatory Systems: Quantum–Classical Correspondence
-
-frontiersin.org
-
-The Particle in a Box in Koopman–von Neumann Mechanics: A Hilbert Space representation of Classical Mechanics
-
-arxiv.org
-
-How the Hamiltonian of a classical system expressed in quantum mechanics? - Physics Stack Exchange
-
-stackexchange.com
+245. How the Hamiltonian of a classical system expressed in quantum mechanics? - Physics Stack Exchange. *Stackexchange*. https://www.stackexchange.com
 
 ## string theory current status 2024
 
-10 results
+246. String theory is not dead | Knowable Magazine. *Knowablemagazine*. https://www.knowablemagazine.org
 
-String theory is not dead | Knowable Magazine
+247. String theory is not dead yet. *Astronomy*. https://www.astronomy.com
 
-knowablemagazine.org
+248. Strings 2024 | Not Even Wrong. *Columbia*. https://www.columbia.edu
 
-String theory is not dead yet
+249. String Theory - latest research news and features. *Phys*. https://phys.org
 
-astronomy.com
+250. Physicists ‘Bootstrap’ Validity of String Theory. *Nyu*. https://www.nyu.edu
 
-Strings 2024 | Not Even Wrong
+251. Physicists 'bootstrap' validity of string theory | ScienceDaily. *Sciencedaily*. https://www.sciencedaily.com
 
-columbia.edu
+252. An intricate web of interconnected strings – CERN Courier. *Cerncourier*. https://www.cerncourier.com
 
-String Theory - latest research news and features
+253. The Crisis in String Theory is Worse Than You Think… | Not Even Wrong. *Columbia*. https://www.columbia.edu
 
-phys.org
+254. What is the current status of string theory? Are physicists still working on it? Do some people think it will eventually lead to nowhere? - Quora. *Quora*. https://www.quora.com
 
-Physicists ‘Bootstrap’ Validity of String Theory
-
-nyu.edu
-
-Physicists 'bootstrap' validity of string theory | ScienceDaily
-
-sciencedaily.com
-
-An intricate web of interconnected strings – CERN Courier
-
-cerncourier.com
-
-The Crisis in String Theory is Worse Than You Think… | Not Even Wrong
-
-columbia.edu
-
-What is the current status of string theory? Are physicists still working on it? Do some people think it will eventually lead to nowhere? - Quora
-
-quora.com
-
-String theory provides a new take on the expansion of the Universe - Advanced Science News
-
-advancedsciencenews.com
+255. String theory provides a new take on the expansion of the Universe - Advanced Science News. *Advancedsciencenews*. https://www.advancedsciencenews.com
 
 ## string theory vacuum selection 2024
 
-10 results
+256. Dynamical vacuum selection in string theory - ScienceDirect. *Sciencedirect*. https://www.sciencedirect.com
 
-Dynamical vacuum selection in string theory - ScienceDirect
+257. String theory landscape - Wikipedia. *Wikipedia*. https://en.wikipedia.org
 
-sciencedirect.com
+258. Vacuum in string theory - Physics Stack Exchange. *Stackexchange*. https://www.stackexchange.com
 
-String theory landscape - Wikipedia
+259. The world in a grain of sand: Condensing the string vacuum degeneracy - ScienceDirect. *Sciencedirect*. https://www.sciencedirect.com
 
-wikipedia.org
+260. What are Vacua? (A Point about the String Landscape) | 4 gravitons. *4Gravitons*. https://4gravitons.com
 
-Vacuum in string theory - Physics Stack Exchange
+261. Vacuum Selection from Cosmology on Networks of String Geometries | Phys. Rev. Lett. *Doi*. https://www.doi.org
 
-stackexchange.com
+262. landscape of string theory vacua in nLab. *Ncatlab*. https://www.ncatlab.org
 
-The world in a grain of sand: Condensing the string vacuum degeneracy - ScienceDirect
+263. Vacua in String Theory. *Diva-Portal*. https://www.diva-portal.org
 
-sciencedirect.com
+264. String theory is not dead | Knowable Magazine. *Knowablemagazine*. https://www.knowablemagazine.org
 
-What are Vacua? (A Point about the String Landscape) | 4 gravitons
-
-4gravitons.com
-
-Vacuum Selection from Cosmology on Networks of String Geometries | Phys. Rev. Lett.
-
-doi.org
-
-landscape of string theory vacua in nLab
-
-ncatlab.org
-
-Vacua in String Theory
-
-diva-portal.org
-
-String theory is not dead | Knowable Magazine
-
-knowablemagazine.org
-
-Geometry and Vacuum Structure in String Theory — Rutgers, The State University of New Jersey
-
-researchwithrutgers.com
+265. Geometry and Vacuum Structure in String Theory — Rutgers, The State University of New Jersey. *Researchwithrutgers*. https://www.researchwithrutgers.com
 
 ## emergent spacetime entanglement string theory
 
-10 results
+266. Induced gravity - Wikipedia. *Wikipedia*. https://en.wikipedia.org
 
-Induced gravity - Wikipedia
+267. Entanglement Entropy in Two-Dimensional String Theory | Phys. Rev. Lett. *Phys Rev*. https://journals.aps.org
 
-wikipedia.org
+268. Entanglement Entropy in Two-Dimensional String Theory - PubMed. *Nih*. https://www.nih.gov
 
-Entanglement Entropy in Two-Dimensional String Theory | Phys. Rev. Lett.
+269. Tangled Up in Spacetime | Scientific American. *Scientificamerican*. https://www.scientificamerican.com
 
-aps.org
+270. One Lab’s Quest to Build Space-Time Out of Quantum Particles | Quanta Magazine. *Quantamagazine*. https://www.quantamagazine.org
 
-Entanglement Entropy in Two-Dimensional String Theory - PubMed
+271. What Is Spacetime Really Made Of? | Scientific American. *Scientificamerican*. https://www.scientificamerican.com
 
-nih.gov
+272. Mediumship, Emergent Spacetime, Entanglement, and String Theory – Ghost History Medium. *Ghosthistorymedium*. https://medium.com
 
-Tangled Up in Spacetime | Scientific American
+273. Spacetime and gravity’s emergence from eternally entangled particles. *Arxiv*. https://arxiv.org
 
-scientificamerican.com
+274. How Quantum Pairs Stitch Space-Time | Quanta Magazine. *Quantamagazine*. https://www.quantamagazine.org
 
-One Lab’s Quest to Build Space-Time Out of Quantum Particles | Quanta Magazine
-
-quantamagazine.org
-
-What Is Spacetime Really Made Of? | Scientific American
-
-scientificamerican.com
-
-Mediumship, Emergent Spacetime, Entanglement, and String Theory – Ghost History Medium
-
-ghosthistorymedium.com
-
-Spacetime and gravity’s emergence from eternally entangled particles
-
-arxiv.org
-
-How Quantum Pairs Stitch Space-Time | Quanta Magazine
-
-quantamagazine.org
-
-Knitting space–time out of quantum entanglement – Physics World
-
-physicsworld.com
+275. Knitting space–time out of quantum entanglement – Physics World. *Physicsworld*. https://physicsworld.com
 
 ## string landscape problem testability
 
-10 results
+276. The landscape and the multiverse: What’s the problem? | Synthese. *Springer*. https://link.springer.com
 
-The landscape and the multiverse: What’s the problem? | Synthese
+277. The Marvels of the String Theory Landscape: Unlocking the Secrets of the Multiverse | by MD Nahidul Hasan Sabit | Medium. *Medium*. https://medium.com
 
-springer.com
+278. What are Vacua? (A Point about the String Landscape) | 4 gravitons. *4Gravitons*. https://4gravitons.com
 
-The Marvels of the String Theory Landscape: Unlocking the Secrets of the Multiverse | by MD Nahidul Hasan Sabit | Medium
+279. The Landscape and the Multiverse: What's the Problem? - PhilSci-Archive. *Pitt*. https://www.pitt.edu
 
-medium.com
+280. The String Theory Landscape | Stanford Report. *Stanford*. https://www.stanford.edu
 
-What are Vacua? (A Point about the String Landscape) | 4 gravitons
+281. The String Theory Landscape. *Mdpi*. https://www.mdpi.com
 
-4gravitons.com
+282. String theory landscape - Wikipedia. *Wikipedia*. https://en.wikipedia.org
 
-The Landscape and the Multiverse: What's the Problem? - PhilSci-Archive
+283. Is String Theory Testable? (Part II) | Not Even Wrong. *Columbia*. https://www.columbia.edu
 
-pitt.edu
+284. This Week’s Hype | Not Even Wrong. *Columbia*. https://www.columbia.edu
 
-The String Theory Landscape | Stanford Report
-
-stanford.edu
-
-The String Theory Landscape
-
-mdpi.com
-
-String theory landscape - Wikipedia
-
-wikipedia.org
-
-Is String Theory Testable? (Part II) | Not Even Wrong
-
-columbia.edu
-
-This Week’s Hype | Not Even Wrong
-
-columbia.edu
-
-String Theory May Create Far Fewer Universes Than Thought | Scientific American
-
-scientificamerican.com
+285. String Theory May Create Far Fewer Universes Than Thought | Scientific American. *Scientificamerican*. https://www.scientificamerican.com
 
 ## AdS/CFT ER=EPR recent developments 2023 2024
 
-10 results
+286. (PDF) How the ER = EPR, GR = QM and AdS/CFT correspondence conjectures, can be explained in multi-fold theory and the E/G conjecture explains and realize in a multi-fold universe. A call to the Physics Community!. *Researchgate*. https://www.researchgate.net
 
-(PDF) How the ER = EPR, GR = QM and AdS/CFT correspondence conjectures, can be explained in multi-fold theory and the E/G conjecture explains and realize in a multi-fold universe. A call to the Physics Community!
+287. What is the AdS/CFT Conjecture? | Not Even Wrong. *Columbia*. https://www.columbia.edu
 
-researchgate.net
+288. Introduction to the AdS/CFT correspondence Alberto Zaﬀaroni1. *Cern*. https://home.cern
 
-What is the AdS/CFT Conjecture? | Not Even Wrong
+289. Closed FRW holography: a time-dependent ER=EPR realization | Journal of High Energy Physics. *Springer*. https://link.springer.com
 
-columbia.edu
+290. How would you describe the relation between ER=EPR and AdS/CFT correspondence conjectures? - Quora. *Quora*. https://www.quora.com
 
-Introduction to the AdS/CFT correspondence Alberto Zaﬀaroni1
+291. AdS/CFT correspondence - Wikipedia. *Wikipedia*. https://en.wikipedia.org
 
-cern.ch
+292. ER = EPR - Wikipedia. *Wikipedia*. https://en.wikipedia.org
 
-Closed FRW holography: a time-dependent ER=EPR realization | Journal of High Energy Physics
+293. AdS/CFT Correspondence - beuke.org. *Beuke*. https://www.beuke.org
 
-springer.com
+294. Quanta Magazine Articles on Ads/Cft. *Quantamagazine*. https://www.quantamagazine.org
 
-How would you describe the relation between ER=EPR and AdS/CFT correspondence conjectures? - Quora
-
-quora.com
-
-AdS/CFT correspondence - Wikipedia
-
-wikipedia.org
-
-ER = EPR - Wikipedia
-
-wikipedia.org
-
-AdS/CFT Correspondence - beuke.org
-
-beuke.org
-
-Quanta Magazine Articles on Ads/Cft
-
-quantamagazine.org
-
-Status of AdS/CFT correspondence | ResearchGate
-
-researchgate.net
+295. Status of AdS/CFT correspondence | ResearchGate. *Researchgate*. https://www.researchgate.net
 
 ## "string theory" review 2023 2024 status assessment
 
-10 results
+296. Strings 2024 | Not Even Wrong. *Columbia*. https://www.columbia.edu
 
-Strings 2024 | Not Even Wrong
+297. Physicists 'bootstrap' validity of string theory | ScienceDaily. *Sciencedaily*. https://www.sciencedaily.com
 
-columbia.edu
+298. String theory is not dead | Knowable Magazine. *Knowablemagazine*. https://www.knowablemagazine.org
 
-Physicists 'bootstrap' validity of string theory | ScienceDaily
+299. Strings 2024 | old post. [From my Twitter post about this.]… | by Vaibhav Kalvakota | Medium. *Medium*. https://medium.com
 
-sciencedaily.com
+300. Strings 2024 The Future of String Theory: 100 Open Questions. *Cern*. https://home.cern
 
-String theory is not dead | Knowable Magazine
+301. Strings 2023 | Not Even Wrong. *Columbia*. https://www.columbia.edu
 
-knowablemagazine.org
+302. String theory is not dead yet. *Astronomy*. https://www.astronomy.com
 
-Strings 2024 | old post. [From my Twitter post about this.]… | by Vaibhav Kalvakota | Medium
+303. String Theory Has Failed for 40 Years | NextBigFuture.com. *Nextbigfuture*. https://www.nextbigfuture.com
 
-medium.com
+304. Physicists 'bootstrap' validity of string theory. *Phys*. https://phys.org
 
-Strings 2024 The Future of String Theory: 100 Open Questions
-
-cern.ch
-
-Strings 2023 | Not Even Wrong
-
-columbia.edu
-
-String theory is not dead yet
-
-astronomy.com
-
-String Theory Has Failed for 40 Years | NextBigFuture.com
-
-nextbigfuture.com
-
-Physicists 'bootstrap' validity of string theory
-
-phys.org
-
-An intricate web of interconnected strings – CERN Courier
-
-cerncourier.com
+305. An intricate web of interconnected strings – CERN Courier. *Cerncourier*. https://www.cerncourier.com
 
 ## variational methods tachyonic potential
 
-10 results
+306. (PDF) Simple Model for Tachyons. *Academia*. https://www.academia.edu
 
-(PDF) Simple Model for Tachyons
+307. Variational Method - Chemistry LibreTexts. *Libretexts*. https://www.libretexts.org
 
-academia.edu
+308. The Variational Method: Solved Problems. *Washington*. https://www.washington.edu
 
-Variational Method - Chemistry LibreTexts
+309. Variational Methods. *Illinois*. https://www.illinois.edu
 
-libretexts.org
+310. Variational Methods. *Northeastern*. https://www.northeastern.edu
 
-The Variational Method: Solved Problems
+311. 8 The Variational Principle 8.1. *Ed*. https://www.ed.ac.uk
 
-washington.edu
+312. Variational Methods. *Virginia*. https://www.virginia.edu
 
-Variational Methods
+313. tachyons: Topics by Science.gov. *Science*. https://www.science.gov
 
-illinois.edu
+314. 8.1: Variational Methods - Physics LibreTexts. *Libretexts*. https://www.libretexts.org
 
-Variational Methods
-
-northeastern.edu
-
-8 The Variational Principle 8.1
-
-ed.ac.uk
-
-Variational Methods
-
-virginia.edu
-
-tachyons: Topics by Science.gov
-
-science.gov
-
-8.1: Variational Methods - Physics LibreTexts
-
-libretexts.org
-
-Implementation details of a variational method to solve the time independent Schrödinger equation
-
-scielo.org.mx
+315. Implementation details of a variational method to solve the time independent Schrödinger equation. *Scielo*. https://www.scielo.org.mx
 
 ## Modica-Mortola perimeter reduction
 
-10 results
+316. (PDF) Multiphase Image Segmentation via Modica–Mortola Phase Transition. *Researchgate*. https://www.researchgate.net
 
-(PDF) Multiphase Image Segmentation via Modica–Mortola Phase Transition
+317. (PDF) Approximation of the relaxed perimeter functional under a connectedness constraint by phase-fields. *Researchgate*. https://www.researchgate.net
 
-researchgate.net
+318. Modica-Mortola Theorem | Beni Bogoşel's blog. *Wordpress*. https://www.wordpress.com
 
-(PDF) Approximation of the relaxed perimeter functional under a connectedness constraint by phase-fields
+319. A Modica-Mortola Approximation for Branched Transport and Applications | Archive for Rational Mechanics and Analysis. *Springer*. https://link.springer.com
 
-researchgate.net
+320. 1 Modica—Mortola Functional 2 Γ-Convergence. *Cmu*. https://www.cmu.edu
 
-Modica-Mortola Theorem | Beni Bogoşel's blog
+321. A Modica–Mortola approximation for branched transport - ScienceDirect. *Sciencedirect*. https://www.sciencedirect.com
 
-wordpress.com
+322. A Modica-Mortola approximation for branched transport. *arXiv*. https://arxiv.org/abs/0909.2930
 
-A Modica-Mortola Approximation for Branched Transport and Applications | Archive for Rational Mechanics and Analysis
+323. arXiv:1710.03644v1 [math.AP] 10 Oct 2017. *Arxiv*. https://arxiv.org
 
-springer.com
+324. A Modica–Mortola approximation for branched transport. *Numdam*. https://www.numdam.org
 
-1 Modica—Mortola Functional 2 Γ-Convergence
-
-cmu.edu
-
-A Modica–Mortola approximation for branched transport - ScienceDirect
-
-sciencedirect.com
-
-[0909.2930] A Modica-Mortola approximation for branched transport
-
-arxiv.org
-
-arXiv:1710.03644v1 [math.AP] 10 Oct 2017
-
-arxiv.org
-
-A Modica–Mortola approximation for branched transport
-
-numdam.org
-
-Variational models for phase transitions An approach via Γ-convergence
-
-researchgate.net
+325. Variational models for phase transitions An approach via Γ-convergence. *Researchgate*. https://www.researchgate.net
 
 ## Γ-convergence phase separation
 
-10 results
+326. Gamma Convergence for the de Gennes-Cahn-Hilliard energy. *arXiv*. https://arxiv.org/abs/2210.16492
 
-[2210.16492] Gamma Convergence for the de Gennes-Cahn-Hilliard energy
+327. gamma convergence and applications to phase transitions. *Univie*. https://www.univie.ac.at
 
-arxiv.org
+328. Applications of Two Scale Gamma Convergence to Composite Non-classical Materials. *Cmu*. https://www.cmu.edu
 
-gamma convergence and applications to phase transitions
+329. An elliptic approximation for phase separation in a fractured material. *Researchgate*. https://www.researchgate.net
 
-univie.ac.at
+330. (PDF) Gamma-Convergence of Higher-Order Phase Transition Models. *Researchgate*. https://www.researchgate.net
 
-Applications of Two Scale Gamma Convergence to Composite Non-classical Materials
+331. Gamma Convergence of partially segregated elliptic systems. *Arxiv*. https://arxiv.org
 
-cmu.edu
+332. Homogenization and Phase Separation with Space Dependent Wells: The Subcritical Case | Archive for Rational Mechanics and Analysis. *Springer*. https://link.springer.com
 
-An elliptic approximation for phase separation in a fractured material
+333. Γ-convergence for nonlocal phase transitions. *Researchgate*. https://www.researchgate.net
 
-researchgate.net
+334. Phase separation on varying surfaces and convergence of diffuse interface approximations. *Arxiv*. https://arxiv.org
 
-(PDF) Gamma-Convergence of Higher-Order Phase Transition Models
-
-researchgate.net
-
-Gamma Convergence of partially segregated elliptic systems
-
-arxiv.org
-
-Homogenization and Phase Separation with Space Dependent Wells: The Subcritical Case | Archive for Rational Mechanics and Analysis
-
-springer.com
-
-Γ-convergence for nonlocal phase transitions
-
-researchgate.net
-
-Phase separation on varying surfaces and convergence of diffuse interface approximations
-
-arxiv.org
-
-Phase Separation in Heterogeneous Media | SpringerLink
-
-springer.com
+335. Phase Separation in Heterogeneous Media | SpringerLink. *Springer*. https://link.springer.com
 
 ## perimeter reduction Cahn-Hilliard
 
-10 results
+336. Structural optimization of contact problems using Cahn–Hilliard model - ScienceDirect. *Sciencedirect*. https://www.sciencedirect.com
 
-Structural optimization of contact problems using Cahn–Hilliard model - ScienceDirect
+337. Cahn–Hilliard equation - Wikipedia. *Wikipedia*. https://en.wikipedia.org
 
-sciencedirect.com
+338. EUDML | Stationary solutions for the Cahn-Hilliard equation. *Eudml*. https://www.eudml.org
 
-Cahn–Hilliard equation - Wikipedia
+339. arXiv:2112.13812v1 [math.AP] 27 Dec 2021. *Arxiv*. https://arxiv.org
 
-wikipedia.org
+340. Front migration in the nonlinear Cahn-Hilliard equation | Proceedings of the Royal Society of London. A. Mathematical and Physical Sciences. *Royalsocietypublishing*. https://www.royalsocietypublishing.org
 
-EUDML | Stationary solutions for the Cahn-Hilliard equation
+341. Basic Principles and Practical Applications of the Cahn–Hilliard Equation - Kim - 2016 - Mathematical Problems in Engineering - Wiley Online Library. *Hindawi*. https://www.hindawi.com
 
-eudml.org
+342. Second-Order Γ-limit for the Cahn–Hilliard Functional | Archive for Rational Mechanics and Analysis. *Springer*. https://link.springer.com
 
-arXiv:2112.13812v1 [math.AP] 27 Dec 2021
+343. Simulation and Control of a Nonsmooth Cahn–Hilliard Navier&#8211. *Springer*. https://link.springer.com
 
-arxiv.org
+344. Cahn-Hilliard equation — DOLFINx 0.10.0.0 documentation. *Fenicsproject*. https://www.fenicsproject.org
 
-Front migration in the nonlinear Cahn-Hilliard equation | Proceedings of the Royal Society of London. A. Mathematical and Physical Sciences
-
-royalsocietypublishing.org
-
-Basic Principles and Practical Applications of the Cahn–Hilliard Equation - Kim - 2016 - Mathematical Problems in Engineering - Wiley Online Library
-
-hindawi.com
-
-Second-Order Γ-limit for the Cahn–Hilliard Functional | Archive for Rational Mechanics and Analysis
-
-springer.com
-
-Simulation and Control of a Nonsmooth Cahn–Hilliard Navier&#8211
-
-springer.com
-
-Cahn-Hilliard equation — DOLFINx 0.10.0.0 documentation
-
-fenicsproject.org
-
-Finite Element Approximation of the Cahn--Hilliard ...
-
-uni-regensburg.de
+345. Finite Element Approximation of the Cahn--Hilliard . *Uni-Regensburg*. https://www.uni-regensburg.de
 
 ## energy scaling interfaces phase separation
 
-10 results
+346. A scaling law to determine phase morphologies during ion intercalation - Energy & Environmental Science (RSC Publishing) DOI:10.1039/D0EE00653J. *Rsc*. https://www.rsc.org
 
-A scaling law to determine phase morphologies during ion intercalation - Energy & Environmental Science (RSC Publishing) DOI:10.1039/D0EE00653J
+347. Reincarnations of the phase separation problem | Nature Communications. *Nature*. https://www.nature.com
 
-rsc.org
+348. Liquid-liquid phase transitions within cells · neherlab@biozentrum. *Neherlab*. https://www.neherlab.org
 
-Reincarnations of the phase separation problem | Nature Communications
+349. Untitled Document. *Arxiv*. https://arxiv.org
 
-nature.com
+350. Synthesis of semicrystalline nanocapsular structures obtained by Thermally Induced Phase Separation in nanoconfinement | Scientific Reports. *Nature*. https://www.nature.com
 
-Liquid-liquid phase transitions within cells · neherlab@biozentrum
+351. Phase separation in fluids with many interacting components | PNAS. *PNAS*. https://www.pnas.org
 
-neherlab.org
+352. Active phase separation: new phenomenology from non-equilibrium physics. *Arxiv*. https://arxiv.org
 
-Untitled Document
+353. Phase separation of a binary mixture with an external force field - ScienceDirect. *Sciencedirect*. https://www.sciencedirect.com
 
-arxiv.org
+354. Phase Separation in Binary Alloys - Modeling Approaches | SpringerLink. *Springer*. https://link.springer.com
 
-Synthesis of semicrystalline nanocapsular structures obtained by Thermally Induced Phase Separation in nanoconfinement | Scientific Reports
-
-nature.com
-
-Phase separation in fluids with many interacting components | PNAS
-
-pnas.org
-
-Active phase separation: new phenomenology from non-equilibrium physics
-
-arxiv.org
-
-Phase separation of a binary mixture with an external force field - ScienceDirect
-
-sciencedirect.com
-
-Phase Separation in Binary Alloys - Modeling Approaches | SpringerLink
-
-springer.com
-
-1 Phase separation in biology
-
-colorado.edu
+355. 1 Phase separation in biology. *Colorado*. https://www.colorado.edu
 
 ## minimal energy connecting maps interfaces
 
-10 results
+356. (PDF) Geometric Analysis of Energy Minimizing Maps: Tangent Maps and Singularities. *Researchgate*. https://www.researchgate.net
 
-(PDF) Geometric Analysis of Energy Minimizing Maps: Tangent Maps and Singularities
+357. Geometric Analysis of Energy Minimizing Maps: Tangent Maps and Singularities. *arXiv*. https://arxiv.org/abs/2405.09661
 
-researchgate.net
+358. US20250190189A1 - Energy-minimal dataflow architecture with programmable on-chip network - Google Patents. *Google*. https://www.google.com
 
-[2405.09661] Geometric Analysis of Energy Minimizing Maps: Tangent Maps and Singularities
+359. Introduction to atomman: Minimum energy paths. *Nist*. https://www.nist.gov
 
-arxiv.org
+360. Construction of a pathway map on a complicated energy landscape. *arXiv*. https://arxiv.org/abs/1909.13182
 
-US20250190189A1 - Energy-minimal dataflow architecture with programmable on-chip network - Google Patents
+361. A novel graph theory based two-stage minimum cost routing mechanism in energy internet - ScienceDirect. *Sciencedirect*. https://www.sciencedirect.com
 
-google.com
+362. Construction of a Pathway Map on a Complicated Energy Landscape | Phys. Rev. Lett. *Phys Rev*. https://journals.aps.org
 
-Introduction to atomman: Minimum energy paths
+363. Finding an Optimal Pathway on a Multidimensional Free-Energy Landscape | Journal of Chemical Information and Modeling. *Acs*. https://www.acs.org
 
-nist.gov
+364. Breaking the synchrony of sliding ferroelectricity and sliding energy barrier | npj Computational Materials. *Nature*. https://www.nature.com
 
-[1909.13182] Construction of a pathway map on a complicated energy landscape
-
-arxiv.org
-
-A novel graph theory based two-stage minimum cost routing mechanism in energy internet - ScienceDirect
-
-sciencedirect.com
-
-Construction of a Pathway Map on a Complicated Energy Landscape | Phys. Rev. Lett.
-
-aps.org
-
-Finding an Optimal Pathway on a Multidimensional Free-Energy Landscape | Journal of Chemical Information and Modeling
-
-acs.org
-
-Breaking the synchrony of sliding ferroelectricity and sliding energy barrier | npj Computational Materials
-
-nature.com
-
-Digital and color energy maps for graphic display of hourly data (Conference) | OSTI.GOV
-
-osti.gov
+365. Digital and color energy maps for graphic display of hourly data (Conference) | OSTI.GOV. *Osti*. https://www.osti.gov
 
 ## phase field hierarchical structure necessity
 
-10 results
+366. Isogeometric analysis and hierarchical refinement for higher-order phase-field models - ScienceDirect. *Sciencedirect*. https://www.sciencedirect.com
 
-Isogeometric analysis and hierarchical refinement for higher-order phase-field models - ScienceDirect
+367. Phase-field model - Wikipedia. *Wikipedia*. https://en.wikipedia.org
 
-sciencedirect.com
+368. Phase Field Model - an overview | ScienceDirect Topics. *Sciencedirect*. https://www.sciencedirect.com
 
-Phase-field model - Wikipedia
+369. PFHub: The Phase Field Community Hub. *Nist*. https://www.nist.gov
 
-wikipedia.org
+370. Benchmarking Phase Field Methods | Center for Hierarchical Materials Design. *Northwestern*. https://www.northwestern.edu
 
-Phase Field Model - an overview | ScienceDirect Topics
+371. Phase Field Modelling. *Cam*. https://www.cam.ac.uk
 
-sciencedirect.com
+372. Model Formulation — Phase Field Method Recommended Practices. *Nist*. https://www.nist.gov
 
-PFHub: The Phase Field Community Hub
+373. Phase-Field Methods in Material Science and Engineering
 
-nist.gov
+374. Basic Phase Field Equations | MOOSE. *Inl*. https://www.inl.gov
 
-Benchmarking Phase Field Methods | Center for Hierarchical Materials Design
-
-northwestern.edu
-
-Phase Field Modelling
-
-cam.ac.uk
-
-Model Formulation — Phase Field Method Recommended Practices
-
-nist.gov
-
-Phase-Field Methods in Material Science and Engineering
-
-mcgill.ca
-
-Basic Phase Field Equations | MOOSE
-
-inl.gov
-
-(PDF) An Introduction to Phase-Field Modeling of Microstructure Evolution
-
-researchgate.net
+375. (PDF) An Introduction to Phase-Field Modeling of Microstructure Evolution. *Researchgate*. https://www.researchgate.net
 
 ## interface scaling log N variational
 
-10 results
+376. Arxiv. *Arxiv*. https://arxiv.org
 
-Arxiv
+377. Classical splitting of parametrized quantum circuits | Quantum Machine Intelligence. *Springer*. https://link.springer.com
 
-arxiv.org
+378. Scaling of variational quantum circuit depth for condensed . *Arxiv*. https://arxiv.org
 
-Classical splitting of parametrized quantum circuits | Quantum Machine Intelligence
+379. Variational problems with free interfaces | Calculus of Variations and Partial Differential Equations. *Springer*. https://link.springer.com
 
-springer.com
+380. neural networks - Why in Variational Auto Encoder (Gaussian variational family) we model $\log\sigma^2$ and not $\sigma^2$ (or $\sigma$) itself? - Cross Validated. *Stackexchange*. https://www.stackexchange.com
 
-Scaling of variational quantum circuit depth for condensed ...
+381. Variational inference. *Github*. https://www.github.io
 
-arxiv.org
+382. Scaling of variational quantum circuit depth for condensed matter systems – Quantum. *Quantum-Journal*. https://www.quantum-journal.org
 
-Variational problems with free interfaces | Calculus of Variations and Partial Differential Equations
+383. Scaling in complex systems: a link between the dynamics of networks and growing interfaces | Scientific Reports. *Nature*. https://www.nature.com
 
-springer.com
+384. Large Language Model Scaling Laws for Neural Quantum States in Quantum Chemistry. *Arxiv*. https://arxiv.org
 
-neural networks - Why in Variational Auto Encoder (Gaussian variational family) we model $\log\sigma^2$ and not $\sigma^2$ (or $\sigma$) itself? - Cross Validated
-
-stackexchange.com
-
-Variational inference
-
-github.io
-
-Scaling of variational quantum circuit depth for condensed matter systems – Quantum
-
-quantum-journal.org
-
-Scaling in complex systems: a link between the dynamics of networks and growing interfaces | Scientific Reports
-
-nature.com
-
-Large Language Model Scaling Laws for Neural Quantum States in Quantum Chemistry
-
-arxiv.org
-
-Interface Problem by Variational Method - NVIDIA Docs
-
-nvidia.com
+385. Interface Problem by Variational Method - NVIDIA Docs. *Nvidia*. https://www.nvidia.com
 
 ## contact geometry thermodynamics
 
-10 results
+386. How exactly is the formalism of thermodynamics based on contact geometry? - Physics Stack Exchange. *Stackexchange*. https://www.stackexchange.com
 
-How exactly is the formalism of thermodynamics based on contact geometry? - Physics Stack Exchange
+387. Contact geometry and thermodynamics. *Inspirehep*. https://www.inspirehep.net
 
-stackexchange.com
+388. Contact Riemannian geometry and thermodynamics - ScienceDirect. *Sciencedirect*. https://www.sciencedirect.com
 
-Contact geometry and thermodynamics
+389. Thermodynamics and contact geometry - Springer Link. *Springer*. https://link.springer.com
 
-inspirehep.net
+390. Contact geometry and thermodynamics | International Journal of Geometric Methods in Modern Physics. *Worldscientific*. https://www.worldscientific.com
 
-Contact Riemannian geometry and thermodynamics - ScienceDirect
+391. Contact geometry and thermodynamics of black holes in AdS spacetimes. *arXiv*. https://arxiv.org/abs/1909.11506
 
-sciencedirect.com
+392. Contact geometry and thermodynamical systems. *Github*. https://www.github.io
 
-Thermodynamics and contact geometry - Springer Link
+393. Contact Symmetries and Hamiltonian Thermodynamics. *arXiv*. https://arxiv.org/abs/1409.7340
 
-springer.com
+394. On contact and metric structures on thermodynamic spaces*. *Kyoto-U*. https://www.kyoto-u.ac.jp
 
-Contact geometry and thermodynamics | International Journal of Geometric Methods in Modern Physics
-
-worldscientific.com
-
-[1909.11506] Contact geometry and thermodynamics of black holes in AdS spacetimes
-
-arxiv.org
-
-Contact geometry and thermodynamical systems
-
-github.io
-
-[1409.7340] Contact Symmetries and Hamiltonian Thermodynamics
-
-arxiv.org
-
-On contact and metric structures on thermodynamic spaces*
-
-kyoto-u.ac.jp
-
-[2004.01989] Contact geometry for simple thermodynamical systems with friction
-
-arxiv.org
+395. Contact geometry for simple thermodynamical systems with friction. *arXiv*. https://arxiv.org/abs/2004.01989
 
 ## GENERIC metriplectic contact geometry
 
-10 results
+396. Irreversible dynamics on Poisson manifolds. *Arxiv*. https://arxiv.org
 
-Irreversible dynamics on Poisson manifolds
+397. Contact geometry - Wikipedia. *Wikipedia*. https://en.wikipedia.org
 
-arxiv.org
+398. GENERIC guide to the multiscale dynamics and thermodynamics - IOPscience. *IOP Science*. https://iopscience.iop.org
 
-Contact geometry - Wikipedia
+399. Geometric Formulation Of GENERIC Stochastic Differential Equations Preserves Boltzmann-Type Measure And Ensures Energy Conservation. *Quantumzeitgeist*. https://quantumzeitgeist.com
 
-wikipedia.org
+400. Geometry of Generalized Lienard Equations, Contact Geometry and Metriplectic Structure - CMSA. *Harvard*. https://www.harvard.edu
 
-GENERIC guide to the multiscale dynamics and thermodynamics - IOPscience
+401. A Generalized Metriplectic System via Free Energy and System Identification via Bilevel Convex Optimization. *Arxiv*. https://arxiv.org
 
-iop.org
+402. A geometric formulation of GENERIC stochastic differential equations. *Arxiv*. https://arxiv.org
 
-Geometric Formulation Of GENERIC Stochastic Differential Equations Preserves Boltzmann-Type Measure And Ensures Energy Conservation
+403. Metriplectic structure, Leibniz dynamics and dissipative systems - ScienceDirect. *Sciencedirect*. https://www.sciencedirect.com
 
-quantumzeitgeist.com
+404. on the role of geometry in statistical mechanics and. *Arxiv*. https://arxiv.org
 
-Geometry of Generalized Lienard Equations, Contact Geometry and Metriplectic Structure - CMSA
-
-harvard.edu
-
-A Generalized Metriplectic System via Free Energy and System Identification via Bilevel Convex Optimization
-
-arxiv.org
-
-A geometric formulation of GENERIC stochastic differential equations
-
-arxiv.org
-
-Metriplectic structure, Leibniz dynamics and dissipative systems - ScienceDirect
-
-sciencedirect.com
-
-on the role of geometry in statistical mechanics and
-
-arxiv.org
-
-Metriplectic structure, Leibniz dynamics and dissipative systems | Request PDF
-
-researchgate.net
+405. Metriplectic structure, Leibniz dynamics and dissipative systems | Request PDF. *Researchgate*. https://www.researchgate.net
 
 ## Reeb vector field thermodynamics
 
-10 results
+406. Reeb vector field - Wikipedia. *Wikipedia*. https://en.wikipedia.org
 
-Reeb vector field - Wikipedia
+407. Floer theories and Reeb dynamics Jo Nelson (IAS & Rice University). *Rice*. https://www.rice.edu
 
-wikipedia.org
+408. Contact Invariants and Reeb Dynamics Jo Nelson Rice University. *Rice*. https://www.rice.edu
 
-Floer theories and Reeb dynamics Jo Nelson (IAS & Rice University)
+409. On vector ﬁelds having properties of Reeb ﬁelds. *Uwm*. https://www.uwm.edu.pl
 
-rice.edu
+410. Unit vector fields of minimum energy on quotients of spheres and stability of the Reeb vector field - ScienceDirect. *Sciencedirect*. https://www.sciencedirect.com
 
-Contact Invariants and Reeb Dynamics Jo Nelson Rice University
+411. NOTES FOR MATH 599: CONTACT GEOMETRY KO HONDA 1. INTRODUCTION. *Ucla*. https://www.ucla.edu
 
-rice.edu
+412. Topological entropy for Reeb vector fields in dimension three . *Centre-Mersenne*. https://www.centre-mersenne.org
 
-On vector ﬁelds having properties of Reeb ﬁelds
+413. The harmonicity of the Reeb vector field with respect to Riemannian g-natural metrics - ScienceDirect. *Sciencedirect*. https://www.sciencedirect.com
 
-uwm.edu.pl
+414. The harmonicity of the Reeb vector field on contact metric 3 . *Msp*. https://www.msp.org
 
-Unit vector fields of minimum energy on quotients of spheres and stability of the Reeb vector field - ScienceDirect
-
-sciencedirect.com
-
-NOTES FOR MATH 599: CONTACT GEOMETRY KO HONDA 1. INTRODUCTION
-
-ucla.edu
-
-Topological entropy for Reeb vector fields in dimension three ...
-
-centre-mersenne.org
-
-The harmonicity of the Reeb vector field with respect to Riemannian g-natural metrics - ScienceDirect
-
-sciencedirect.com
-
-The harmonicity of the Reeb vector field on contact metric 3 ...
-
-msp.org
-
-smooth manifolds - Modifying the Reeb vector field by multplying by a function - MathOverflow
-
-mathoverflow.net
+415. smooth manifolds - Modifying the Reeb vector field by multplying by a function - MathOverflow. *Mathoverflow*. https://www.mathoverflow.net
 
 ## contact hamiltonian systems thermodynamics
 
-10 results
+416. Contact Hamiltonian Dynamics: The Concept and Its Use. *Mdpi*. https://www.mdpi.com
 
-Contact Hamiltonian Dynamics: The Concept and Its Use
+417. Contact symmetries and Hamiltonian thermodynamics - ScienceDirect. *Sciencedirect*. https://www.sciencedirect.com
 
-mdpi.com
+418. (PDF) Contact Hamiltonian Dynamics: The Concept and Its Use. *Researchgate*. https://www.researchgate.net
 
-Contact symmetries and Hamiltonian thermodynamics - ScienceDirect
+419. Contact Symmetries and Hamiltonian Thermodynamics - arXiv. *Arxiv*. https://arxiv.org
 
-sciencedirect.com
+420. A review on contact Hamiltonian and Lagrangian systems. *arXiv*. https://arxiv.org/abs/2011.05579
 
-(PDF) Contact Hamiltonian Dynamics: The Concept and Its Use
+421. Contact Hamiltonian systems A dissertation written by Manuel Lainz Valcázar
 
-researchgate.net
+422. Contact geometry for simple thermodynamical systems with friction | Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences. *Royalsocietypublishing*. https://www.royalsocietypublishing.org
 
-Contact Symmetries and Hamiltonian Thermodynamics - arXiv
+423. Contact structure in thermodynamic theory - ScienceDirect. *Sciencedirect*. https://www.sciencedirect.com
 
-arxiv.org
+424. The Hamilton–Jacobi Theory for Contact Hamiltonian Systems. *Mdpi*. https://www.mdpi.com
 
-[2011.05579] A review on contact Hamiltonian and Lagrangian systems
-
-arxiv.org
-
-Contact Hamiltonian systems A dissertation written by Manuel Lainz Valcázar
-
-icmat.es
-
-Contact geometry for simple thermodynamical systems with friction | Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences
-
-royalsocietypublishing.org
-
-Contact structure in thermodynamic theory - ScienceDirect
-
-sciencedirect.com
-
-The Hamilton–Jacobi Theory for Contact Hamiltonian Systems
-
-mdpi.com
-
-Homogeneous Hamiltonian Control Systems Part I: Geometric Formulation - ScienceDirect
-
-sciencedirect.com
+425. Homogeneous Hamiltonian Control Systems Part I: Geometric Formulation - ScienceDirect. *Sciencedirect*. https://www.sciencedirect.com
 
 ## geometric thermodynamics contact manifolds 2020-2025
 
-10 results
+426. Contact geometry for simple thermodynamical systems with friction | Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences. *Royalsocietypublishing*. https://www.royalsocietypublishing.org
 
-Contact geometry for simple thermodynamical systems with friction | Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences
+427. Contact structure in thermodynamic theory - ScienceDirect. *Sciencedirect*. https://www.sciencedirect.com
 
-royalsocietypublishing.org
+428. On Geometry of Dissipation in Multiscale Dynamics and Thermodynamics. *Arxiv*. https://arxiv.org
 
-Contact structure in thermodynamic theory - ScienceDirect
+429. Contact Symmetries and Hamiltonian Thermodynamics - arXiv. *Arxiv*. https://arxiv.org
 
-sciencedirect.com
+430. How exactly is the formalism of thermodynamics based on contact geometry? - Physics Stack Exchange. *Stackexchange*. https://www.stackexchange.com
 
-On Geometry of Dissipation in Multiscale Dynamics and Thermodynamics
+431. Contact Geometry and Thermodynamics | Request PDF. *Researchgate*. https://www.researchgate.net
 
-arxiv.org
+432. Contact geometry and thermodynamics | International Journal of Geometric Methods in Modern Physics. *Worldscientific*. https://www.worldscientific.com
 
-Contact Symmetries and Hamiltonian Thermodynamics - arXiv
+433. Legendre submanifolds in contact manifolds as attractors and geometric nonequilibrium thermodynamics. *arXiv*. https://arxiv.org/abs/1412.5780
 
-arxiv.org
+434. Geometry of non-equilibrium thermodynamics: a homogeneous symplectic approach. *Github*. https://www.github.io
 
-How exactly is the formalism of thermodynamics based on contact geometry? - Physics Stack Exchange
-
-stackexchange.com
-
-Contact Geometry and Thermodynamics | Request PDF
-
-researchgate.net
-
-Contact geometry and thermodynamics | International Journal of Geometric Methods in Modern Physics
-
-worldscientific.com
-
-[1412.5780] Legendre submanifolds in contact manifolds as attractors and geometric nonequilibrium thermodynamics
-
-arxiv.org
-
-Geometry of non-equilibrium thermodynamics: a homogeneous symplectic approach
-
-github.io
-
-[math-ph/0703061] Quantization of Contact Manifolds and Thermodynamics
-
-arxiv.org
+435. Quantization of Contact Manifolds and Thermodynamics. *arXiv*. https://arxiv.org/abs/math-ph/0703061
 
 ## symplectic riemannian unification metriplectic
 
-10 results
+436. A Generalized Metriplectic System via Free Energy and System Identification via Bilevel Convex Optimization. *Arxiv*. https://arxiv.org
 
-A Generalized Metriplectic System via Free Energy and System Identification via Bilevel Convex Optimization
+437. Jean-Marie Souriau’s Symplectic Foliation Model of Sadi Carnot’s Thermodynamics - PMC. *Nih*. https://www.nih.gov
 
-arxiv.org
+438. Metric Degeneracies and Gradient Flows on symplectic leaves. *Arxiv*. https://arxiv.org
 
-Jean-Marie Souriau’s Symplectic Foliation Model of Sadi Carnot’s Thermodynamics - PMC
+439. Irreversible dynamics on Poisson manifolds. *Arxiv*. https://arxiv.org
 
-nih.gov
+440. Symplectic geometry - Wikipedia. *Wikipedia*. https://en.wikipedia.org
 
-Metric Degeneracies and Gradient Flows on symplectic leaves
+441. Connections on Metriplectic Manifolds. *arXiv*. https://arxiv.org/abs/math/0605247
 
-arxiv.org
+442. Riemannian Geometry of Contact and Symplectic Manifolds | SpringerLink. *Springer*. https://link.springer.com
 
-Irreversible dynamics on Poisson manifolds
+443. 18th Joint European Thermodynamics Conference Belgrade, May 26–30, 2025. *Sanu*. https://www.sanu.ac.rs
 
-arxiv.org
+444. Portland State University Portland State University PDXScholar PDXScholar. *Pdx*. https://www.pdx.edu
 
-Symplectic geometry - Wikipedia
-
-wikipedia.org
-
-[math/0605247] Connections on Metriplectic Manifolds
-
-arxiv.org
-
-Riemannian Geometry of Contact and Symplectic Manifolds | SpringerLink
-
-springer.com
-
-18th Joint European Thermodynamics Conference Belgrade, May 26–30, 2025
-
-sanu.ac.rs
-
-Portland State University Portland State University PDXScholar PDXScholar
-
-pdx.edu
-
-(PDF) Symplectic Geometry and Differential Forms in Riemannian Physics: A Workable Foundation for Advanced Physical Modelling
-
-researchgate.net
+445. (PDF) Symplectic Geometry and Differential Forms in Riemannian Physics: A Workable Foundation for Advanced Physical Modelling. *Researchgate*. https://www.researchgate.net
 
 ## "Manuel de León" contact thermodynamics 2021-2024
 
-10 results
+446. A review on contact Hamiltonian and Lagrangian systems. *arXiv*. https://arxiv.org/abs/2011.05579
 
-[2011.05579] A review on contact Hamiltonian and Lagrangian systems
+447. The Geometry of Some Thermodynamic Systems | SpringerLink. *Springer*. https://link.springer.com
 
-arxiv.org
+448. Contact geometry and thermodynamics | International Journal of Geometric Methods in Modern Physics. *Worldscientific*. https://www.worldscientific.com
 
-The Geometry of Some Thermodynamic Systems | SpringerLink
+449. International Journal of Geometric Methods in Modern Physics | Vol 16, No supp01. *Worldscientific*. https://www.worldscientific.com
 
-springer.com
+450. A review on contact Hamiltonian and Lagrangian systems | Request PDF. *Researchgate*. https://www.researchgate.net
 
-Contact geometry and thermodynamics | International Journal of Geometric Methods in Modern Physics
+451. Manuel de León. *Researchgate*. https://www.researchgate.net
 
-worldscientific.com
+452. Contact geometry for simple thermodynamical systems with friction. *arXiv*. https://arxiv.org/abs/2004.01989
 
-International Journal of Geometric Methods in Modern Physics | Vol 16, No supp01
+453. (PDF) Time-dependent contact mechanics. *Researchgate*. https://www.researchgate.net
 
-worldscientific.com
+454. UNIVERSIDAD COMPLUTENSE DE MADRID FACULTAD DE CIENCIAS MATEMÁTICAS. *Arxiv*. https://arxiv.org
 
-A review on contact Hamiltonian and Lagrangian systems | Request PDF
-
-researchgate.net
-
-Manuel de León
-
-researchgate.net
-
-[2004.01989] Contact geometry for simple thermodynamical systems with friction
-
-arxiv.org
-
-(PDF) Time-dependent contact mechanics
-
-researchgate.net
-
-UNIVERSIDAD COMPLUTENSE DE MADRID FACULTAD DE CIENCIAS MATEMÁTICAS
-
-arxiv.org
-
-[PDF] A review on contact Hamiltonian and Lagrangian systems | Semantic Scholar
-
-semanticscholar.org
+455. [PDF] A review on contact Hamiltonian and Lagrangian systems | Semantic Scholar. *Semanticscholar*. https://www.semanticscholar.org
 
 ## Grmela GENERIC contact thermodynamics lift
 
-10 results
+456. GENERIC guide to the multiscale dynamics and thermodynamics - IOPscience. *IOP Science*. https://iopscience.iop.org
 
-GENERIC guide to the multiscale dynamics and thermodynamics - IOPscience
+457. On the role of geometry in statistical mechanics and thermodynamics I: Geometric perspective. *arXiv*. https://arxiv.org/abs/2205.10315
 
-iop.org
+458. A simple example for comparing GENERIC with rational non-equilibrium thermodynamics - ScienceDirect. *Sciencedirect*. https://www.sciencedirect.com
 
-[2205.10315] On the role of geometry in statistical mechanics and thermodynamics I: Geometric perspective
+459. Contact structure in thermodynamic theory - ScienceDirect. *Sciencedirect*. https://www.sciencedirect.com
 
-arxiv.org
+460. Lagrange hydrodynamics as extended Euler hydrodynamics: Hamiltonian and GENERIC structures - ScienceDirect. *Sciencedirect*. https://www.sciencedirect.com
 
-A simple example for comparing GENERIC with rational non-equilibrium thermodynamics - ScienceDirect
+461. Continuous contact transformations in thermodynamics - ScienceDirect. *Sciencedirect*. https://www.sciencedirect.com
 
-sciencedirect.com
+462. arXiv:2205.10315v1 [cond-mat.stat-mech] 19 May 2022. *Arxiv*. https://arxiv.org
 
-Contact structure in thermodynamic theory - ScienceDirect
+463. On Geometry of Dissipation in Multiscale Dynamics and Thermodynamics. *arXiv*. https://arxiv.org/abs/2510.24300
 
-sciencedirect.com
+464. GENERIC formalism - Wikipedia. *Wikipedia*. https://en.wikipedia.org
 
-Lagrange hydrodynamics as extended Euler hydrodynamics: Hamiltonian and GENERIC structures - ScienceDirect
-
-sciencedirect.com
-
-Continuous contact transformations in thermodynamics - ScienceDirect
-
-sciencedirect.com
-
-arXiv:2205.10315v1 [cond-mat.stat-mech] 19 May 2022
-
-arxiv.org
-
-[2510.24300] On Geometry of Dissipation in Multiscale Dynamics and Thermodynamics
-
-arxiv.org
-
-GENERIC formalism - Wikipedia
-
-wikipedia.org
-
-Contact Geometry of Mesoscopic Thermodynamics and Dynamics - ADS
-
-harvard.edu
+465. Contact Geometry of Mesoscopic Thermodynamics and Dynamics - ADS. *Harvard*. https://www.harvard.edu
 
 ## entanglement entropy boundaries quantum
 
-10 results
+466. Entropy of entanglement - Wikipedia. *Wikipedia*. https://en.wikipedia.org
 
-Entropy of entanglement - Wikipedia
+467. Entanglement Entropy of Quantum Corners. *arXiv*. https://arxiv.org/abs/2507.16800
 
-wikipedia.org
+468. Understanding Entanglement Entropy: A Deep Dive into Quantum Information - The International Space Federation (ISF). *Spacefed*. https://www.spacefed.com
 
-[2507.16800] Entanglement Entropy of Quantum Corners
+469. Entanglement entropy in quantum impurity systems and systems with boundaries. *arXiv*. https://arxiv.org/abs/0906.1809
 
-arxiv.org
+470. Bounds on entanglement entropy from quantum geometry | Phys. Rev. B. *Phys Rev*. https://journals.aps.org
 
-Understanding Entanglement Entropy: A Deep Dive into Quantum Information - The International Space Federation (ISF)
+471. quantum mechanics - Is entropy a measure of how entangled a system is? - Physics Stack Exchange. *Stackexchange*. https://www.stackexchange.com
 
-spacefed.com
+472. Topics in Quantum Entropy and Entanglement - Princeton Math. *Princeton*. https://www.princeton.edu
 
-[0906.1809] Entanglement entropy in quantum impurity systems and systems with boundaries
+473. 3.7: Entanglement Entropy - Physics LibreTexts. *Libretexts*. https://www.libretexts.org
 
-arxiv.org
+474. Quantum entanglement - Wikipedia. *Wikipedia*. https://en.wikipedia.org
 
-Bounds on entanglement entropy from quantum geometry | Phys. Rev. B
-
-aps.org
-
-quantum mechanics - Is entropy a measure of how entangled a system is? - Physics Stack Exchange
-
-stackexchange.com
-
-Topics in Quantum Entropy and Entanglement - Princeton Math
-
-princeton.edu
-
-3.7: Entanglement Entropy - Physics LibreTexts
-
-libretexts.org
-
-Quantum entanglement - Wikipedia
-
-wikipedia.org
-
-[hep-th/0405152] Entanglement Entropy and Quantum Field Theory
-
-arxiv.org
+475. Entanglement Entropy and Quantum Field Theory. *arXiv*. https://arxiv.org/abs/hep-th/0405152
 
 ## born rule derivation quantum metric
 
-10 results
+476. Born rule - Wikipedia. *Wikipedia*. https://en.wikipedia.org
 
-Born rule - Wikipedia
+477. The Born rule and its interpretation. *Ru*. https://www.ru.nl
 
-wikipedia.org
+478. quantum mechanics - Is there a mathematical basis for Born rule? - Physics Stack Exchange. *Stackexchange*. https://www.stackexchange.com
 
-The Born rule and its interpretation
+479. Mysterious Quantum Rule Reconstructed From Scratch | Quanta Magazine. *Quantamagazine*. https://www.quantamagazine.org
 
-ru.nl
+480. Derivation of the Born rule from the unitarity of quantum evolution. *arXiv*. https://arxiv.org/abs/1411.6992
 
-quantum mechanics - Is there a mathematical basis for Born rule? - Physics Stack Exchange
+481. 1 A simple proof of Born’s rule. *Pitt*. https://www.pitt.edu
 
-stackexchange.com
+482. Born rule: quantum probability as classical probability. *Arxiv*. https://arxiv.org
 
-Mysterious Quantum Rule Reconstructed From Scratch | Quanta Magazine
+483. Born rule: quantum probability as classical probability Ovidiu Cristinel Stoica. *Pitt*. https://www.pitt.edu
 
-quantamagazine.org
+484. Born Rule: Quantum Mechanics & Applications | StudySmarter. *Studysmarter*. https://www.studysmarter.co.uk
 
-[1411.6992] Derivation of the Born rule from the unitarity of quantum evolution
-
-arxiv.org
-
-1 A simple proof of Born’s rule
-
-pitt.edu
-
-Born rule: quantum probability as classical probability
-
-arxiv.org
-
-Born rule: quantum probability as classical probability Ovidiu Cristinel Stoica
-
-pitt.edu
-
-Born Rule: Quantum Mechanics & Applications | StudySmarter
-
-studysmarter.co.uk
-
-Derivation of the Born Rule in Quantum Mechanics - The Mysterious World of Quantum Theory
-
-xseek-qm.net
+485. Derivation of the Born Rule in Quantum Mechanics - The Mysterious World of Quantum Theory. *Xseek-Qm*. https://www.xseek-qm.net
 
 ## decoherence boundary formation quantum
 
-10 results
+486. The Role of Decoherence in Quantum Mechanics (Stanford Encyclopedia of Philosophy). *Stanford*. https://www.stanford.edu
 
-The Role of Decoherence in Quantum Mechanics (Stanford Encyclopedia of Philosophy)
+487. The Quantum-Classical Boundary: Exploring Decoherence and the Emergence of Classicality | by Freedom Preetham | Quantum Mysteries | Medium. *Medium*. https://medium.com
 
-stanford.edu
+488. Quantum decoherence - ScienceDirect. *Sciencedirect*. https://www.sciencedirect.com
 
-The Quantum-Classical Boundary: Exploring Decoherence and the Emergence of Classicality | by Freedom Preetham | Quantum Mysteries | Medium
+489. Quantum decoherence - Wikipedia. *Wikipedia*. https://en.wikipedia.org
 
-medium.com
+490. Entanglement, Decoherence and the Quantum/Classical Boundary - Physics Today. *Aip*. https://www.aip.org
 
-Quantum decoherence - ScienceDirect
+491. Quantum Decoherence - Quantum Computing Explained. *Quandela*. https://www.quandela.com
 
-sciencedirect.com
+492. Decoherence of cosmological perturbations from boundary terms and the non-classicality of gravity | Journal of High Energy Physics. *Springer*. https://link.springer.com
 
-Quantum decoherence - Wikipedia
+493. Entanglement, Decoherence and the Quantum/Classical Boundary | Physics Today | AIP Publishing. *Aip*. https://www.aip.org
 
-wikipedia.org
+494. Computational quantum-classical boundary of noisy commuting quantum circuits | Scientific Reports. *Nature*. https://www.nature.com
 
-Entanglement, Decoherence and the Quantum/Classical Boundary - Physics Today
-
-aip.org
-
-Quantum Decoherence - Quantum Computing Explained
-
-quandela.com
-
-Decoherence of cosmological perturbations from boundary terms and the non-classicality of gravity | Journal of High Energy Physics
-
-springer.com
-
-Entanglement, Decoherence and the Quantum/Classical Boundary | Physics Today | AIP Publishing
-
-aip.org
-
-Computational quantum-classical boundary of noisy commuting quantum circuits | Scientific Reports
-
-nature.com
-
-Quantum Decoherence: Everything You Need to Know [2025] | SpinQ
-
-spinquanta.com
+495. Quantum Decoherence: Everything You Need to Know [2025] | SpinQ. *Spinquanta*. https://www.spinquanta.com
 
 ## Dynamical Systems
 
-Colombo L. Lindblad Quantum Dynamics as Euler-Poincar\’e reduction on Adjoint-Coupled semidirect products. arXiv.org. Published November 26, 2025. <https://arxiv.org/abs/2511.21967>
+496. Colombo L. Lindblad Quantum Dynamics as Euler-Poincar\’e reduction on Adjoint-Coupled semidirect products. arXiv.org. Published November 26, 2025. *arXiv*. https://arxiv.org/abs/2511.21967
 
 ## resolution cutoff quantum measurement
 
-10 results
+497. Experimental metrology beyond the standard quantum limit for a wide resources range | npj Quantum Information. *Nature*. https://www.nature.com
 
-Experimental metrology beyond the standard quantum limit for a wide resources range | npj Quantum Information
+498. arXiv:quant-ph/0412078 v1 10 Dec 2004 Quantum-Enhanced Measurements:. *Mit*. https://www.mit.edu
 
-nature.com
+499. Overcoming resolution limits with quantum sensing | Nature Communications. *Nature*. https://www.nature.com
 
-arXiv:quant-ph/0412078 v1 10 Dec 2004 Quantum-Enhanced Measurements:
+500. Overcoming resolution limits with quantum sensing - PMC. *Nih*. https://www.nih.gov
 
-mit.edu
+501. Quantum limit - Wikipedia. *Wikipedia*. https://en.wikipedia.org
 
-Overcoming resolution limits with quantum sensing | Nature Communications
+502. Breaking through the resolution barrier with quantum-limited precision | ScienceDaily. *Sciencedaily*. https://www.sciencedaily.com
 
-nature.com
+503. Overcoming frequency resolution limits using a solid-state spin quantum sensor. *Arxiv*. https://arxiv.org
 
-Overcoming resolution limits with quantum sensing - PMC
+504. Quantum limits in precision measurements | Quantum Optics Class Notes | Fiveable | Fiveable
 
-nih.gov
+505. (PDF) Quantum-Enhanced Measurements: Beating the Standard Quantum Limit. *Researchgate*. https://www.researchgate.net
 
-Quantum limit - Wikipedia
-
-wikipedia.org
-
-Breaking through the resolution barrier with quantum-limited precision | ScienceDaily
-
-sciencedaily.com
-
-Overcoming frequency resolution limits using a solid-state spin quantum sensor
-
-arxiv.org
-
-Quantum limits in precision measurements | Quantum Optics Class Notes | Fiveable | Fiveable
-
-fiveable.me
-
-(PDF) Quantum-Enhanced Measurements: Beating the Standard Quantum Limit
-
-researchgate.net
-
-What limits limits? - PMC
-
-nih.gov
+506. What limits limits? - PMC. *Nih*. https://www.nih.gov
 
 ## quantum-to-classical transition geometric
 
-10 results
+507. Quantum-to-Classical Transition - an overview | ScienceDirect Topics. *Sciencedirect*. https://www.sciencedirect.com
 
-Quantum-to-Classical Transition - an overview | ScienceDirect Topics
+508. Quantum, Stochastic, and Classical Dynamics Within A Single Geometric Framework. *Arxiv*. https://arxiv.org
 
-sciencedirect.com
+509. Quantum, Stochastic, and Classical Dynamics Within A Single Geometric Framework. *arXiv*. https://arxiv.org/abs/2510.27170
 
-Quantum, Stochastic, and Classical Dynamics Within A Single Geometric Framework
+510. Quantum to classical transition - Quantum foundations and quantum information theory. *Quantumfoundations*. https://www.quantumfoundations.org
 
-arxiv.org
+511. QUANTUM-TO-CLASSICAL TRANSITION FOR FLUCTUATIONS IN THE EARLY UNIVERSE | International Journal of Modern Physics D. *Worldscientific*. https://www.worldscientific.com
 
-[2510.27170] Quantum, Stochastic, and Classical Dynamics Within A Single Geometric Framework
+512. The quantum-to-classical transition and decoherence. *arXiv*. https://arxiv.org/abs/1404.2635
 
-arxiv.org
+513. The Quantum to Classical Transition. *Informationphilosopher*. https://www.informationphilosopher.com
 
-Quantum to classical transition - Quantum foundations and quantum information theory
+514. Quantum-to-Classical Transition
 
-quantumfoundations.org
+515. Decoherence: and the Quantum-To-Classical Transition | SpringerLink. *Springer*. https://link.springer.com
 
-QUANTUM-TO-CLASSICAL TRANSITION FOR FLUCTUATIONS IN THE EARLY UNIVERSE | International Journal of Modern Physics D
-
-worldscientific.com
-
-[1404.2635] The quantum-to-classical transition and decoherence
-
-arxiv.org
-
-The Quantum to Classical Transition
-
-informationphilosopher.com
-
-Quantum-to-Classical Transition
-
-iqoqi-vienna.at
-
-Decoherence: and the Quantum-To-Classical Transition | SpringerLink
-
-springer.com
-
-Transition from quantum to classical mechanics - Physics Stack Exchange
-
-stackexchange.com
+516. Transition from quantum to classical mechanics - Physics Stack Exchange. *Stackexchange*. https://www.stackexchange.com
 
 ## decoherence induced superselection
 
-10 results
+517. The Role of Decoherence in Quantum Mechanics (Stanford Encyclopedia of Philosophy). *Stanford*. https://www.stanford.edu
 
-The Role of Decoherence in Quantum Mechanics (Stanford Encyclopedia of Philosophy)
+518. Einselection - Wikipedia. *Wikipedia*. https://en.wikipedia.org
 
-stanford.edu
+519. Deconstructing Decoherence. *arXiv*. https://arxiv.org/abs/quant-ph/9611045
 
-Einselection - Wikipedia
+520. Decoherence, einselection, and the quantum origins of the classical | Rev. Mod. Phys. *Phys Rev*. https://journals.aps.org
 
-wikipedia.org
+521. Quantum Limit of Decoherence: Environment Induced Superselection of Energy Eigenstates | Phys. Rev. Lett. *Phys Rev*. https://journals.aps.org
 
-[quant-ph/9611045] Deconstructing Decoherence
+522. Decoherence without einselection. *Arxiv*. https://arxiv.org
 
-arxiv.org
+523. Quantum limit of decoherence: Environment induced superselection of energy eigenstates. *arXiv*. https://arxiv.org/abs/quant-ph/9811026
 
-Decoherence, einselection, and the quantum origins of the classical | Rev. Mod. Phys.
+524. Google Scholar. *Google*. https://www.google.com
 
-aps.org
+525. Environment-Induced Decoherence and the Transition From Quantum to Classical. *arXiv*. https://arxiv.org/abs/quant-ph/0010011
 
-Quantum Limit of Decoherence: Environment Induced Superselection of Energy Eigenstates | Phys. Rev. Lett.
-
-aps.org
-
-Decoherence without einselection
-
-arxiv.org
-
-[quant-ph/9811026] Quantum limit of decoherence: Environment induced superselection of energy eigenstates
-
-arxiv.org
-
-Google Scholar
-
-google.com
-
-[quant-ph/0010011] Environment-Induced Decoherence and the Transition From Quantum to Classical
-
-arxiv.org
-
-Decoherence and Einselection | SpringerLink
-
-springer.com
+526. Decoherence and Einselection | SpringerLink. *Springer*. https://link.springer.com
 
 ## Calabrese Cardy entanglement entropy
 
-10 results
+527. Entanglement entropy and conformal field theory. *arXiv*. https://arxiv.org/abs/0905.4013
 
-[0905.4013] Entanglement entropy and conformal field theory
+528. Entanglement Entropy and Quantum Field Theory. *arXiv*. https://arxiv.org/abs/hep-th/0405152
 
-arxiv.org
+529. A spacetime calculation of the Calabrese-Cardy entanglement entropy - ScienceDirect. *Sciencedirect*. https://www.sciencedirect.com
 
-[hep-th/0405152] Entanglement Entropy and Quantum Field Theory
+530. Entanglement entropy and quantum field theory - IOPscience. *IOP Science*. https://iopscience.iop.org
 
-arxiv.org
+531. Entanglement entropy and conformal field theory
 
-A spacetime calculation of the Calabrese-Cardy entanglement entropy - ScienceDirect
+532. Evolution of entanglement entropy in one-dimensional systems - IOPscience. *IOP Science*. https://iopscience.iop.org
 
-sciencedirect.com
+533. Entanglement entropy and conformal field theory. *Inspirehep*. https://www.inspirehep.net
 
-Entanglement entropy and quantum field theory - IOPscience
+534. Entanglement entropy in extended quantum systems - IOPscience. *IOP Science*. https://iopscience.iop.org
 
-iop.org
+535. A Spacetime Calculation of the Calabrese-Cardy Entanglement Entropy. *arXiv*. https://arxiv.org/abs/2104.08449
 
-Entanglement entropy and conformal field theory
-
-su.se
-
-Evolution of entanglement entropy in one-dimensional systems - IOPscience
-
-iop.org
-
-Entanglement entropy and conformal field theory
-
-inspirehep.net
-
-Entanglement entropy in extended quantum systems - IOPscience
-
-iop.org
-
-[2104.08449] A Spacetime Calculation of the Calabrese-Cardy Entanglement Entropy
-
-arxiv.org
-
-Generalized entanglement entropies in two-dimensional conformal field theory | Journal of High Energy Physics
-
-springer.com
+536. Generalized entanglement entropies in two-dimensional conformal field theory | Journal of High Energy Physics. *Springer*. https://link.springer.com
 
 ## Zurek einselection decoherence 2003
 
-10 results
+537. Decoherence, einselection, and the quantum origins of the classical. *arXiv*. https://arxiv.org/abs/quant-ph/0105127
 
-[quant-ph/0105127] Decoherence, einselection, and the quantum origins of the classical
+538. Decoherence, einselection, and the quantum origins of the . *Lanl*. https://www.lanl.gov
 
-arxiv.org
+539. Google Scholar. *Google*. https://www.google.com
 
-Decoherence, einselection, and the quantum origins of the ...
+540. einselection in nLab. *Ncatlab*. https://www.ncatlab.org
 
-lanl.gov
+541. Decoherence, einselection, and the quantum origins of the classical. *Phys Rev*. https://journals.aps.org
 
-Google Scholar
+542. Decoherence, einselection, and the quantum origins of the classical. *Iaea*. https://www.iaea.org
 
-google.com
+543. Decoherence, einselection and the existential interpretation (the rough guide) | Philosophical Transactions of the Royal Society of London. Series A: Mathematical, Physical and Engineering Sciences. *Royalsocietypublishing*. https://www.royalsocietypublishing.org
 
-einselection in nLab
+544. Decoherence, einselection, and the quantum origins of the classical | Rev. Mod. Phys. *Phys Rev*. https://journals.aps.org
 
-ncatlab.org
+545. Zurek, W.H. (2003) Decoherence, Einselection, and the Quantum Origins of the Classical. Reviews of Modern Physics, 75, 715-775. - References - Scientific Research Publishing. *Scirp*. https://www.scirp.org
 
-Decoherence, einselection, and the quantum origins of the classical
-
-aps.org
-
-Decoherence, einselection, and the quantum origins of the classical
-
-iaea.org
-
-Decoherence, einselection and the existential interpretation (the rough guide) | Philosophical Transactions of the Royal Society of London. Series A: Mathematical, Physical and Engineering Sciences
-
-royalsocietypublishing.org
-
-Decoherence, einselection, and the quantum origins of the classical | Rev. Mod. Phys.
-
-aps.org
-
-Zurek, W.H. (2003) Decoherence, Einselection, and the Quantum Origins of the Classical. Reviews of Modern Physics, 75, 715-775. - References - Scientific Research Publishing
-
-scirp.org
-
-W. H. Zurek, “Decoherence, Einselection, and the Quantum Origins of the Classical,” Reviews of Moder Physics, Vol. 75, No. 3, 2003, pp. 715-775. doi10.1103/RevModPhys.75.715 - References - Scientific Research Publishing
-
-scirp.org
+546. W. H. Zurek, “Decoherence, Einselection, and the Quantum Origins of the Classical,” Reviews of Moder Physics, Vol. 75, No. 3, 2003, pp. 715-775. doi10.1103/RevModPhys.75.715 - References - Scientific Research Publishing. *Scirp*. https://www.scirp.org
 
 ## holographic entanglement entropy Ryu Takayanagi
 
-10 results
+547. Holographic Entanglement Entropy. *arXiv*. https://arxiv.org/abs/1609.01287
 
-[1609.01287] Holographic Entanglement Entropy
+548. Holographic Derivation of Entanglement Entropy from AdS/CFT. *arXiv*. https://arxiv.org/abs/hep-th/0603001
 
-arxiv.org
+549. Holographic Entanglement Entropy | SpringerLink. *Springer*. https://link.springer.com
 
-[hep-th/0603001] Holographic Derivation of Entanglement Entropy from AdS/CFT
+550. holographic entanglement entropy in nLab. *Ncatlab*. https://www.ncatlab.org
 
-arxiv.org
+551. Measuring holographic entanglement entropy on a quantum simulator | npj Quantum Information. *Nature*. https://www.nature.com
 
-Holographic Entanglement Entropy | SpringerLink
+552. Ryu–Takayanagi conjecture. *Wikipedia*. https://en.wikipedia.org
 
-springer.com
+553. New holographic generalization of entanglement entropy. *Phys Rev*. https://journals.aps.org
 
-holographic entanglement entropy in nLab
+554. Book Review: Holographic Entanglement Entropy. *Frontiersin*. https://www.frontiersin.org
 
-ncatlab.org
+555. Holographic Derivation of Entanglement Entropy from the anti. *Phys Rev*. https://journals.aps.org
 
-Measuring holographic entanglement entropy on a quantum simulator | npj Quantum Information
-
-nature.com
-
-Ryu–Takayanagi conjecture
-
-wikipedia.org
-
-New holographic generalization of entanglement entropy
-
-aps.org
-
-Book Review: Holographic Entanglement Entropy
-
-frontiersin.org
-
-Holographic Derivation of Entanglement Entropy from the anti
-
-aps.org
-
-Amazon.com: Holographic Entanglement Entropy (Lecture Notes in Physics, 931): 9783319525716: Rangamani, Mukund, Takayanagi, Tadashi: Books
-
-amazon.com
+556. Amazon.com: Holographic Entanglement Entropy (Lecture Notes in Physics, 931): 9783319525716: Rangamani, Mukund, Takayanagi, Tadashi: Books. *Amazon*. https://www.amazon.com
 
 ## Masanes Galley Muller born rule 2019
 
-10 results
+557. Mysterious Quantum Rule Reconstructed From Scratch | Quanta Magazine. *Quantamagazine*. https://www.quantamagazine.org
 
-Mysterious Quantum Rule Reconstructed From Scratch | Quanta Magazine
+558. Born rule - Wikipedia. *Wikipedia*. https://en.wikipedia.org
 
-quantamagazine.org
+559. The Born rule is obvious | More Quantum. *Mateusaraujo*. https://www.mateusaraujo.info
 
-Born rule - Wikipedia
+560. Physicists Are Rethinking a Fundamental Quantum Law to Help Us Understand Reality : ScienceAlert. *Sciencealert*. https://www.sciencealert.com
 
-wikipedia.org
+561. Masanes-Galley-Müller and the State-Update Postulate. *arXiv*. https://arxiv.org/abs/2211.03299
 
-The Born rule is obvious | More Quantum
+562. Contradictions or Curiosities? On Kent’s Critique of the Masanes–Galley–Müller Derivation of the Quantum Measurement Postulates. *Arxiv*. https://arxiv.org
 
-mateusaraujo.info
+563. [PDF] Masanes-Galley-M\"uller and the State-Update Postulate | Semantic Scholar. *Semanticscholar*. https://www.semanticscholar.org
 
-Physicists Are Rethinking a Fundamental Quantum Law to Help Us Understand Reality : ScienceAlert
+564. Born rule - Wikipedia. *Vizblog*. https://www.vizblog.net
 
-sciencealert.com
+565. Physics:Born rule - HandWiki. *Handwiki*. https://www.handwiki.org
 
-[2211.03299] Masanes-Galley-Müller and the State-Update Postulate
-
-arxiv.org
-
-Contradictions or Curiosities? On Kent’s Critique of the Masanes–Galley–Müller Derivation of the Quantum Measurement Postulates
-
-arxiv.org
-
-[PDF] Masanes-Galley-M\"uller and the State-Update Postulate | Semantic Scholar
-
-semanticscholar.org
-
-Born rule - Wikipedia
-
-vizblog.net
-
-Physics:Born rule - HandWiki
-
-handwiki.org
-
-(PDF) Response to "The measurement postulates of quantum mechanics are not redundant"
-
-researchgate.net
+566. (PDF) Response to "The measurement postulates of quantum mechanics are not redundant". *Researchgate*. https://www.researchgate.net
 
 ## Kofler Brukner coarse grained measurement 2007
 
-10 results
+567. Kofler, Johannes, Brukner, Časlav (2007) Classical World Arising out of Quantum Physics under the Restriction of Coarse-Grained Measurements. Physical Review Letters, 99 (18). doi:10.1103/physrevlett.99.180403. *Mindat*. https://www.mindat.org
 
-Kofler, Johannes, Brukner, Časlav (2007) Classical World Arising out of Quantum Physics under the Restriction of Coarse-Grained Measurements. Physical Review Letters, 99 (18). doi:10.1103/physrevlett.99.180403
+568. [PDF] Classical world arising out of quantum physics under the restriction of coarse-grained measurements. | Semantic Scholar. *Semanticscholar*. https://www.semanticscholar.org
 
-mindat.org
+569. Classical world arising out of quantum physics under the restriction of coarse-grained measurements - PubMed. *Nih*. https://www.nih.gov
 
-[PDF] Classical world arising out of quantum physics under the restriction of coarse-grained measurements. | Semantic Scholar
+570. Leggett–Garg inequality, Wigner form of Leggett–Garg inequality and no-signaling-in-time condition under coarsening measurement - Quantum Information Processing. *Springer*. https://link.springer.com
 
-semanticscholar.org
+571. Quantum-to-Classical Transition
 
-Classical world arising out of quantum physics under the restriction of coarse-grained measurements - PubMed
+572. Classical world arising out of quantum physics under the restriction of coarse-grained measurements. *Researchgate*. https://www.researchgate.net
 
-nih.gov
+573. [PDF] Conditions for quantum violation of macroscopic realism. | Semantic Scholar. *Semanticscholar*. https://www.semanticscholar.org
 
-Leggett–Garg inequality, Wigner form of Leggett–Garg inequality and no-signaling-in-time condition under coarsening measurement - Quantum Information Processing
+574. Leggett–Garg inequality - Wikipedia. *Wikipedia*. https://en.wikipedia.org
 
-springer.com
+575. COARSE-GRAINED MEASUREMENT AND ITS ROLE IN QUANTUM TO CLASSICAL TRANSITION | Request PDF. *Researchgate*. https://www.researchgate.net
 
-Quantum-to-Classical Transition
-
-iqoqi-vienna.at
-
-Classical world arising out of quantum physics under the restriction of coarse-grained measurements
-
-researchgate.net
-
-[PDF] Conditions for quantum violation of macroscopic realism. | Semantic Scholar
-
-semanticscholar.org
-
-Leggett–Garg inequality - Wikipedia
-
-wikipedia.org
-
-COARSE-GRAINED MEASUREMENT AND ITS ROLE IN QUANTUM TO CLASSICAL TRANSITION | Request PDF
-
-researchgate.net
-
-Necessary and sufficient conditions for macroscopic realism from
-
-slidetodoc.com
+576. Necessary and sufficient conditions for macroscopic realism from. *Slidetodoc*. https://www.slidetodoc.com
 
 ## ruppeiner geometry
 
-10 results
+577. Ruppeiner geometry - Wikipedia. *Wikipedia*. https://en.wikipedia.org
 
-Ruppeiner geometry - Wikipedia
+578. Ruppeiner Geometry, Phase Transitions, and the Microstructure of Charged AdS Black Holes. *arXiv*. https://arxiv.org/abs/1909.03887
 
-wikipedia.org
+579. An analysis of the Ruppeiner geometry and the ... - Indico Global
 
-[1909.03887] Ruppeiner Geometry, Phase Transitions, and the Microstructure of Charged AdS Black Holes
+580. Ruppeiner geometry of the RN-AdS black hole using shadow formalism - ScienceDirect. *Sciencedirect*. https://www.sciencedirect.com
 
-arxiv.org
+581. Phase boundaries and the Widom line from the Ruppeiner . *Phys Rev*. https://journals.aps.org
 
-An analysis of the Ruppeiner geometry and the ... - Indico Global
+582. Ruppeiner geometry, P-V criticality and interacting microstructures of black holes in dRGT massive gravity. *arXiv*. https://arxiv.org/abs/2306.08101
 
-indico.global
+583. Ruppeiner geometry and thermodynamic phase transition of the black hole in massive gravity | The European Physical Journal C. *Springer*. https://link.springer.com
 
-Ruppeiner geometry of the RN-AdS black hole using shadow formalism - ScienceDirect
+584. Ruppeiner geometry, phase transitions, and the . *Phys Rev*. https://journals.aps.org
 
-sciencedirect.com
+585. Ruppeiner Geometry of Black Hole Thermodynamics. *arXiv*. https://arxiv.org/abs/0801.0016
 
-Phase boundaries and the Widom line from the Ruppeiner ...
-
-aps.org
-
-[2306.08101] Ruppeiner geometry, P-V criticality and interacting microstructures of black holes in dRGT massive gravity
-
-arxiv.org
-
-Ruppeiner geometry and thermodynamic phase transition of the black hole in massive gravity | The European Physical Journal C
-
-springer.com
-
-Ruppeiner geometry, phase transitions, and the ...
-
-aps.org
-
-[0801.0016] Ruppeiner Geometry of Black Hole Thermodynamics
-
-arxiv.org
-
-INSPIRE
-
-inspirehep.net
+586. INSPIRE. *Inspirehep*. https://www.inspirehep.net
 
 ## fisher information metric thermodynamics
 
-Fisher-KPP waves and the minimal speed on hexagonal lattice§. https://arxiv.org/html/2511.22932v1?utm_source=chatgpt.com
+587. Fisher-KPP waves and the minimal speed on hexagonal lattice§. https://arxiv.org/html/2511.22932v1
 
-10 results
+588. Fisher information - Wikipedia. *Wikipedia*. https://en.wikipedia.org
 
-Fisher information - Wikipedia
+589. Thermodynamic interpretation to Stochastic Fisher Information and Single-Trajectory Speed Limits. *arXiv*. https://arxiv.org/abs/2504.20890
 
-wikipedia.org
+590. Thermodynamic interpretation to stochastic Fisher information and single-trajectory speed limits | Phys. Rev. E. *Phys Rev*. https://journals.aps.org
 
-[2504.20890] Thermodynamic interpretation to Stochastic Fisher Information and Single-Trajectory Speed Limits
+591. (PDF) Thermodynamic interpretation to stochastic Fisher information and single-trajectory speed limits. *Researchgate*. https://www.researchgate.net
 
-arxiv.org
+592. Thermodynamic interpretation to Stochastic Fisher Information and Single-Trajectory Speed Limits. *Arxiv*. https://arxiv.org
 
-Thermodynamic interpretation to stochastic Fisher information and single-trajectory speed limits | Phys. Rev. E
+593. Stochastic thermodynamics of Fisher information. *Arxiv*. https://arxiv.org
 
-aps.org
+594. Information geometry approach to quantum stochastic thermodynamics. *arXiv*. https://arxiv.org/abs/2409.06083
 
-(PDF) Thermodynamic interpretation to stochastic Fisher information and single-trajectory speed limits
+595. Generalization of the Fisher metric and Completely integrable system on Lie groups 𝑆⁢𝑂⁢(2) and 𝑆⁢𝑂⁢(3). *Arxiv*. https://arxiv.org
 
-researchgate.net
+596. Fisher information metric - Wikipedia. *Wikipedia*. https://en.wikipedia.org
 
-Thermodynamic interpretation to Stochastic Fisher Information and Single-Trajectory Speed Limits
-
-arxiv.org
-
-Stochastic thermodynamics of Fisher information
-
-arxiv.org
-
-[2409.06083] Information geometry approach to quantum stochastic thermodynamics
-
-arxiv.org
-
-Generalization of the Fisher metric and Completely integrable system on Lie groups 𝑆⁢𝑂⁢(2) and 𝑆⁢𝑂⁢(3).
-
-arxiv.org
-
-Fisher information metric - Wikipedia
-
-wikipedia.org
-
-Information geometry approach to quantum stochastic thermodynamics
-
-arxiv.org
+597. Information geometry approach to quantum stochastic thermodynamics. *Arxiv*. https://arxiv.org
 
 ## information geometry statistical mechanics
 
-10 results
+598. Information geometry - Wikipedia. *Wikipedia*. https://en.wikipedia.org
 
-Information geometry - Wikipedia
+599. Information Geometry. *Ucr*. https://www.ucr.edu
 
-wikipedia.org
+600. information geometry in nLab. *Ncatlab*. https://www.ncatlab.org
 
-Information Geometry
+601. Lewis Smith - A gentle introduction to information geometry. *Ox*. https://www.ox.ac.uk
 
-ucr.edu
+602. Statistical geometry in quantum mechanics | Proceedings of the Royal Society of London. Series A: Mathematical, Physical and Engineering Sciences. *Royalsocietypublishing*. https://www.royalsocietypublishing.org
 
-information geometry in nLab
+603. Geometric Structures of Statistical Physics, Information Geometry, and Learning: SPIGL'20, Les Houches, France, July 27–31 | SpringerLink. *Springer*. https://link.springer.com
 
-ncatlab.org
+604. Markov blankets, information geometry and stochastic thermodynamics | Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences. *Royalsocietypublishing*. https://www.royalsocietypublishing.org
 
-Lewis Smith - A gentle introduction to information geometry
+605. Information Geometry, Fluctuations, Non-Equilibrium Thermodynamics, and Geodesics in Complex Systems - PubMed. *Nih*. https://www.nih.gov
 
-ox.ac.uk
+606. Information geometry of multiparameter models: New perspectives on the origin of simplicity - PMC. *Nih*. https://www.nih.gov
 
-Statistical geometry in quantum mechanics | Proceedings of the Royal Society of London. Series A: Mathematical, Physical and Engineering Sciences
-
-royalsocietypublishing.org
-
-Geometric Structures of Statistical Physics, Information Geometry, and Learning: SPIGL'20, Les Houches, France, July 27–31 | SpringerLink
-
-springer.com
-
-Markov blankets, information geometry and stochastic thermodynamics | Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences
-
-royalsocietypublishing.org
-
-Information Geometry, Fluctuations, Non-Equilibrium Thermodynamics, and Geodesics in Complex Systems - PubMed
-
-nih.gov
-
-Information geometry of multiparameter models: New perspectives on the origin of simplicity - PMC
-
-nih.gov
-
-Information geometry for Fermi–Dirac and Bose–Einstein quantum statistics - ScienceDirect
-
-sciencedirect.com
+607. Information geometry for Fermi–Dirac and Bose–Einstein quantum statistics - ScienceDirect. *Sciencedirect*. https://www.sciencedirect.com
 
 ## fisher information phase transitions
 
-10 results
+608. Detecting Quantum and Classical Phase Transitions via Unsupervised Machine Learning of the Fisher Information Metric. *arXiv*. https://arxiv.org/abs/2408.03418
 
-[2408.03418] Detecting Quantum and Classical Phase Transitions via Unsupervised Machine Learning of the Fisher Information Metric
+609. Machine learning phase transitions: Connections to the Fisher information. *arXiv*. https://arxiv.org/abs/2311.10710
 
-arxiv.org
+610. A Fisher Information Study of Phase Transitions in Random
 
-[2311.10710] Machine learning phase transitions: Connections to the Fisher information
+611. Interpreting the Quantum Fisher Information - Physics Stack Exchange. *Stackexchange*. https://www.stackexchange.com
 
-arxiv.org
+612. Detecting Quantum and Classical Phase Transitions via Unsupervised Machine Learning of the Fisher Information Metric. *Arxiv*. https://arxiv.org
 
-A Fisher Information Study of Phase Transitions in Random ...
+613. Universal Long-Time Behavior of the Quantum Fisher Information in Dynamical Quantum Phase Transitions. *Arxiv*. https://arxiv.org
 
-lizier.me
+614. quantum fisher information: Topics by Science.gov. *Science*. https://www.science.gov
 
-Interpreting the Quantum Fisher Information - Physics Stack Exchange
+615. Universal Long-Time Behavior of the Quantum Fisher Information in Dynamical Quantum Phase Transitions. *arXiv*. https://arxiv.org/abs/2507.05579
 
-stackexchange.com
+616. (PDF) Quantum Fisher information as signature of superradiant quantum phase transition. *Researchgate*. https://www.researchgate.net
 
-Detecting Quantum and Classical Phase Transitions via Unsupervised Machine Learning of the Fisher Information Metric
-
-arxiv.org
-
-Universal Long-Time Behavior of the Quantum Fisher Information in Dynamical Quantum Phase Transitions
-
-arxiv.org
-
-quantum fisher information: Topics by Science.gov
-
-science.gov
-
-[2507.05579] Universal Long-Time Behavior of the Quantum Fisher Information in Dynamical Quantum Phase Transitions
-
-arxiv.org
-
-(PDF) Quantum Fisher information as signature of superradiant quantum phase transition
-
-researchgate.net
-
-(PDF) Relating Fisher information to order parameters. Physical Review E, 84(4), 041116
-
-researchgate.net
+617. (PDF) Relating Fisher information to order parameters. Physical Review E, 84(4), 041116. *Researchgate*. https://www.researchgate.net
 
 ## information concentration phase boundaries
 
-10 results
+618. Phase Boundary - an overview | ScienceDirect Topics. *Sciencedirect*. https://www.sciencedirect.com
 
-Phase Boundary - an overview | ScienceDirect Topics
+619. Phase boundary - Wikipedia. *Wikipedia*. https://en.wikipedia.org
 
-sciencedirect.com
+620. Phase Concentration - an overview | ScienceDirect Topics. *Sciencedirect*. https://www.sciencedirect.com
 
-Phase boundary - Wikipedia
+621. Phase Interface - an overview | ScienceDirect Topics. *Sciencedirect*. https://www.sciencedirect.com
 
-wikipedia.org
+622. 8.1.1 Phase Boundaries. *Illinois*. https://www.illinois.edu
 
-Phase Concentration - an overview | ScienceDirect Topics
+623. Phys. Rev. B 100, 094430 (2019) - Phase boundary location with information-theoretic entropy in tensor renormalization group flows. *Phys Rev*. https://journals.aps.org
 
-sciencedirect.com
+624. Phase Boundaries - Every Science. *Everyscience*. https://www.everyscience.com
 
-Phase Interface - an overview | ScienceDirect Topics
+625. Phase Diagram - GeeksforGeeks. *Geeksforgeeks*. https://www.geeksforgeeks.org
 
-sciencedirect.com
+626. The phase-boundary potential model - ScienceDirect. *Sciencedirect*. https://www.sciencedirect.com
 
-8.1.1 Phase Boundaries
-
-illinois.edu
-
-Phys. Rev. B 100, 094430 (2019) - Phase boundary location with information-theoretic entropy in tensor renormalization group flows
-
-aps.org
-
-Phase Boundaries - Every Science
-
-everyscience.com
-
-Phase Diagram - GeeksforGeeks
-
-geeksforgeeks.org
-
-The phase-boundary potential model - ScienceDirect
-
-sciencedirect.com
-
-Concentration of Phase-Information
-
-optica.org
+627. Concentration of Phase-Information. *Optica*. https://www.optica.org
 
 ## Weinhold geometry thermodynamics
 
-10 results
+628. Weinhold geometry and thermodynamics of Bardeen AdS black holes. *arXiv*. https://arxiv.org/abs/2107.01866
 
-[2107.01866] Weinhold geometry and thermodynamics of Bardeen AdS black holes
+629. Ruppeiner geometry - Wikipedia. *Wikipedia*. https://en.wikipedia.org
 
-arxiv.org
+630. Weinhold geometry and thermodynamics of Bardeen AdS black holes. *arXiv*. https://arxiv.org/abs/2107.01866v3
 
-Ruppeiner geometry - Wikipedia
+631. Phys. Rev. A 32, 3142 (1985) - Weinhold's metric geometry and the second law of thermodynamics. *Phys Rev*. https://journals.aps.org
 
-wikipedia.org
+632. Weinhold geometry and thermodynamics of Bardeen AdS black holes - ScienceDirect. *Sciencedirect*. https://www.sciencedirect.com
 
-[2107.01866v3] Weinhold geometry and thermodynamics of Bardeen AdS black holes
+633. The geometry of thermodynamics. *arXiv*. https://arxiv.org/abs/0712.0868
 
-arxiv.org
+634. Thermodynamic geometry and the metrics of Weinhold and Gilmore | Request PDF. *Researchgate*. https://www.researchgate.net
 
-Phys. Rev. A 32, 3142 (1985) - Weinhold's metric geometry and the second law of thermodynamics
+635. Phys. Rev. A 30, 1994 (1984) - Length and curvature in the geometry of thermodynamics. *Phys Rev*. https://journals.aps.org
 
-aps.org
+636. Google Scholar. *Google*. https://www.google.com
 
-Weinhold geometry and thermodynamics of Bardeen AdS black holes - ScienceDirect
-
-sciencedirect.com
-
-[0712.0868] The geometry of thermodynamics
-
-arxiv.org
-
-Thermodynamic geometry and the metrics of Weinhold and Gilmore | Request PDF
-
-researchgate.net
-
-Phys. Rev. A 30, 1994 (1984) - Length and curvature in the geometry of thermodynamics
-
-aps.org
-
-Google Scholar
-
-google.com
-
-Classical and Geometrical Theory of Chemical and Phase Thermodynamics: Weinhold, Frank: 9780470402368: Amazon.com: Books
-
-amazon.com
+637. Classical and Geometrical Theory of Chemical and Phase Thermodynamics: Weinhold, Frank: 9780470402368: Amazon.com: Books. *Amazon*. https://www.amazon.com
 
 ## information geometry statistical mechanics 2020-2025
 
-10 results
+638. Geometric Structures of Statistical Physics, Information Geometry, and Learning: SPIGL'20, Les Houches, France, July 27–31 | SpringerLink. *Springer*. https://link.springer.com
 
-Geometric Structures of Statistical Physics, Information Geometry, and Learning: SPIGL'20, Les Houches, France, July 27–31 | SpringerLink
+639. Statistical geometry in quantum mechanics | Proceedings of the Royal Society of London. Series A: Mathematical, Physical and Engineering Sciences. *Royalsocietypublishing*. https://www.royalsocietypublishing.org
 
-springer.com
+640. Information Theory and Statistical Mechanics | SpringerLink. *Springer*. https://link.springer.com
 
-Statistical geometry in quantum mechanics | Proceedings of the Royal Society of London. Series A: Mathematical, Physical and Engineering Sciences
+641. Geometric Structures of Statistical Physics, Information Geometry, and Learning: SPIGL'20, Les Houches, France, July 27-31 by Frédéric Barbaresco, Paperback | Barnes & Noble®. *Barnesandnoble*. https://www.barnesandnoble.com
 
-royalsocietypublishing.org
+642. Joint Structures and Common Foundations of Statistical Physics, Information Geometry and Inference for Learning (SPIGL'20 @ Les Houches, 26-30th July 2020). *Github*. https://www.github.io
 
-Information Theory and Statistical Mechanics | SpringerLink
+643. Geometric Quantum Information Theory DHRUVA KARKADA. *Ucdavis*. https://www.ucdavis.edu
 
-springer.com
+644. GSI 2025 - GSI'25. *Conference-Gsi*. https://www.conference-gsi.org
 
-Geometric Structures of Statistical Physics, Information Geometry, and Learning: SPIGL'20, Les Houches, France, July 27-31 by Frédéric Barbaresco, Paperback | Barnes & Noble®
+645. Information Geometry | MDPI Books. *Mdpi*. https://www.mdpi.com
 
-barnesandnoble.com
+646. information geometry in nLab. *Ncatlab*. https://www.ncatlab.org
 
-Joint Structures and Common Foundations of Statistical Physics, Information Geometry and Inference for Learning (SPIGL'20 @ Les Houches, 26-30th July 2020)
-
-github.io
-
-Geometric Quantum Information Theory DHRUVA KARKADA
-
-ucdavis.edu
-
-GSI 2025 - GSI'25
-
-conference-gsi.org
-
-Information Geometry | MDPI Books
-
-mdpi.com
-
-information geometry in nLab
-
-ncatlab.org
-
-Geometric Structures of Statistical Physics, Information ...
-
-e-bookshelf.de
+647. Geometric Structures of Statistical Physics, Information . *E-Bookshelf*. https://www.e-bookshelf.de
 
 ## Ruppeiner 1979 thermodynamic geometry original paper
 
-10 results
+648. Ruppeiner geometry - Wikipedia. *Wikipedia*. https://en.wikipedia.org
 
-Ruppeiner geometry - Wikipedia
+649. GENERALIZED THERMODYNAMICS INCLUDING THE THEORY OF FLUCTUATIONS | Journal of the American Chemical Society. *Acs*. https://www.acs.org
 
-wikipedia.org
+650. Weinhold geometry and Ruppeiner geometry of black holes with conformal anomaly | Modern Physics Letters A. *Worldscientific*. https://www.worldscientific.com
 
-GENERALIZED THERMODYNAMICS INCLUDING THE THEORY OF FLUCTUATIONS | Journal of the American Chemical Society
+651. Ruppeiner thermodynamic geometry for the Schwarzschild-AdS black hole | Phys. Rev. D. *Phys Rev*. https://journals.aps.org
 
-acs.org
+652. Ruppeiner thermodynamic geometry for the Schwarzschild-AdS black hole. *arXiv*. https://arxiv.org/abs/1910.12182
 
-Weinhold geometry and Ruppeiner geometry of black holes with conformal anomaly | Modern Physics Letters A
+653. Some Early Ideas on the Metric Geometry of Thermodynamics | Journal of Low Temperature Physics. *Springer*. https://link.springer.com
 
-worldscientific.com
+654. (PDF) Ruppeiner thermodynamic geometry for the Schwarzschild-AdS black hole. *Researchgate*. https://www.researchgate.net
 
-Ruppeiner thermodynamic geometry for the Schwarzschild-AdS black hole | Phys. Rev. D
+655. Ruppeiner Geometry of Anyon Gas. *arXiv*. https://arxiv.org/abs/0808.0241
 
-aps.org
+656. A COMMENTARY ON RUPPEINER METRICS FOR BLACK HOLES | Modern Physics Letters A. *Worldscientific*. https://www.worldscientific.com
 
-[1910.12182] Ruppeiner thermodynamic geometry for the Schwarzschild-AdS black hole
-
-arxiv.org
-
-Some Early Ideas on the Metric Geometry of Thermodynamics | Journal of Low Temperature Physics
-
-springer.com
-
-(PDF) Ruppeiner thermodynamic geometry for the Schwarzschild-AdS black hole
-
-researchgate.net
-
-[0808.0241] Ruppeiner Geometry of Anyon Gas
-
-arxiv.org
-
-A COMMENTARY ON RUPPEINER METRICS FOR BLACK HOLES | Modern Physics Letters A
-
-worldscientific.com
-
-THERMODYNAMIC GEOMETRY OF THE BORN–INFELD–ANTI-DE SITTER BLACK HOLES | International Journal of Modern Physics A
-
-worldscientific.com
+657. THERMODYNAMIC GEOMETRY OF THE BORN–INFELD–ANTI-DE SITTER BLACK HOLES | International Journal of Modern Physics A. *Worldscientific*. https://www.worldscientific.com
 
 ## Ruppeiner geometry microscopic derivation statistical
 
-10 results
+658. Ruppeiner geometry - Wikipedia. *Wikipedia*. https://en.wikipedia.org
 
-Ruppeiner geometry - Wikipedia
+659. Thermodynamics, phase transitions and Ruppeiner geometry for Einstein–dilaton–Lifshitz black holes in the presence of Maxwell and Born–Infeld electrodynamics | The European Physical Journal C. *Springer*. https://link.springer.com
 
-wikipedia.org
+660. Ruppeiner geometry and thermodynamic phase transition of the black hole in massive gravity | The European Physical Journal C. *Springer*. https://link.springer.com
 
-Thermodynamics, phase transitions and Ruppeiner geometry for Einstein–dilaton–Lifshitz black holes in the presence of Maxwell and Born–Infeld electrodynamics | The European Physical Journal C
+661. Ruppeiner Geometry, Phase Transitions, and the Microstructure of Charged AdS Black Holes. *arXiv*. https://arxiv.org/abs/1909.03887
 
-springer.com
+662. Ruppeiner geometry, 𝑃-𝑉 criticality and interacting microstructures of black holes in dRGT massive gravity. *Arxiv*. https://arxiv.org
 
-Ruppeiner geometry and thermodynamic phase transition of the black hole in massive gravity | The European Physical Journal C
+663. Ruppeiner Geometry, Phase Transitions, and the Microstructure of Charged AdS Black Holes. *arXiv*. https://arxiv.org/abs/1909.03887
 
-springer.com
+664. Ruppeiner Geometry of Anyon Gas. *arXiv*. https://arxiv.org/abs/0808.0241
 
-[1909.03887] Ruppeiner Geometry, Phase Transitions, and the Microstructure of Charged AdS Black Holes
+665. Ruppeiner Geometry of Black Hole Thermodynamics. *arXiv*. https://arxiv.org/abs/0801.0016
 
-arxiv.org
+666. 𝑃-𝑉 Criticality and Microstructure of Hayward Black Holes in Anti-de Sitter Space. *Arxiv*. https://arxiv.org
 
-Ruppeiner geometry, 𝑃-𝑉 criticality and interacting microstructures of black holes in dRGT massive gravity
-
-arxiv.org
-
-[1909.03887] Ruppeiner Geometry, Phase Transitions, and the Microstructure of Charged AdS Black Holes
-
-arxiv.org
-
-[0808.0241] Ruppeiner Geometry of Anyon Gas
-
-arxiv.org
-
-[0801.0016] Ruppeiner Geometry of Black Hole Thermodynamics
-
-arxiv.org
-
-𝑃-𝑉 Criticality and Microstructure of Hayward Black Holes in Anti-de Sitter Space
-
-arxiv.org
-
-Thermodynamic curvature, R R , of the Ruppeiner geometry as a function... | Download Scientific Diagram
-
-researchgate.net
+667. Thermodynamic curvature, R R , of the Ruppeiner geometry as a function... | Download Scientific Diagram. *Researchgate*. https://www.researchgate.net
 
 ## "information geometry" "phase transitions" 2023 2024
 
-3 results
+668. Observed universality of phase transitions in high-dimensional geometry, with implications for modern data analysis and signal processing | Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences. *Royalsocietypublishing*. https://www.royalsocietypublishing.org
 
-Observed universality of phase transitions in high-dimensional geometry, with implications for modern data analysis and signal processing | Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences
+669. Information Geometry and Quantum Phase Transitions in the . *Researchgate*. https://www.researchgate.net
 
-royalsocietypublishing.org
-
-Information Geometry and Quantum Phase Transitions in the ...
-
-researchgate.net
-
-Dynamical Phase Transition - an overview | ScienceDirect Topics
-
-sciencedirect.com
+670. Dynamical Phase Transition - an overview | ScienceDirect Topics. *Sciencedirect*. https://www.sciencedirect.com
 
 ## spin networks continuum limit
 
-10 results
+671. Continuum Limit of gl(M/N) Spin Chains. *arXiv*. https://arxiv.org/abs/1012.0050
 
-[1012.0050] Continuum Limit of gl(M/N) Spin Chains
+672. The continuum limit of aN−1(2) spin chains - ScienceDirect. *Sciencedirect*. https://www.sciencedirect.com
 
-arxiv.org
+673. quantum gravity - What specifically does the phrase "continuum limit" mean? - Physics Stack Exchange. *Stackexchange*. https://www.stackexchange.com
 
-The continuum limit of aN−1(2) spin chains - ScienceDirect
+674. (PDF) Systematic classical continuum limits of integrable spin chains and emerging novel dualities. *Researchgate*. https://www.researchgate.net
 
-sciencedirect.com
+675. Continuum Limit of Spin Dynamics on Two-Dimensional Hexagonal Lattice | SIAM Journal on Applied Mathematics. *Siam*. https://www.siam.org
 
-quantum gravity - What specifically does the phrase "continuum limit" mean? - Physics Stack Exchange
+676. Continuum Limit of Spin Dynamics on Two-dimensional Hexagonal Lattice. *Arxiv*. https://arxiv.org
 
-stackexchange.com
+677. A spin network and the "chunks", or quanta, of space it describes. | Download Scientific Diagram. *Researchgate*. https://www.researchgate.net
 
-(PDF) Systematic classical continuum limits of integrable spin chains and emerging novel dualities
+678. Topics: Spin Networks. *Olemiss*. https://www.olemiss.edu
 
-researchgate.net
+679. quantum mechanics - Heisenberg equation of motion and continuum limit - Physics Stack Exchange. *Stackexchange*. https://www.stackexchange.com
 
-Continuum Limit of Spin Dynamics on Two-Dimensional Hexagonal Lattice | SIAM Journal on Applied Mathematics
-
-siam.org
-
-Continuum Limit of Spin Dynamics on Two-dimensional Hexagonal Lattice
-
-arxiv.org
-
-A spin network and the "chunks", or quanta, of space it describes. | Download Scientific Diagram
-
-researchgate.net
-
-Topics: Spin Networks
-
-olemiss.edu
-
-quantum mechanics - Heisenberg equation of motion and continuum limit - Physics Stack Exchange
-
-stackexchange.com
-
-A Quantum Approach to the Continuum Heisenberg Spin-Chain Model: Position-Dependent Mass Formalism and Pre-canonical Quantization
-
-arxiv.org
+680. A Quantum Approach to the Continuum Heisenberg Spin-Chain Model: Position-Dependent Mass Formalism and Pre-canonical Quantization. *Arxiv*. https://arxiv.org
 
 ## LQG cosmology bounce
 
-10 results
+681. Loop quantum gravity - Wikipedia. *Wikipedia*. https://en.wikipedia.org
 
-Loop quantum gravity - Wikipedia
+682. Loop quantum cosmology - Wikipedia. *Wikipedia*. https://en.wikipedia.org
 
-wikipedia.org
+683. universe Review An Overview on the Nature of the Bounce in LQC and PQM. *Uniroma1*. https://www.uniroma1.it
 
-Loop quantum cosmology - Wikipedia
+684. Microwave anomalies strengthen the case for loop quantum cosmology, say physicists – Physics World. *Physicsworld*. https://physicsworld.com
 
-wikipedia.org
+685. Abstract. *Arxiv*. https://arxiv.org
 
-universe Review An Overview on the Nature of the Bounce in LQC and PQM
+686. Loop quantum gravity and cosmological constant - ScienceDirect. *Sciencedirect*. https://www.sciencedirect.com
 
-uniroma1.it
+687. This is the accepted manuscript made available via CHORUS. The article has been. *Phys Rev*. https://journals.aps.org
 
-Microwave anomalies strengthen the case for loop quantum cosmology, say physicists – Physics World
+688. Universe | Special Issue : Loop Quantum Cosmology and Quantum Black Holes. *Mdpi*. https://www.mdpi.com
 
-physicsworld.com
+689. LQG and the Big Bounce: Does Accelerating Expansion Matter?. *Physicsforums*. https://www.physicsforums.com
 
-Abstract
-
-arxiv.org
-
-Loop quantum gravity and cosmological constant - ScienceDirect
-
-sciencedirect.com
-
-This is the accepted manuscript made available via CHORUS. The article has been
-
-aps.org
-
-Universe | Special Issue : Loop Quantum Cosmology and Quantum Black Holes
-
-mdpi.com
-
-LQG and the Big Bounce: Does Accelerating Expansion Matter?
-
-physicsforums.com
-
-[2509.04945] Effective LQG dynamics of a thin shell and the fate of a collapsing star
-
-arxiv.org
+690. Effective LQG dynamics of a thin shell and the fate of a collapsing star. *arXiv*. https://arxiv.org/abs/2509.04945
 
 ## loop quantum gravity problems
 
-10 results
+691. Loop quantum gravity - Wikipedia. *Wikipedia*. https://en.wikipedia.org
 
-Loop quantum gravity - Wikipedia
+692. Loop Quantum Gravity - PMC. *Nih*. https://www.nih.gov
 
-wikipedia.org
+693. Loop quantum gravity: Does space-time come in tiny chunks? | Space. *Space*. https://www.space.com
 
-Loop Quantum Gravity - PMC
+694. Loop Quantum Gravity | Living Reviews in Relativity. *Springer*. https://link.springer.com
 
-nih.gov
+695. Loop Quantum Gravity Debate | Not Even Wrong. *Columbia*. https://www.columbia.edu
 
-Loop quantum gravity: Does space-time come in tiny chunks? | Space
+696. Loop Quantum Gravity - PMC. *Nih*. https://www.nih.gov
 
-space.com
+697. String Theory Meets Loop Quantum Gravity | Quanta Magazine. *Quantamagazine*. https://www.quantamagazine.org
 
-Loop Quantum Gravity | Living Reviews in Relativity
+698. Benefits and Flaws of Loop Quantum Gravity | dummies. *Dummies*. https://www.dummies.com
 
-springer.com
+699. Science Simplified: Loop Quantum Gravity vs. String Theory – The SRVHS Wolfprint. *Thewolfprint*. https://www.thewolfprint.com
 
-Loop Quantum Gravity Debate | Not Even Wrong
-
-columbia.edu
-
-Loop Quantum Gravity - PMC
-
-nih.gov
-
-String Theory Meets Loop Quantum Gravity | Quanta Magazine
-
-quantamagazine.org
-
-Benefits and Flaws of Loop Quantum Gravity | dummies
-
-dummies.com
-
-Science Simplified: Loop Quantum Gravity vs. String Theory – The SRVHS Wolfprint
-
-thewolfprint.com
-
-Introduction to loop quantum gravity Suvi-Leena Lehtinen 21.9.2012
-
-imperial.ac.uk
+700. Introduction to loop quantum gravity Suvi-Leena Lehtinen 21.9.2012. *Imperial*. https://www.imperial.ac.uk
 
 ## loop quantum gravity current status
 
-10 results
+701. Loop quantum gravity - Wikipedia. *Wikipedia*. https://en.wikipedia.org
 
-Loop quantum gravity - Wikipedia
+702. Loop Quantum Gravity - PMC. *Nih*. https://www.nih.gov
 
-wikipedia.org
+703. A Short Review of Loop Quantum Gravity. *arXiv*. https://arxiv.org/abs/2104.04394
 
-Loop Quantum Gravity - PMC
+704. Loop Quantum Gravity - latest research news and features. *Phys*. https://phys.org
 
-nih.gov
+705. Loop Quantum Gravity | Living Reviews in Relativity. *Springer*. https://link.springer.com
 
-[2104.04394] A Short Review of Loop Quantum Gravity
+706. The Overview Chapter in Loop Quantum Gravity: The First 30 Years. *arXiv*. https://arxiv.org/abs/1703.07396
 
-arxiv.org
+707. (PDF) Loop Quantum Cosmology: A Status Report. *Researchgate*. https://www.researchgate.net
 
-Loop Quantum Gravity - latest research news and features
+708. Loop Quantum Gravity | 100 Years of General Relativity. *Worldscientific*. https://www.worldscientific.com
 
-phys.org
+709. Current Status of Loop Quantum Gravity: Successes, Failures & Open Questions. *Physicsforums*. https://www.physicsforums.com
 
-Loop Quantum Gravity | Living Reviews in Relativity
-
-springer.com
-
-[1703.07396] The Overview Chapter in Loop Quantum Gravity: The First 30 Years
-
-arxiv.org
-
-(PDF) Loop Quantum Cosmology: A Status Report
-
-researchgate.net
-
-Loop Quantum Gravity | 100 Years of General Relativity
-
-worldscientific.com
-
-Current Status of Loop Quantum Gravity: Successes, Failures & Open Questions
-
-physicsforums.com
-
-Loop Quantum Cosmology - PMC
-
-nih.gov
+710. Loop Quantum Cosmology - PMC. *Nih*. https://www.nih.gov
 
 ## Ashtekar variables recent developments
 
-10 results
+711. Ashtekar variables - Wikipedia. *Wikipedia*. https://en.wikipedia.org
 
-Ashtekar variables - Wikipedia
+712. Ashtekar variables - Scholarpedia. *Scholarpedia*. https://www.scholarpedia.org
 
-wikipedia.org
+713. On Ashtekar's Formulation of General Relativity. *IOP Science*. https://iopscience.iop.org
 
-Ashtekar variables - Scholarpedia
+714. (PDF) Ashtekar variables. *Researchgate*. https://www.researchgate.net
 
-scholarpedia.org
+715. Complex Ashtekar Variables and Reality Conditions for Holst’s Action | Annales Henri Poincaré. *Springer*. https://link.springer.com
 
-On Ashtekar's Formulation of General Relativity
+716. Step-by-Step Canonical Quantum Gravity -- Part I: Ashtekar's New Variables. *arXiv*. https://arxiv.org/abs/2401.06863
 
-iop.org
+717. Complex Ashtekar variables and reality conditions for Holst's action. *arXiv*. https://arxiv.org/abs/1012.1738
 
-(PDF) Ashtekar variables
+718. Aspects of canonical gravity and supergravity - ScienceDirect. *Sciencedirect*. https://www.sciencedirect.com
 
-researchgate.net
+719. Generalized Ashtekar variables for Palatini f(R) models - ScienceDirect. *Sciencedirect*. https://www.sciencedirect.com
 
-Complex Ashtekar Variables and Reality Conditions for Holst’s Action | Annales Henri Poincaré
-
-springer.com
-
-[2401.06863] Step-by-Step Canonical Quantum Gravity -- Part I: Ashtekar's New Variables
-
-arxiv.org
-
-[1012.1738] Complex Ashtekar variables and reality conditions for Holst's action
-
-arxiv.org
-
-Aspects of canonical gravity and supergravity - ScienceDirect
-
-sciencedirect.com
-
-Generalized Ashtekar variables for Palatini f(R) models - ScienceDirect
-
-sciencedirect.com
-
-[gr-qc/9312032] Ashtekar Variables in Classical General Realtivity
-
-arxiv.org
+720. Ashtekar Variables in Classical General Realtivity. *arXiv*. https://arxiv.org/abs/gr-qc/9312032
 
 ## LQG discrete structure
 
-10 results
+721. Loop Quantum Gravity (LQG): A Discrete Structure of Spacetime | Abdul Wahab Junaid. *Awjunaid*. https://www.awjunaid.com
 
-Loop Quantum Gravity (LQG): A Discrete Structure of Spacetime | Abdul Wahab Junaid
+722. Linear–quadratic–Gaussian control - Wikipedia. *Wikipedia*. https://en.wikipedia.org
 
-awjunaid.com
+723. Formulas for Discrete Time LQR, LQG, LEQG and Minimax LQG Optimal Control Problems - ScienceDirect. *Sciencedirect*. https://www.sciencedirect.com
 
-Linear–quadratic–Gaussian control - Wikipedia
+724. lqg - Linear-Quadratic-Gaussian (LQG) design - MATLAB. *Mathworks*. https://www.mathworks.com
 
-wikipedia.org
+725. Linear-Quadratic-Gaussian (LQG) Design - MATLAB & Simulink. *Mathworks*. https://www.mathworks.com
 
-Formulas for Discrete Time LQR, LQG, LEQG and Minimax LQG Optimal Control Problems - ScienceDirect
+726. Discreteness Corrections to the Effective Hamiltonian of Isotropic Loop Quantum Cosmology. *arXiv*. https://arxiv.org/abs/gr-qc/0501102
 
-sciencedirect.com
+727. Beyond the Horizon: AdS/CFT and Loop Quantum Gravity | by Beyond the Horizon | Medium. *Medium*. https://medium.com
 
-lqg - Linear-Quadratic-Gaussian (LQG) design - MATLAB
+728. Loop Quantum Gravity vs. String Theory: Can Either Truly Explain the Universe? - David Maiolo. *Davidmaiolo*. https://davidmaiolo.com
 
-mathworks.com
+729. Wu Dynamic programming. *Mit*. https://www.mit.edu
 
-Linear-Quadratic-Gaussian (LQG) Design - MATLAB & Simulink
-
-mathworks.com
-
-[gr-qc/0501102] Discreteness Corrections to the Effective Hamiltonian of Isotropic Loop Quantum Cosmology
-
-arxiv.org
-
-Beyond the Horizon: AdS/CFT and Loop Quantum Gravity | by Beyond the Horizon | Medium
-
-medium.com
-
-Loop Quantum Gravity vs. String Theory: Can Either Truly Explain the Universe? - David Maiolo
-
-davidmaiolo.com
-
-Wu Dynamic programming
-
-mit.edu
-
-How does LQG handle discreteness?
-
-physicsforums.com
+730. How does LQG handle discreteness?. *Physicsforums*. https://www.physicsforums.com
 
 ## ER=EPR emergent spacetime Maldacena
 
-10 results
+731. ER = EPR - Wikipedia. *Wikipedia*. https://en.wikipedia.org
 
-ER = EPR - Wikipedia
+732. Quantum Entanglement and the Emergence of Spacetime: A Deep Dive - konstantinos.kourentzes.com. *Kourentzes*. https://www.kourentzes.com
 
-wikipedia.org
+733. Black Holes, Quantum Information, and the Structure of Spacetime - Ideas | Institute for Advanced Study. *Ias*. https://www.ias.edu
 
-Quantum Entanglement and the Emergence of Spacetime: A Deep Dive - konstantinos.kourentzes.com
+734. Entanglement and the Geometry of Spacetime - Ideas | Institute for Advanced Study. *Ias*. https://www.ias.edu
 
-kourentzes.com
+735. quantum mechanics - What does ER=EPR actually mean? Is entanglement really the same as a wormhole? - Physics Stack Exchange. *Stackexchange*. https://www.stackexchange.com
 
-Black Holes, Quantum Information, and the Structure of Spacetime - Ideas | Institute for Advanced Study
+736. Wormholes Untangle a Black Hole Paradox | Quanta Magazine. *Quantamagazine*. https://www.quantamagazine.org
 
-ias.edu
+737. Space Emerging from Quantum Mechanics – Sean Carroll. *Preposterousuniverse*. https://www.preposterousuniverse.com
 
-Entanglement and the Geometry of Spacetime - Ideas | Institute for Advanced Study
+738. General Relativistic Wormhole Connections from Planck-Scales and the ER = EPR Conjecture - PMC. *Nih*. https://www.nih.gov
 
-ias.edu
+739. Cool horizons for entangled black holes. *arXiv*. https://arxiv.org/abs/1306.0533
 
-quantum mechanics - What does ER=EPR actually mean? Is entanglement really the same as a wormhole? - Physics Stack Exchange
-
-stackexchange.com
-
-Wormholes Untangle a Black Hole Paradox | Quanta Magazine
-
-quantamagazine.org
-
-Space Emerging from Quantum Mechanics – Sean Carroll
-
-preposterousuniverse.com
-
-General Relativistic Wormhole Connections from Planck-Scales and the ER = EPR Conjecture - PMC
-
-nih.gov
-
-[1306.0533] Cool horizons for entangled black holes
-
-arxiv.org
-
-Entangled Black Holes and the Structure of Space | by Beyond the Horizon | Medium
-
-medium.com
+740. Entangled Black Holes and the Structure of Space | by Beyond the Horizon | Medium. *Medium*. https://medium.com
 
 ## Verlinde entropic gravity 2024 2025
 
-10 results
+741. Entropic gravity - Wikipedia. *Wikipedia*. https://en.wikipedia.org
 
-Entropic gravity - Wikipedia
+742. Emergent Gravity and the Dark Universe. *arXiv*. https://arxiv.org/abs/1611.02269
 
-wikipedia.org
+743. The Gravity of Knowing: Informational Compression and the Emergence of Coherence in a Computational Universe - Phosphere. *Phosphere*. https://www.phosphere.com
 
-[1611.02269] Emergent Gravity and the Dark Universe
+744. arXiv:1108.5240v4 [hep-th] 20 Oct 2011 Conservative entropic forces. *Arxiv*. https://arxiv.org
 
-arxiv.org
+745. On the origin of gravity and the laws of Newton. *Uva*. https://www.uva.nl
 
-The Gravity of Knowing: Informational Compression and the Emergence of Coherence in a Computational Universe - Phosphere
+746. Decoherence-free entropic gravity: Model and experimental tests | Phys. Rev. Research. *Phys Rev*. https://journals.aps.org
 
-phosphere.com
+747. Emergent Gravity theory by Verlinde - Physics Stack Exchange. *Stackexchange*. https://www.stackexchange.com
 
-arXiv:1108.5240v4 [hep-th] 20 Oct 2011 Conservative entropic forces
+748. On the Origin of Gravity and the Laws of Newton. *arXiv*. https://arxiv.org/abs/1001.0785
 
-arxiv.org
+749. Gravity from entropy | Phys. Rev. D. *Phys Rev*. https://journals.aps.org
 
-On the origin of gravity and the laws of Newton
-
-uva.nl
-
-Decoherence-free entropic gravity: Model and experimental tests | Phys. Rev. Research
-
-aps.org
-
-Emergent Gravity theory by Verlinde - Physics Stack Exchange
-
-stackexchange.com
-
-[1001.0785] On the Origin of Gravity and the Laws of Newton
-
-arxiv.org
-
-Gravity from entropy | Phys. Rev. D
-
-aps.org
-
-Non-relativistic quantum field theory of Verlinde’s emergent entropic gravity - ScienceDirect
-
-sciencedirect.com
+750. Non-relativistic quantum field theory of Verlinde’s emergent entropic gravity - ScienceDirect. *Sciencedirect*. https://www.sciencedirect.com
 
 ## emergent gravity entanglement Van Raamsdonk
 
-10 results
+751. Building up spacetime with quantum entanglement. *arXiv*. https://arxiv.org/abs/1005.3035
 
-[1005.3035] Building up spacetime with quantum entanglement
+752. Building up spacetime with quantum entanglement | General Relativity and Gravitation. *Springer*. https://link.springer.com
 
-arxiv.org
+753. Building up spacetime with quantum entanglement. *Cern*. https://home.cern
 
-Building up spacetime with quantum entanglement | General Relativity and Gravitation
+754. BUILDING UP SPACE–TIME WITH QUANTUM ENTANGLEMENT. *Researchgate*. https://www.researchgate.net
 
-springer.com
+755. Spacetime from bits | Science. *Science*. https://www.science.org
 
-Building up spacetime with quantum entanglement
+756. Induced gravity - Wikipedia. *Wikipedia*. https://en.wikipedia.org
 
-cern.ch
+757. Lectures on Gravity and Entanglement. *arXiv*. https://arxiv.org/abs/1609.00026
 
-BUILDING UP SPACE–TIME WITH QUANTUM ENTANGLEMENT
+758. International Journal of Modern Physics D. *Worldscientific*. https://www.worldscientific.com
 
-researchgate.net
+759. Quantum Entanglement and the Emergence of Spacetime: A Deep Dive - konstantinos.kourentzes.com. *Kourentzes*. https://www.kourentzes.com
 
-Spacetime from bits | Science
-
-science.org
-
-Induced gravity - Wikipedia
-
-wikipedia.org
-
-[1609.00026] Lectures on Gravity and Entanglement
-
-arxiv.org
-
-International Journal of Modern Physics D
-
-worldscientific.com
-
-Quantum Entanglement and the Emergence of Spacetime: A Deep Dive - konstantinos.kourentzes.com
-
-kourentzes.com
-
-models - Is spacetime emergent? - Physics Stack Exchange
-
-stackexchange.com
+760. models - Is spacetime emergent? - Physics Stack Exchange. *Stackexchange*. https://www.stackexchange.com
 
 ## entropic gravity experimental tests constraints
 
-10 results
+761. Entropic gravity - Wikipedia. *Wikipedia*. https://en.wikipedia.org
 
-Entropic gravity - Wikipedia
+762. Decoherence-free entropic gravity: Model and experimental tests | Phys. Rev. Research. *Phys Rev*. https://journals.aps.org
 
-wikipedia.org
+763. Decoherence-Free Entropic Gravity: Model and Experimental Tests. *arXiv*. https://arxiv.org/abs/2012.10626
 
-Decoherence-free entropic gravity: Model and experimental tests | Phys. Rev. Research
+764. Decoherence-Free Entropic Gravity: Model and Experimental Tests. *arXiv*. https://arxiv.org/abs/2012.10626v2
 
-aps.org
+765. (PDF) Decoherence-free entropic gravity: Model and experimental tests. *Researchgate*. https://www.researchgate.net
 
-[2012.10626] Decoherence-Free Entropic Gravity: Model and Experimental Tests
+766. On the Quantum Mechanics of Entropic Forces | Phys. Rev. X. *Doi*. https://www.doi.org
 
-arxiv.org
+767. References For: Phys. Rev. Research 3, 033065 (2021) - Decoherence-free entropic gravity: Model and experimental tests. *Phys Rev*. https://journals.aps.org
 
-[2012.10626v2] Decoherence-Free Entropic Gravity: Model and Experimental Tests
+768. Is Gravity Just Entropy Rising? Long-Shot Idea Gets Another Look. | Quanta Magazine. *Quantamagazine*. https://www.quantamagazine.org
 
-arxiv.org
+769. Realize Emergent Gravity to Generic Situations - PMC. *Nih*. https://www.nih.gov
 
-(PDF) Decoherence-free entropic gravity: Model and experimental tests
-
-researchgate.net
-
-On the Quantum Mechanics of Entropic Forces | Phys. Rev. X
-
-doi.org
-
-References For: Phys. Rev. Research 3, 033065 (2021) - Decoherence-free entropic gravity: Model and experimental tests
-
-aps.org
-
-Is Gravity Just Entropy Rising? Long-Shot Idea Gets Another Look. | Quanta Magazine
-
-quantamagazine.org
-
-Realize Emergent Gravity to Generic Situations - PMC
-
-nih.gov
-
-Phys. Rev. Research 3, 033065 (2021) - Decoherence-free entropic gravity: Model and experimental tests
-
-aps.org
+770. Phys. Rev. Research 3, 033065 (2021) - Decoherence-free entropic gravity: Model and experimental tests. *Phys Rev*. https://journals.aps.org
 
 ## negentropy gradient gravity information
 
-10 results
+771. Gravity, Negentropy and Life | Cosmic Energy Cycle. *Cosmicenergycycle*. https://www.cosmicenergycycle.org
 
-Gravity, Negentropy and Life | Cosmic Energy Cycle
+772. Decoherence-free entropic gravity: Model and experimental tests | Phys. Rev. Research. *Phys Rev*. https://journals.aps.org
 
-cosmicenergycycle.org
+773. References For: Phys. Rev. Research 3, 033065 (2021) - Decoherence-free entropic gravity: Model and experimental tests. *Phys Rev*. https://journals.aps.org
 
-Decoherence-free entropic gravity: Model and experimental tests | Phys. Rev. Research
+774. CALT-TH-2015-038 What is the Entropy in Entropic Gravity?. *Arxiv*. https://arxiv.org
 
-aps.org
+775. negentropy - Quantum Gravity Research. *Quantumgravityresearch*. https://www.quantumgravityresearch.org
 
-References For: Phys. Rev. Research 3, 033065 (2021) - Decoherence-free entropic gravity: Model and experimental tests
+776. Full article: Experiments in negentropic knowledge: Bernard Stiegler and the philosophy of education II. *Tandfonline*. https://www.tandfonline.com
 
-aps.org
+777. Entropic gravity - Wikipedia. *Wikipedia*. https://en.wikipedia.org
 
-CALT-TH-2015-038 What is the Entropy in Entropic Gravity?
+778. Quantum Non-separability, Consciousness, Negentropy and a New Concept of Gravity - Article (Preprint v2) by Arthur Pletcher | Qeios. *Qeios*. https://www.qeios.com
 
-arxiv.org
+779. Gravity from entropy: A radical new approach to unifying quantum mechanics and general relativity. *Phys*. https://phys.org
 
-negentropy - Quantum Gravity Research
-
-quantumgravityresearch.org
-
-Full article: Experiments in negentropic knowledge: Bernard Stiegler and the philosophy of education II
-
-tandfonline.com
-
-Entropic gravity - Wikipedia
-
-wikipedia.org
-
-Quantum Non-separability, Consciousness, Negentropy and a New Concept of Gravity - Article (Preprint v2) by Arthur Pletcher | Qeios
-
-qeios.com
-
-Gravity from entropy: A radical new approach to unifying quantum mechanics and general relativity
-
-phys.org
-
-newtonian gravity - How does gradient give $g$? - Physics Stack Exchange
-
-stackexchange.com
+780. newtonian gravity - How does gradient give $g$? - Physics Stack Exchange. *Stackexchange*. https://www.stackexchange.com
 
 ## emergent gravity criticisms 2020-2025
 
-10 results
+781. Study finds flaw in emergent gravity. *Phys*. https://phys.org
 
-Study finds flaw in emergent gravity
+782. Entropic gravity - Wikipedia. *Wikipedia*. https://en.wikipedia.org
 
-phys.org
+783. CORRESPONDING AUTHOR: Mike D. Schneider University of Missouri, US. *Lse*. https://www.lse.ac.uk
 
-Entropic gravity - Wikipedia
+784. SciPost: SciPost Phys. 2, 016 (2017) - Emergent Gravity and the Dark Universe. *Scipost*. https://scipost.org
 
-wikipedia.org
+785. A Unified Operator Framework for Emergent Gravity and
 
-CORRESPONDING AUTHOR: Mike D. Schneider University of Missouri, US
+786. Tug of war around gravity. *Phys*. https://phys.org
 
-lse.ac.uk
+787. Hints towards the emergent nature of gravity - ScienceDirect. *Sciencedirect*. https://www.sciencedirect.com
 
-SciPost: SciPost Phys. 2, 016 (2017) - Emergent Gravity and the Dark Universe
+788. Emergent Gravity and the Dark Universe. *Physicsforums*. https://www.physicsforums.com
 
-scipost.org
+789. Emergent Gravity and the Dark Universe. *arXiv*. https://arxiv.org/abs/1611.02269
 
-A Unified Operator Framework for Emergent Gravity and ...
+790. Emergent Gravity and the Dark Universe. *Researchgate*. https://www.researchgate.net
 
-hal.science
+791. String theory - Wikipedia. *Arxiv*. https://arxiv.org
 
-Tug of war around gravity
+792. Tachyon Condensation in Superstring Field Theory - arXiv. *arXiv*. https://arxiv.org/abs/hep-th/0002211
 
-phys.org
+793. D-Branes, Tachyons, and String Field Theory. *Arxiv*. https://arxiv.org
 
-Hints towards the emergent nature of gravity - ScienceDirect
+794. Tachyon condensation in string field theory - arXiv. *arXiv*. https://arxiv.org/abs/hep-th/9912249
 
-sciencedirect.com
+795. Fundamental Strings in Open String Theory at the Tachyonic Vacuum - arXiv. *arXiv*. https://arxiv.org/abs/hep-th/0010240
 
-Emergent Gravity and the Dark Universe
+796. Background independence - Wikipedia. *Arxiv*. https://arxiv.org
 
-physicsforums.com
+797. Why Do We Want a Theory of Quantum Gravity? - arXiv
 
-[1611.02269] Emergent Gravity and the Dark Universe
+798. nucleares.unam.mx
 
-arxiv.org
+799. String Theory and M-Theory. *Physics*. https://www.physics.stackexchange.com
 
-Emergent Gravity and the Dark Universe
+800. quantum mechanics - Could the measurement problem be solved by . *Reddit*. https://www.reddit.com
 
-researchgate.net
+801. Does String Theory require a certain interpretation of QM? : r/AskPhysics - Reddit. *Physics*. https://www.physics.stackexchange.com
 
-en.wikipedia.org
-String theory - Wikipedia
+802. Does string theory shed light on foundations of quantum theory? - Physics Stack Exchange. *En*. https://en.wikipedia.org
 
-arxiv.org
-[hep-th/0002211] Tachyon Condensation in Superstring Field Theory - arXiv
+803. Entropy as an arrow of time - Wikipedia. *Iep*. https://www.iep.utm.edu
 
-arxiv.org
-D-Branes, Tachyons, and String Field Theory
+804. The Arrow of Time | Internet Encyclopedia of Philosophy. *Link*. https://journals.aps.org
 
-arxiv.org
-[hep-th/9912249] Tachyon condensation in string field theory - arXiv
+805. Relation between the psychological and thermodynamic arrows of time | Phys. Rev. E. *Physics*. https://www.physics.stackexchange.com
 
-arxiv.org
-[hep-th/0010240] Fundamental Strings in Open String Theory at the Tachyonic Vacuum - arXiv
+806. Second law of thermodynamics and the arrow of time: why isn't time considered fundamental? - Physics Stack Exchange. *Reddit*. https://www.reddit.com
 
-en.wikipedia.org
-Background independence - Wikipedia
+807. Why is the concept of arrow of time apparently contradictory with Newtonian physics - Reddit. *Arxiv*. https://arxiv.org
 
-arxiv.org
-Why Do We Want a Theory of Quantum Gravity? - arXiv
+808. String Theory and The Arrow of Time
 
-nucleares.unam.mx
-String Theory and M-Theory
+809. nucleares.unam.mx
 
-physics.stackexchange.com
-quantum mechanics - Could the measurement problem be solved by ...
+810. SUPERSYMMETRY AND STRING THEORY: Beyond the Standard Model. *Pmc*. https://www.pmc.ncbi.nlm.nih.gov
 
-reddit.com
-Does String Theory require a certain interpretation of QM? : r/AskPhysics - Reddit
+811. Recent developments in superstring theory - PMC - PubMed Central. *Reddit*. https://www.reddit.com
 
-physics.stackexchange.com
-Does string theory shed light on foundations of quantum theory? - Physics Stack Exchange
+812. Which real-world phenomena are predicted by superstring theory? : r/AskPhysics - Reddit. *Physics*. https://www.physics.stackexchange.com
 
-en.wikipedia.org
-Entropy as an arrow of time - Wikipedia
+813. What experiment would prove string theory? - Physics Stack Exchange. *Pmc*. https://www.pmc.ncbi.nlm.nih.gov
 
-iep.utm.edu
-The Arrow of Time | Internet Encyclopedia of Philosophy
+814. Loop Quantum Gravity - PMC - PubMed Central. *Arxiv*. https://arxiv.org
 
-link.aps.org
-Relation between the psychological and thermodynamic arrows of time | Phys. Rev. E
+815. A Short Review of Loop Quantum Gravity - arXiv. *En*. https://en.wikipedia.org
 
-physics.stackexchange.com
-Second law of thermodynamics and the arrow of time: why isn't time considered fundamental? - Physics Stack Exchange
+816. Loop quantum gravity - Wikipedia. *Einstein-Online*. https://www.einstein-online.info
 
-reddit.com
-Why is the concept of arrow of time apparently contradictory with Newtonian physics - Reddit
+817. The fabric of space: spin networks - Einstein-Online. *Thestembulletin*. https://www.thestembulletin.com
 
-arxiv.org
-String Theory and The Arrow of Time
+818. The Quantum Arrow of Time: Why Does Time Flow in One Direction? - The STEM Bulletin. *Arxiv*. https://arxiv.org
 
-nucleares.unam.mx
-SUPERSYMMETRY AND STRING THEORY: Beyond the Standard Model
+819. Arrows of time in bouncing cosmologies - arXiv. *Arxiv*. https://arxiv.org
 
-pmc.ncbi.nlm.nih.gov
-Recent developments in superstring theory - PMC - PubMed Central
+820. Testing Lorentz Invariance Violation in Quantum Gravity ... - arXiv. *Pmc*. https://www.pmc.ncbi.nlm.nih.gov
 
-reddit.com
-Which real-world phenomena are predicted by superstring theory? : r/AskPhysics - Reddit
+821. Modern Tests of Lorentz Invariance - PMC. *Link*. https://journals.aps.org
 
-physics.stackexchange.com
-What experiment would prove string theory? - Physics Stack Exchange
+822. Alternative approaches to Lorentz violation invariance in loop quantum gravity inspired models | Phys. Rev. D - Physical Review Link Manager. *Physics*. https://www.physics.stackexchange.com
 
-pmc.ncbi.nlm.nih.gov
-Loop Quantum Gravity - PMC - PubMed Central
+823. string theory - Have any of the new predictions made by LQG been experimentally verified?. *En*. https://en.wikipedia.org
 
-arxiv.org
-A Short Review of Loop Quantum Gravity - arXiv
+824. Causal sets - Wikipedia. *Arxiv*. https://arxiv.org
 
-en.wikipedia.org
-Loop quantum gravity - Wikipedia
+825. arxiv.org. *Imperial*. https://www.imperial.ac.uk
 
-einstein-online.info
-The fabric of space: spin networks - Einstein-Online
+826. Causal Set Theory and the Benincasa-Dowker Conjecture - Imperial College London. *Researchgate*. https://www.researchgate.net
 
-thestembulletin.com
-The Quantum Arrow of Time: Why Does Time Flow in One Direction? - The STEM Bulletin
+827. Causal sets and the deep structure of spacetime - ResearchGate. *Arxiv*. https://arxiv.org
 
-arxiv.org
-Arrows of time in bouncing cosmologies - arXiv
+828. 1. The trouble with causal sets - arXiv. *Emergentmind*. https://www.emergentmind.com
 
-arxiv.org
-Testing Lorentz Invariance Violation in Quantum Gravity ... - arXiv
+829. Causal Set Approach to Quantum Gravity - Emergent Mind. *Surface*. https://www.surface.syr.edu
 
-pmc.ncbi.nlm.nih.gov
-Modern Tests of Lorentz Invariance - PMC
+830. Discreteness and the Transmission of Light from Distant Sources. *Arxiv*. https://arxiv.org
 
-link.aps.org
-Alternative approaches to Lorentz violation invariance in loop quantum gravity inspired models | Phys. Rev. D - Physical Review Link Manager
+831. The arrow of time and the nature of spacetime arXiv:1302.7291v2 [gr . *Link*. https://journals.aps.org
 
-physics.stackexchange.com
-string theory - Have any of the new predictions made by LQG been experimentally verified?
+832. Arrow of Causality and Quantum Gravity | Phys. Rev. Lett. - Physical Review Link Manager. *Medium*. https://medium.com
 
-en.wikipedia.org
-Causal sets - Wikipedia
+833. Abstract — Geometric Unity: A Theory of Everything Through Hidden Geometry - Medium. *Geometricunity*. https://www.geometricunity.org
 
-arxiv.org
-arxiv.org
+834. Geometric Unity. *Physics*. https://www.physics.stackexchange.com
 
-imperial.ac.uk
-Causal Set Theory and the Benincasa-Dowker Conjecture - Imperial College London
+835. What is Eric Weinstein's Geometric Unity theory? [closed] - Physics Stack Exchange. *Saismaran*. https://www.saismaran.org
 
-researchgate.net
-Causal sets and the deep structure of spacetime - ResearchGate
+836. Geometric Unity: Author's Working Draft, v 1.0 - Sai Smaran. *Medium*. https://medium.com
 
-arxiv.org
+837. Emergence of Causality from the Geometry of Spacetimes. *Zenodo*. https://www.zenodo.org
 
-1. The trouble with causal sets - arXiv
+838. Geometric Unity Theory: a Novel Approach to Quantum Gravity Through Four-Dimensional Möbius Strip Geometry - Zenodo. *Shmaesphysics*. https://www.shmaesphysics.wordpress.com
 
-emergentmind.com
-Causal Set Approach to Quantum Gravity - Emergent Mind
+839. Pointers to Nowhere with Geometric Unity Theory, or Some Ways Forward in Multi-fold Universes? - Shmaes - Physics. *Timothynguyen*. https://www.timothynguyen.org
 
-surface.syr.edu
-Discreteness and the Transmission of Light from Distant Sources
+840. Geometric Unity – Timothy Nguyen. *Reddit*. https://www.reddit.com
 
-arxiv.org
-The arrow of time and the nature of spacetime arXiv:1302.7291v2 [gr ...
+841. Sean Carroll Humiliates Eric Weinstein : r/Physics - Reddit. *News*. https://www.news.ycombinator.com
 
-link.aps.org
-Arrow of Causality and Quantum Gravity | Phys. Rev. Lett. - Physical Review Link Manager
+842. The Wolfram Physics Project | Hacker News. *Wolframscience*. https://www.wolframscience.com
 
-medium.com
-Abstract — Geometric Unity: A Theory of Everything Through Hidden Geometry - Medium
+843. 10 The Case of Hypergraphs - Wolfram Science. *Writings*. https://writings.stephenwolfram.com
 
-geometricunity.org
-Geometric Unity
+844. The Wolfram Physics Project: A One-Year Update. *Youtube*. https://www.youtube.com
 
-physics.stackexchange.com
-What is Eric Weinstein's Geometric Unity theory? [closed] - Physics Stack Exchange
+845. GReTA seminar #10: "Hypergraph Rewriting and the Wolfram Model" - YouTube. *Writings*. https://writings.stephenwolfram.com
 
-saismaran.org
-Geometric Unity: Author's Working Draft, v 1.0 - Sai Smaran
+846. The Concept of the Ruliad - Stephen Wolfram Writings. *Youtube*. https://www.youtube.com
 
-medium.com
+847. Causal invariance in the physics of reality | Stephen Wolfram and Lex Fridman - YouTube. *Wolframphysics*. https://www.wolframphysics.org
 
-diposit.ub.edu
-Emergence of Causality from the Geometry of Spacetimes
+848. 8.5 Time and Spacetime - The Wolfram Physics Project. *Wolframphysics*. https://www.wolframphysics.org
 
-zenodo.org
-Geometric Unity Theory: a Novel Approach to Quantum Gravity Through Four-Dimensional Möbius Strip Geometry - Zenodo
+849. The Phenomenon of Causal Invariance: Wolfram Physics Project . *Writings*. https://writings.stephenwolfram.com
 
-shmaesphysics.wordpress.com
-Pointers to Nowhere with Geometric Unity Theory, or Some Ways Forward in Multi-fold Universes? - Shmaes - Physics
+850. Finally We May Have a Path to the Fundamental Theory of Physics… and It's Beautiful. *Wolframphysics*. https://www.wolframphysics.org
 
-timothynguyen.org
-Geometric Unity – Timothy Nguyen
+851. Quantum Measurement: Wolfram Physics Project Technical . *Wolframphysics*. https://www.wolframphysics.org
 
-reddit.com
-Sean Carroll Humiliates Eric Weinstein : r/Physics - Reddit
+852. Index: Wolfram Physics Project Technical Background. *Writings*. https://writings.stephenwolfram.com
 
-news.ycombinator.com
-The Wolfram Physics Project | Hacker News
+853. Observer Theory - Stephen Wolfram Writings. *Wolframinstitute*. https://www.wolframinstitute.org
 
-wolframscience.com
-10 The Case of Hypergraphs - Wolfram Science
+854. The Wolfram Physics Project: A One-Year Update. *Preposterousuniverse*. https://www.preposterousuniverse.com
 
-writings.stephenwolfram.com
-The Wolfram Physics Project: A One-Year Update
+855. 155 | Stephen Wolfram on Computation, Hypergraphs, and Fundamental Physics. *Wolframphysics*. https://www.wolframphysics.org
 
-youtube.com
-GReTA seminar #10: "Hypergraph Rewriting and the Wolfram Model" - YouTube
+856. Q&A - The Wolfram Physics Project. *Youtube*. https://www.youtube.com
 
-writings.stephenwolfram.com
-The Concept of the Ruliad - Stephen Wolfram Writings
+857. Where's the evidence for Wolfram Physics? with Jonathan Gorard - YouTube. *En*. https://en.wikipedia.org
 
-youtube.com
-Causal invariance in the physics of reality | Stephen Wolfram and Lex Fridman - YouTube
+858. Dear Dr. B: What is emergent gravity? - Sabine Hossenfelder: Backreaction. *Arxiv*. https://arxiv.org
 
-wolframphysics.org
-8.5 Time and Spacetime - The Wolfram Physics Project
+859. On the Origin of Gravity and the Laws of Newton arXiv:1001.0785v1 . *En*. https://en.wikipedia.org
 
-wolframphysics.org
-The Phenomenon of Causal Invariance: Wolfram Physics Project ...
+860. Entropic gravity - Wikipedia. *Youtube*. https://www.youtube.com
 
-writings.stephenwolfram.com
-Finally We May Have a Path to the Fundamental Theory of Physics… and It's Beautiful
+861. Entropic Gravity from Quantum Entanglement! | with Erik Verlinde - YouTube. *Scipost*. https://scipost.org
 
-wolframphysics.org
-Quantum Measurement: Wolfram Physics Project Technical ...
+862. SciPost Phys. 2, 016 (2017) - Emergent Gravity and the Dark Universe. *Scipost*. https://scipost.org
 
-wolframphysics.org
-Index: Wolfram Physics Project Technical Background
+863. SciPost Phys. 2, 016 (2017) - Emergent Gravity and the Dark Universe. *Arxiv*. https://arxiv.org
 
-writings.stephenwolfram.com
-Observer Theory - Stephen Wolfram Writings
+864. Essay: Emergent Holographic Spacetime from Quantum Information - arXiv. *Link*. https://journals.aps.org
 
-wolframinstitute.org
-The Wolfram Physics Project: A One-Year Update
+865. Essay: Emergent Holographic Spacetime from Quantum Information | Phys. Rev. Lett. *Arxiv*. https://arxiv.org
 
-preposterousuniverse.com
-155 | Stephen Wolfram on Computation, Hypergraphs, and Fundamental Physics
+866. Emergent Gravity and the Dark Universe - arXiv. *arXiv*. https://arxiv.org/abs/1611.02269
 
-wolframphysics.org
-Q&A - The Wolfram Physics Project
+867. Arrow of time - Wikipedia. *Arxiv*. https://arxiv.org
 
-youtube.com
-Where's the evidence for Wolfram Physics? with Jonathan Gorard - YouTube
+868. Comment on “Emergent Gravity and the Dark Universe” by Erik Verlinde - arXiv. *Academic*. https://academic.oup.com
 
-en.wikipedia.org
+869. Verlinde's emergent gravity versus MOND and the case of dwarf spheroidals - Oxford Academic. *Arxiv*. https://arxiv.org
 
-backreaction.blogspot.com
-Dear Dr. B: What is emergent gravity? - Sabine Hossenfelder: Backreaction
+870. Perspective on MOND emergence from Verlinde's "emergent gravity" and its recent test by weak lensing - arXiv. *arXiv*. https://arxiv.org/abs/1612.09582
 
-arxiv.org
-On the Origin of Gravity and the Laws of Newton arXiv:1001.0785v1 ...
+871. arXiv:2206.11685v1 [gr-qc] 23 Jun 2022. *Arxiv*. https://arxiv.org
 
-en.wikipedia.org
-Entropic gravity - Wikipedia
+872. Looking beyond lambda - arXiv. *Infn*. https://www.infn.it
 
-youtube.com
-Entropic Gravity from Quantum Entanglement! | with Erik Verlinde - YouTube
+873. The cosmological standard model - Istituto Nazionale di Fisica Nucleare - INFN. *En*. https://en.wikipedia.org
 
-scipost.org
-SciPost Phys. 2, 016 (2017) - Emergent Gravity and the Dark Universe
+874. Friedmann–Lemaître–Robertson–Walker metric - Wikipedia. *En*. https://en.wikipedia.org
 
-scipost.org
-SciPost Phys. 2, 016 (2017) - Emergent Gravity and the Dark Universe
+875. Lambda-CDM model - Wikipedia. *Vickyscowcroft*. https://www.vickyscowcroft.github.io
 
-arxiv.org
-Essay: Emergent Holographic Spacetime from Quantum Information - arXiv
+876. Lecture 7 Λ - Λ - CDM: The Standard Cosmological Model. *Astrobites*. https://www.astrobites.org
 
-link.aps.org
-Essay: Emergent Holographic Spacetime from Quantum Information | Phys. Rev. Lett.
+877. Guide to ΛCDM | astrobites. *Vickyscowcroft*. https://www.vickyscowcroft.github.io
 
-arxiv.org
-[1611.02269] Emergent Gravity and the Dark Universe - arXiv
+878. ΛCDM Model of Cosmology - Nasa Lambda. *Plato*. https://www.stanford.edu
 
-live.stemfellowship.org
+879. Thermodynamic Asymmetry in Time - Stanford Encyclopedia of Philosophy. *Mdpi*. https://www.mdpi.com
 
-en.wikipedia.org
-Arrow of time - Wikipedia
+880. Modeling Time's Arrow - MDPI. *Www6*. https://www.stanford.edu
 
-arxiv.org
-Comment on “Emergent Gravity and the Dark Universe” by Erik Verlinde - arXiv
+881. Galaxy clusters yield new evidence for standard model of cosmology. *Arxiv*. https://arxiv.org
 
-academic.oup.com
-Verlinde's emergent gravity versus MOND and the case of dwarf spheroidals - Oxford Academic
+882. Kähler geometry and Chern insulators: Relations between topology and the quantum metric. *arXiv*. https://arxiv.org/abs/2103.11583
 
-arxiv.org
-[1612.09582] Perspective on MOND emergence from Verlinde's "emergent gravity" and its recent test by weak lensing - arXiv
+883. bands, provides a map to a Kähler manifold. The quantum metric and Berry curvature of the occupied bands are then related to the Riemannian metric and symplectic form, respectively, on the target space of quantum states. We find that the minimal volume of a parameter space with respect to the quantum metric is $\pi |\mathcal{C}|$, where $\mathcal{C}$ is the first Chern number. We determine the conditions under which the minimal volume is achieved both for the Brillouin zone and the twist-angle space. The minimal volume of the Brillouin zone, provided the quantum metric is everywhere non-degenerate, is achieved when. *Web2*. https://www.web2.ph.utexas.edu
 
-arxiv.org
-arXiv:2206.11685v1 [gr-qc] 23 Jun 2022
+884. Inclusive curvaturelike framework for describing dissipation: Metriplectic 4-bracket dynamics
 
-arxiv.org
-Looking beyond lambda - arXiv
+885. unlike the Poisson bracket has four slots with symmetries and properties motivated by Riemannian curvature. Metriplectic 4-bracket dynamics is generated using two generators, the Hamiltonian and the entropy, with the entropy being a Casimir of the Hamiltonian part of the system. The formalism includes known previous binary bracket theories for dissipation or relaxation as special cases. Rich geometrical significance of the formalism and methods for constructing metriplectic 4-brackets are explored. Many examples. *Web2*. https://www.web2.ph.utexas.edu
 
-infn.it
-The cosmological standard model - Istituto Nazionale di Fisica Nucleare - INFN
+886. Inclusive curvaturelike framework for describing dissipation: Metriplectic 4-bracket dynamics
 
-en.wikipedia.org
-Friedmann–Lemaître–Robertson–Walker metric - Wikipedia
+887. generalization of Lagrangian mechanics, by adding a term, the Rayleigh dissipation function, to Lagrange’s equations of motion. However, here we follow on the early 1980s formalisms based on adding to generalizations of the Poisson bracket (see, e.g., [2,3]) a bilinear bracket which, akin to the Poisson bracket, is defined on phase space functions. These bracket formalisms were proposed in [4–9] for describing dynamics with dissipation in finite-dimensional systems, fluid mechanics, plasma models, and kinetic theories. In this paper. *Web2*. https://www.web2.ph.utexas.edu
 
-en.wikipedia.org
-Lambda-CDM model - Wikipedia
+888. Inclusive curvaturelike framework for describing dissipation: Metriplectic 4-bracket dynamics
 
-vickyscowcroft.github.io
-Lecture 7 Λ - Λ - CDM: The Standard Cosmological Model
+889. based on the metriplectic 4-bracket, a quantity like the Poisson bracket defined on phase space functions, but unlike the Poisson bracket has four slots with symmetries and properties motivated by Riemannian curvature. Metriplectic 4-bracket dynamics is generated using two generators, the Hamiltonian and the entropy, with the entropy being a Casimir of the Hamiltonian part of the system. The formalism includes known previous binary bracket theories for dissipation or relaxation as special cases. Rich. *Web2*. https://www.web2.ph.utexas.edu
 
-astrobites.org
-Guide to ΛCDM | astrobites
+890. Inclusive curvaturelike framework for describing dissipation: Metriplectic 4-bracket dynamics
 
-vickyscowcroft.github.io
+891. bracket (see, e.g., [2,3]) a bilinear bracket which, akin to the Poisson bracket, is defined on phase space functions. These bracket formalisms were proposed in [4–9] for describing dynamics with dissipation in finite-dimensional systems, fluid mechanics, plasma models, and kinetic theories. In this paper we present an encompassing geometric formulation in terms of a quantity called the metriplectic 4-bracket, which like the Poisson bracket is defined on phase space functions, but has properties motivated by the Riemann curvature tensor, which. *Ar5Iv*. https://arxiv.org
 
-lambda.gsfc.nasa.gov
-ΛCDM Model of Cosmology - Nasa Lambda
+892. A geometric formulation of GENERIC stochastic differential equations. *arXiv*. https://arxiv.org/abs/2509.09566
 
-plato.stanford.edu
-Thermodynamic Asymmetry in Time - Stanford Encyclopedia of Philosophy
+893. Morrison [Mor84 , 4]. It is in the latter paper [Mor86 ], that Morrison unifies them into the metriplectic geometric framework that has since been used extensively in plasma physics and fluid dynamics [ 5, BBPT07 ]. The GENERIC formulation itself was introduced a decade later by Grmela and Öttinger [ 7, ÖG97 ] as a generalization of the metriplectic framework, and it has been since then widely used in non-equilibrium thermodynamics and statistical mechanics. A comprehensive review of the GENERIC framework can be found in [ 9]. *Arxiv*. https://arxiv.org
 
-mdpi.com
-Modeling Time's Arrow - MDPI
+894. 3 Contact mechanics of dissipative systems 11 3.1 Time-independent contact Hamiltonian mechanics . . . . . . . 11 3.2 Time evolution of the contact Hamiltonian and mechanical energy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15. *Arxiv*. https://arxiv.org
 
-www6.slac.stanford.edu
-Galaxy clusters yield new evidence for standard model of cosmology
+895. equations of motion for mechanical systems with dissipative terms. Besides, an illustrative example (the damped parametric oscillator) is worked out in detail in this section in order to show the usefulness of our method. Finally Section 4 is devoted to a summary of the results and to highlight future. *Arxiv*. https://arxiv.org
 
-arxiv.org
-[2103.11583] Kähler geometry and Chern insulators: Relations between topology and the quantum metric
-bands, provides a map to a Kähler manifold. The quantum metric and Berry curvature of the occupied bands are then related to the Riemannian metric and symplectic form, respectively, on the target space of quantum states. We find that the minimal volume of a parameter space with respect to the quantum metric is $\pi |\mathcal{C}|$, where $\mathcal{C}$ is the first Chern number. We determine the conditions under which the minimal volume is achieved both for the Brillouin zone and the twist-angle space. The minimal volume of the Brillouin zone, provided the quantum metric is everywhere non-degenerate, is achieved when
+896. 2 Symplectic mechanics of non-dissipative systems 5 2.1 Time-independent Hamiltonian mechanics . . . . . . . . . . . 5 2.2 Canonical transformations and Liouville’s theorem . . . . . . . 6 2.3 Time-dependent Hamiltonian systems . . . . . . . . . . . . . . 7. *Arxiv*. https://arxiv.org
 
-web2.ph.utexas.edu
-Inclusive curvaturelike framework for describing dissipation: Metriplectic 4-bracket dynamics
-unlike the Poisson bracket has four slots with symmetries and properties motivated by Riemannian curvature. Metriplectic 4-bracket dynamics is generated using two generators, the Hamiltonian and the entropy, with the entropy being a Casimir of the Hamiltonian part of the system. The formalism includes known previous binary bracket theories for dissipation or relaxation as special cases. Rich geometrical significance of the formalism and methods for constructing metriplectic 4-brackets are explored. Many examples
+897. gives exactly the contact Hamiltonian equations (37)-(39), together with ˙t = 1 and H˙ = −H ∂H /∂S + ∂H /∂t, which is the evolution of the timedependent contact Hamiltonian (79). Therefore we call the second equation in (91) the contact Hamilton-Jacobi equation. *Arxiv*. https://arxiv.org
 
-web2.ph.utexas.edu
-Inclusive curvaturelike framework for describing dissipation: Metriplectic 4-bracket dynamics
-generalization of Lagrangian mechanics, by adding a term, the Rayleigh dissipation function, to Lagrange’s equations of motion. However, here we follow on the early 1980s formalisms based on adding to generalizations of the Poisson bracket (see, e.g., [2,3]) a bilinear bracket which, akin to the Poisson bracket, is defined on phase space functions. These bracket formalisms were proposed in [4–9] for describing dynamics with dissipation in finite-dimensional systems, fluid mechanics, plasma models, and kinetic theories. In this paper
+898. On the role of geometry in statistical mechanics and thermodynamics I: Geometric perspective. *arXiv*. https://arxiv.org/abs/2205.10315
 
-web2.ph.utexas.edu
-Inclusive curvaturelike framework for describing dissipation: Metriplectic 4-bracket dynamics
-based on the metriplectic 4-bracket, a quantity like the Poisson bracket defined on phase space functions, but unlike the Poisson bracket has four slots with symmetries and properties motivated by Riemannian curvature. Metriplectic 4-bracket dynamics is generated using two generators, the Hamiltonian and the entropy, with the entropy being a Casimir of the Hamiltonian part of the system. The formalism includes known previous binary bracket theories for dissipation or relaxation as special cases. Rich
+899. split into their holonomic and vertical representatives, which provides a geometric method of dynamic reduction. The lifted dynamics can be also given physical meaning, here called the rate-GENERIC. Finally, the lifts can be formulated within contact geometry, where the second law of thermodynamics is explicitly contained within the evolution equations. *Ar5Iv*. https://arxiv.org
 
-web2.ph.utexas.edu
-Inclusive curvaturelike framework for describing dissipation: Metriplectic 4-bracket dynamics
-bracket (see, e.g., [2,3]) a bilinear bracket which, akin to the Poisson bracket, is defined on phase space functions. These bracket formalisms were proposed in [4–9] for describing dynamics with dissipation in finite-dimensional systems, fluid mechanics, plasma models, and kinetic theories. In this paper we present an encompassing geometric formulation in terms of a quantity called the metriplectic 4-bracket, which like the Poisson bracket is defined on phase space functions, but has properties motivated by the Riemann curvature tensor, which
+900. A geometric formulation of GENERIC stochastic differential equations. *arXiv*. https://arxiv.org/abs/2509.09566
 
-ar5iv.labs.arxiv.org
-[2509.09566] A geometric formulation of GENERIC stochastic differential equations
-Morrison [Mor84 , 4]. It is in the latter paper [Mor86 ], that Morrison unifies them into the metriplectic geometric framework that has since been used extensively in plasma physics and fluid dynamics [ 5, BBPT07 ]. The GENERIC formulation itself was introduced a decade later by Grmela and Öttinger [ 7, ÖG97 ] as a generalization of the metriplectic framework, and it has been since then widely used in non-equilibrium thermodynamics and statistical mechanics. A comprehensive review of the GENERIC framework can be found in [ 9].
+901. geometry. Only in recent years have our mathematical tools reached the sophistication to handle these difficulties. Contact mechanics was connected to dissipative mechanics and GENERIC itself very early on [Can82 , 17, Mru93 ] and has seen a resurgence of interest in the recent past both as a standalone theory [ 19, BCT17 , 21, CCM18 , 23, CDLLLG25 ] and as a possible framework to geometrize the GENERIC equation [ 25, EGP22b ]. However, these are by no means the only possible geometries, as exemplified by the recent works geometrizing dissipation with b-symplectic geometry [ 27] or Jacobi-. *Ar5Iv*. https://arxiv.org
 
-arxiv.org
-3 Contact mechanics of dissipative systems 11 3.1 Time-independent contact Hamiltonian mechanics . . . . . . . 11 3.2 Time evolution of the contact Hamiltonian and mechanical energy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+902. A geometric formulation of GENERIC stochastic differential equations. *arXiv*. https://arxiv.org/abs/2509.09566
 
-arxiv.org
-equations of motion for mechanical systems with dissipative terms. Besides, an illustrative example (the damped parametric oscillator) is worked out in detail in this section in order to show the usefulness of our method. Finally Section 4 is devoted to a summary of the results and to highlight future
+903. dissipative mechanics and GENERIC itself very early on [Can82 , 17, Mru93 ] and has seen a resurgence of interest in the recent past both as a standalone theory [ 19, BCT17 , 21, CCM18 , 23, CDLLLG25 ] and as a possible framework to geometrize the GENERIC equation [ 25, EGP22b]. However, these are. *Ar5Iv*. https://arxiv.org
 
-arxiv.org
-2 Symplectic mechanics of non-dissipative systems 5 2.1 Time-independent Hamiltonian mechanics . . . . . . . . . . . 5 2.2 Canonical transformations and Liouville’s theorem . . . . . . . 6 2.3 Time-dependent Hamiltonian systems . . . . . . . . . . . . . . 7
+904. A geometric formulation of GENERIC stochastic differential equations. *arXiv*. https://arxiv.org/abs/2509.09566
 
-arxiv.org
-gives exactly the contact Hamiltonian equations (37)-(39), together with ˙t = 1 and H˙ = −H ∂H /∂S + ∂H /∂t, which is the evolution of the timedependent contact Hamiltonian (79). Therefore we call the second equation in (91) the contact Hamilton-Jacobi equation.
+905. * [Can82] F. Cantrijn. Vector fields generating analysis for classical dissipative systems. Journal of Mathematical Physics, 23(9):1589–1595, 1982. * [CCM18] F. Ciaglia, H. Cruz, and G. Marmo. Contact manifolds and dissipation, classical and quantum. Annals of Physics, 398:159–179, 2018. *Ar5Iv*. https://arxiv.org
 
-arxiv.org
-[2205.10315] On the role of geometry in statistical mechanics and thermodynamics I: Geometric perspective
-split into their holonomic and vertical representatives, which provides a geometric method of dynamic reduction. The lifted dynamics can be also given physical meaning, here called the rate-GENERIC. Finally, the lifts can be formulated within contact geometry, where the second law of thermodynamics is explicitly contained within the evolution equations.
+906. A geometric formulation of GENERIC stochastic differential equations. *arXiv*. https://arxiv.org/abs/2509.09566
 
-ar5iv.labs.arxiv.org
-[2509.09566] A geometric formulation of GENERIC stochastic differential equations
-geometry. Only in recent years have our mathematical tools reached the sophistication to handle these difficulties. Contact mechanics was connected to dissipative mechanics and GENERIC itself very early on [Can82 , 17, Mru93 ] and has seen a resurgence of interest in the recent past both as a standalone theory [ 19, BCT17 , 21, CCM18 , 23, CDLLLG25 ] and as a possible framework to geometrize the GENERIC equation [ 25, EGP22b ]. However, these are by no means the only possible geometries, as exemplified by the recent works geometrizing dissipation with b-symplectic geometry [ 27] or Jacobi-
+907. * [CCM18] F. Ciaglia, H. Cruz, and G. Marmo. Contact manifolds and dissipation, classical and quantum. Annals of Physics, 398:159–179, 2018. *Cvgmt*. https://www.cvgmt.sns.it
 
-ar5iv.labs.arxiv.org
-[2509.09566] A geometric formulation of GENERIC stochastic differential equations
-dissipative mechanics and GENERIC itself very early on [Can82 , 17, Mru93 ] and has seen a resurgence of interest in the recent past both as a standalone theory [ 19, BCT17 , 21, CCM18 , 23, CDLLLG25 ] and as a possible framework to geometrize the GENERIC equation [ 25, EGP22b]. However, these are
+908. [28] R.V. Kohn and S. M¨uller. Branching of twins near an austenite-twinned martensite interface. Phil. Mag. A, 66:697–715, 1992. [29] R.V. Kohn and S. M¨uller. Surface energy and microstructure in coherent phase transitions. Comm. Pure Appl. Math., 47(4):405–435, 1994. *Cvgmt*. https://www.cvgmt.sns.it
 
-ar5iv.labs.arxiv.org
-[2509.09566] A geometric formulation of GENERIC stochastic differential equations
+909. [31] A. R¨uland and A. Tribuzio. On the energy scaling behaviour of a singularly perturbed tartar square. Arch. Rational Mech. Anal., 243:401–431, 2022. [32] H. Seiner, P. Plucinsky, V. Dabade, B. Beneˇsov´a, and R.D. James. Branching of twins in shape memory alloys revisited. Journal of the Mechanics and Physics of Solids, 141:103961, 2020. [33] T. M. Simon. Rigidity of branching microstructures in shape memory alloys. *Cvgmt*. https://www.cvgmt.sns.it
 
-* [Can82] F. Cantrijn. Vector fields generating analysis for classical dissipative systems. Journal of Mathematical Physics, 23(9):1589–1595, 1982. * [CCM18] F. Ciaglia, H. Cruz, and G. Marmo. Contact manifolds and dissipation, classical and quantum. Annals of Physics, 398:159–179, 2018.
+910. | log σ| | log θ| + 1 , which is the scaling law from [23, Theorem 1] (see (1.3)). *Cvgmt*. https://www.cvgmt.sns.it
 
-ar5iv.labs.arxiv.org
-[2509.09566] A geometric formulation of GENERIC stochastic differential equations
+911. then | log σ|/| log(γ 2 θ)| ∼ 1, and the lower bound is also concluded by Lemma 2.2.1 described above. *Cvgmt*. https://www.cvgmt.sns.it
 
-* [CCM18] F. Ciaglia, H. Cruz, and G. Marmo. Contact manifolds and dissipation, classical and quantum. Annals of Physics, 398:159–179, 2018.
-cvgmt.sns.it
-[28] R.V. Kohn and S. M¨uller. Branching of twins near an austenite-twinned martensite interface. Phil. Mag. A, 66:697–715, 1992. [29] R.V. Kohn and S. M¨uller. Surface energy and microstructure in coherent phase transitions. Comm. Pure Appl. Math., 47(4):405–435, 1994.
-cvgmt.sns.it
-[31] A. R¨uland and A. Tribuzio. On the energy scaling behaviour of a singularly perturbed tartar square. Arch. Rational Mech. Anal., 243:401–431, 2022. [32] H. Seiner, P. Plucinsky, V. Dabade, B. Beneˇsov´a, and R.D. James. Branching of twins in shape memory alloys revisited. Journal of the Mechanics and Physics of Solids, 141:103961, 2020. [33] T. M. Simon. Rigidity of branching microstructures in shape memory alloys.
-cvgmt.sns.it
-| log σ| | log θ| + 1 , which is the scaling law from [23, Theorem 1] (see (1.3)).
-cvgmt.sns.it
-then | log σ|/| log(γ 2 θ)| ∼ 1, and the lower bound is also concluded by Lemma 2.2.1 described above.
-cvgmt.sns.it
-cubic ferromagnet with large magnetostriction. J. Nonlinear Sci., 30(6):3367–3388, 2020. [36] B. Zwicknagl. Microstructures in low-hysteresis shape memory alloys: Scaling regimes and optimal needle shapes. Arch. Rational Mech. Anal., 213(2):355–421, 2014.
-cvgmt.sns.it
-Eσ,γ,θ ≥ cσ(| log σ| + 1), which concludes the proof of the lower bound in this case. • Finally, consider the case σ < (γ 2
-cvgmt.sns.it
-match at L1923 Eσ,γ,θ(u) ≥ cσ (| log σ| + 1). Proof. Assume that Eσ,γ,θ(u) ≤ 1 2
-cvgmt.sns.it
-| log σ| | log θ| + 1 , which is the scaling law from [23, Theorem 1] (see (1.3)).
-cvgmt.sns.it
-The case α = β = 1 has been studied in [23]. The main result there is a scaling law for the minimal energy which takes the form (1.3) min J(u) ∼ min θ 2 , σ  | log σ| | log θ| + 1 .
-cambridge.org
-EXACT SOLUTIONS OF HYPERBOLIC REACTION-DIFFUSION EQUATIONS IN TWO DIMENSIONS | The ANZIAM Journal | Cambridge Core
-\approx 10^{-14}$ s [Reference Maurer 33]. Cattaneo [Reference Cattaneo 11] modified the theory of heat conduction to a hyperbolic diffusion equation to partly account for the delay. The delayed heat flux under Fourier’s law is Image $J=-k(\theta )\nabla \theta (x,t-\tau )$ . Then by conservation of heat energy at density Image $\mathcal E$ ,
-cambridge.org
-EXACT SOLUTIONS OF HYPERBOLIC REACTION-DIFFUSION EQUATIONS IN TWO DIMENSIONS | The ANZIAM Journal | Cambridge Core
-Neglecting Image $O(\tau ^2)$ , wave-like solutions of this equation have a speed limit Image $c=\sqrt {D/\tau }$ . By comparison theory, for hyperbolic diffusion with nonlinear bounded diffusivity function, the parameter D within this expression for the speed limit may be generalised to the least upper bound Image $D_{\max }$ . The delay Image $\tau $ may be much longer at very low temperatures. Tisza [Reference Tisza 41] and Landau [Reference Landau 30] gave alternative versions of “second sound” wave theory for the transport of heat in
-cambridge.org
-EXACT SOLUTIONS OF HYPERBOLIC REACTION-DIFFUSION EQUATIONS IN TWO DIMENSIONS | The ANZIAM Journal | Cambridge Core
-Donaghy-Spargo 16]). Unlike parabolic diffusion equations, hyperbolic diffusion equations predict a bounded speed of propagation of a local disturbance. For familiar irreversible transport phenomena of heat, with matter and charge obeying the second law of thermodynamics at the meso-scale, the unbounded propagation speed of a diffusion equation causes no practical problem. For example, the one-dimensional instantaneous point source solution of the linear diffusion equation is proportional to the Gaussian, Image $t^{-1/2}\exp (-x^2/4Dt)$ . This diminishes so rapidly that at some finite distance from the source, the disturbance is so small that it is not physically measurable.
+912. cubic ferromagnet with large magnetostriction. J. Nonlinear Sci., 30(6):3367–3388, 2020. [36] B. Zwicknagl. Microstructures in low-hysteresis shape memory alloys: Scaling regimes and optimal needle shapes. Arch. Rational Mech. Anal., 213(2):355–421, 2014. *Cvgmt*. https://www.cvgmt.sns.it
 
-academia.edu
-(PDF) A Fisher–Kolmogorov equation with finite speed of propagation
-In this paper we study a Fisher-Kolmogorov type equation with a flux limited diffusion term and we prove the existence and uniqueness of finite speed moving fronts and the existence of some explicit solutions in a particular regime of the equation.
+913. Eσ,γ,θ ≥ cσ(| log σ| + 1), which concludes the proof of the lower bound in this case. • Finally, consider the case σ < (γ 2. *Cvgmt*. https://www.cvgmt.sns.it
 
-academia.edu
-(PDF) A Fisher–Kolmogorov equation with finite speed of propagation
-In this paper we study a Fisher-Kolmogorov type equation with a flux limited diffusion term and we prove the existence and uniqueness of finite speed moving fronts and the existence of some explicit solutions in a particular regime of the equation.
-cambridge.org
-EXACT SOLUTIONS OF HYPERBOLIC REACTION-DIFFUSION EQUATIONS IN TWO DIMENSIONS | The ANZIAM Journal | Cambridge Core
-and at very large time scales and astronomical distances, the bounded speed of propagation can be significant. In molecular materials, there is a short “collision time” delay Image $\tau $ before temperature gradients can lead to fluxes via intermolecular collisions. For neon gas at standard temperature and pressure, the standard formulae from kinetic theory for mean free path and mean kinetic energy [Reference Feynman, Leighton and Sands 18] give Image $\tau \approx 7\times 10^{-10}$ s and for monovalent metals, Image $\tau \approx 10^{-14}$ s [Reference Maurer 33]. Cattaneo [Reference Cattaneo 11]
-cambridge.org
-EXACT SOLUTIONS OF HYPERBOLIC REACTION-DIFFUSION EQUATIONS IN TWO DIMENSIONS | The ANZIAM Journal | Cambridge Core
-Image $\theta _t +\tau \theta _{tt}+O(\tau ^2)=D\theta _{xx}.$ In this equation, the spatial derivatives still occur within a self- adjoint operator, so that with homogeneous linear boundary conditions and smooth initial conditions, a series solution for Image $\theta (x,t)$ can be obtained as a trigonometric series after separation of variables.
+914. match at L1923 Eσ,γ,θ(u) ≥ cσ (| log σ| + 1). Proof. Assume that Eσ,γ,θ(u) ≤ 1 2. *Cvgmt*. https://www.cvgmt.sns.it
 
-mdpi.com
-Fisher and Shannon Functionals for Hyperbolic Diffusion
-[1 , 100,3 ]. This hyperbolic diffusion equation has been used in different areas of research, including the hyperbolic heat equation [ 102], generalized Cattaneo–Fick equations [5 , 104], neuroscience [7 , 106], biomedical optics [9 ], electromagnetic analysis in multilayered conductor planes [ 108], penetration of waves in complex conducting media [11 ], asymptotic diffusion from Boltzmann anisotropic scattering [ 110,13 , 112], TE in 2D and 3D for engineers problems [15 ], describing cosmic microwave background radiation with spherically hyperbolic diffusion [ 114,17 ], finite-velocity diffusion in heterogeneous media [ 116,19 , 118,21], as well as in the
+915. | log σ| | log θ| + 1 , which is the scaling law from [23, Theorem 1] (see (1.3)). *Cvgmt*. https://www.cvgmt.sns.it
 
-mdpi.com
-Fisher and Shannon Functionals for Hyperbolic Diffusion
-Advances in understanding wave propagation in a conducting medium were achieved through the analysis of the telegrapher’s equation (TE), which originally appeared in the study of electromagnetic fields in waveguides [1 , 100,3 ]. This hyperbolic diffusion equation has been used in different areas of research, including the hyperbolic heat equation [ 102], generalized Cattaneo–Fick equations [5 , 104], neuroscience [7 , 106], biomedical optics [9 ], electromagnetic analysis in multilayered conductor planes [ 108], penetration of waves in complex
+916. The case α = β = 1 has been studied in [23]. The main result there is a scaling law for the minimal energy which takes the form (1.3) min J(u) ∼ min θ 2 , σ  | log σ| | log θ| + 1 . *Cambridge*. https://www.cambridge.org
 
-link.springer.com
-Kovalevskaya Exponents, Weak Painlevé Property and Integrability for Quasi-homogeneous Differential Systems | Regular and Chaotic Dynamics
-5. Darboux, G., Mémoire sur les équations différentielles algébriques du premier ordre et du premier degré, Bulletin des Sciences Mathématiques et Astronomiques, Sér. 2, 1878, vol. 2, no. 1, pp. 60–96, 123–144, 151–200.
+917. EXACT SOLUTIONS OF HYPERBOLIC REACTION-DIFFUSION EQUATIONS IN TWO DIMENSIONS | The ANZIAM Journal | Cambridge Core
 
-link.springer.com
-Kovalevskaya Exponents, Weak Painlevé Property and Integrability for Quasi-homogeneous Differential Systems | Regular and Chaotic Dynamics
-We present some necessary conditions for quasi-homogeneous differential systems to be completely integrable via Kovalevskaya exponents. Then, as an application, we give a new link between the weak-Painlevé property and the algebraical integrability for polynomial differential systems. Additionally, we also formulate stronger theorems in terms of Kovalevskaya exponents for homogeneous Newton systems, a special class of quasi-homogeneous systems, which gives its necessary conditions for B-integrability and complete integrability. A consequence is that the nonrational Kovalevskaya exponents imply the nonexistence of Darboux first integrals for two-dimensional natural homogeneous polynomial Hamiltonian systems, which relates the singularity structure to the
+918. \approx 10^{-14}$ s [Reference Maurer 33]. Cattaneo [Reference Cattaneo 11] modified the theory of heat conduction to a hyperbolic diffusion equation to partly account for the delay. The delayed heat flux under Fourier’s law is Image $J=-k(\theta )\nabla \theta (x,t-\tau )$ . Then by conservation of heat energy at density Image $\mathcal E$ ,. *Cambridge*. https://www.cambridge.org
 
-link.springer.com
-Kovalevskaya Exponents, Weak Painlevé Property and Integrability for Quasi-homogeneous Differential Systems | Regular and Chaotic Dynamics
-formulate stronger theorems in terms of Kovalevskaya exponents for homogeneous Newton systems, a special class of quasi-homogeneous systems, which gives its necessary conditions for B-integrability and complete integrability. A consequence is that the nonrational Kovalevskaya exponents imply the nonexistence of Darboux first integrals for two-dimensional natural homogeneous polynomial Hamiltonian systems, which relates the singularity structure to the Darboux theory of integrability.
+919. EXACT SOLUTIONS OF HYPERBOLIC REACTION-DIFFUSION EQUATIONS IN TWO DIMENSIONS | The ANZIAM Journal | Cambridge Core
 
-arxiv.org
-[2] Birtea, P., Boleantu, M., Puta, M., & Tudoran, R. M. (2007). Asymptotic stability for a class of metriplectic systems. Journal of Mathematical Physics, 48(8), 2703. [3] Bihlo, A. (2008). RayleighBnard convection as a Nambu-metriplectic problem.
+920. Neglecting Image $O(\tau ^2)$ , wave-like solutions of this equation have a speed limit Image $c=\sqrt {D/\tau }$ . By comparison theory, for hyperbolic diffusion with nonlinear bounded diffusivity function, the parameter D within this expression for the speed limit may be generalised to the least upper bound Image $D_{\max }$ . The delay Image $\tau $ may be much longer at very low temperatures. Tisza [Reference Tisza 41] and Landau [Reference Landau 30] gave alternative versions of “second sound” wave theory for the transport of heat in. *Cambridge*. https://www.cambridge.org
 
-arxiv.org
-We apply the Darboux integrability method to determine first integrals and Hamiltonian formulations of three dimensional polynomial systems; namely the reduced three-wave interaction problem, the Rabinovich system, the Hindmarsh-Rose model,
+921. EXACT SOLUTIONS OF HYPERBOLIC REACTION-DIFFUSION EQUATIONS IN TWO DIMENSIONS | The ANZIAM Journal | Cambridge Core
 
-arxiv.org
-match at L1125 transformed system (47), we are, now, exhibiting a metriplectic realization of the Rabinovich system (43). Proposition 3 The Rabinovich system (43) is in bi-Hamiltonian/Nambu metriplectic
+922. Donaghy-Spargo 16]). Unlike parabolic diffusion equations, hyperbolic diffusion equations predict a bounded speed of propagation of a local disturbance. For familiar irreversible transport phenomena of heat, with matter and charge obeying the second law of thermodynamics at the meso-scale, the unbounded propagation speed of a diffusion equation causes no practical problem. For example, the one-dimensional instantaneous point source solution of the linear diffusion equation is proportional to the Gaussian, Image $t^{-1/2}\exp (-x^2/4Dt)$ . This diminishes so rapidly that at some finite distance from the source, the disturbance is so small that it is not physically measurable. *Academia*. https://www.academia.edu
 
-link.springer.com
-Kovalevskaya Exponents, Weak Painlevé Property and Integrability for Quasi-homogeneous Differential Systems | Regular and Chaotic Dynamics
-4. Christopher, C., Llibre, J., and Pereira, J. V., Multiplicity of Invariant Algebraic Curves in Polynomial Vector Fields, Pacific J. Math., 2007, vol. 229, no. 1, pp. 63–117.
+923. (PDF) A Fisher–Kolmogorov equation with finite speed of propagation
 
-link.springer.com
-Kovalevskaya Exponents, Weak Painlevé Property and Integrability for Quasi-homogeneous Differential Systems | Regular and Chaotic Dynamics
+924. In this paper we study a Fisher-Kolmogorov type equation with a flux limited diffusion term and we prove the existence and uniqueness of finite speed moving fronts and the existence of some explicit solutions in a particular regime of the equation. *Academia*. https://www.academia.edu
 
-1. Ayoul, M. and Zung, N. T., Galoisian Obstructions to Non-Hamiltonian Integrability, C. R. Math. Acad. Sci. Paris, 2010, vol. 348, nos. 23–24, pp. 1323–1326.
+925. (PDF) A Fisher–Kolmogorov equation with finite speed of propagation
+
+926. In this paper we study a Fisher-Kolmogorov type equation with a flux limited diffusion term and we prove the existence and uniqueness of finite speed moving fronts and the existence of some explicit solutions in a particular regime of the equation. *Cambridge*. https://www.cambridge.org
+
+927. EXACT SOLUTIONS OF HYPERBOLIC REACTION-DIFFUSION EQUATIONS IN TWO DIMENSIONS | The ANZIAM Journal | Cambridge Core
+
+928. and at very large time scales and astronomical distances, the bounded speed of propagation can be significant. In molecular materials, there is a short “collision time” delay Image $\tau $ before temperature gradients can lead to fluxes via intermolecular collisions. For neon gas at standard temperature and pressure, the standard formulae from kinetic theory for mean free path and mean kinetic energy [Reference Feynman, Leighton and Sands 18] give Image $\tau \approx 7\times 10^{-10}$ s and for monovalent metals, Image $\tau \approx 10^{-14}$ s [Reference Maurer 33]. Cattaneo [Reference Cattaneo 11]. *Cambridge*. https://www.cambridge.org
+
+929. EXACT SOLUTIONS OF HYPERBOLIC REACTION-DIFFUSION EQUATIONS IN TWO DIMENSIONS | The ANZIAM Journal | Cambridge Core
+
+930. Image $\theta _t +\tau \theta _{tt}+O(\tau ^2)=D\theta _{xx}.$ In this equation, the spatial derivatives still occur within a self- adjoint operator, so that with homogeneous linear boundary conditions and smooth initial conditions, a series solution for Image $\theta (x,t)$ can be obtained as a trigonometric series after separation of variables. *Mdpi*. https://www.mdpi.com
+
+931. Fisher and Shannon Functionals for Hyperbolic Diffusion
+
+932. [1 , 100,3 ]. This hyperbolic diffusion equation has been used in different areas of research, including the hyperbolic heat equation [ 102], generalized Cattaneo–Fick equations [5 , 104], neuroscience [7 , 106], biomedical optics [9 ], electromagnetic analysis in multilayered conductor planes [ 108], penetration of waves in complex conducting media [11 ], asymptotic diffusion from Boltzmann anisotropic scattering [ 110,13 , 112], TE in 2D and 3D for engineers problems [15 ], describing cosmic microwave background radiation with spherically hyperbolic diffusion [ 114,17 ], finite-velocity diffusion in heterogeneous media [ 116,19 , 118,21], as well as in the. *Mdpi*. https://www.mdpi.com
+
+933. Fisher and Shannon Functionals for Hyperbolic Diffusion
+
+934. Advances in understanding wave propagation in a conducting medium were achieved through the analysis of the telegrapher’s equation (TE), which originally appeared in the study of electromagnetic fields in waveguides [1 , 100,3 ]. This hyperbolic diffusion equation has been used in different areas of research, including the hyperbolic heat equation [ 102], generalized Cattaneo–Fick equations [5 , 104], neuroscience [7 , 106], biomedical optics [9 ], electromagnetic analysis in multilayered conductor planes [ 108], penetration of waves in complex. *Link*. https://link.springer.com
+
+935. Kovalevskaya Exponents, Weak Painlevé Property and Integrability for Quasi-homogeneous Differential Systems | Regular and Chaotic Dynamics
+
+936. 5. Darboux, G., Mémoire sur les équations différentielles algébriques du premier ordre et du premier degré, Bulletin des Sciences Mathématiques et Astronomiques, Sér. 2, 1878, vol. 2, no. 1, pp. 60–96, 123–144, 151–200. *Link*. https://link.springer.com
+
+937. Kovalevskaya Exponents, Weak Painlevé Property and Integrability for Quasi-homogeneous Differential Systems | Regular and Chaotic Dynamics
+
+938. We present some necessary conditions for quasi-homogeneous differential systems to be completely integrable via Kovalevskaya exponents. Then, as an application, we give a new link between the weak-Painlevé property and the algebraical integrability for polynomial differential systems. Additionally, we also formulate stronger theorems in terms of Kovalevskaya exponents for homogeneous Newton systems, a special class of quasi-homogeneous systems, which gives its necessary conditions for B-integrability and complete integrability. A consequence is that the nonrational Kovalevskaya exponents imply the nonexistence of Darboux first integrals for two-dimensional natural homogeneous polynomial Hamiltonian systems, which relates the singularity structure to the. *Link*. https://link.springer.com
+
+939. Kovalevskaya Exponents, Weak Painlevé Property and Integrability for Quasi-homogeneous Differential Systems | Regular and Chaotic Dynamics
+
+940. formulate stronger theorems in terms of Kovalevskaya exponents for homogeneous Newton systems, a special class of quasi-homogeneous systems, which gives its necessary conditions for B-integrability and complete integrability. A consequence is that the nonrational Kovalevskaya exponents imply the nonexistence of Darboux first integrals for two-dimensional natural homogeneous polynomial Hamiltonian systems, which relates the singularity structure to the Darboux theory of integrability. *Arxiv*. https://arxiv.org
+
+941. [2] Birtea, P., Boleantu, M., Puta, M., & Tudoran, R. M. (2007). Asymptotic stability for a class of metriplectic systems. Journal of Mathematical Physics, 48(8), 2703. [3] Bihlo, A. (2008). RayleighBnard convection as a Nambu-metriplectic problem. *Arxiv*. https://arxiv.org
+
+942. We apply the Darboux integrability method to determine first integrals and Hamiltonian formulations of three dimensional polynomial systems; namely the reduced three-wave interaction problem, the Rabinovich system, the Hindmarsh-Rose model,. *Arxiv*. https://arxiv.org
+
+943. match at L1125 transformed system (47), we are, now, exhibiting a metriplectic realization of the Rabinovich system (43). Proposition 3 The Rabinovich system (43) is in bi-Hamiltonian/Nambu metriplectic. *Link*. https://link.springer.com
+
+944. Kovalevskaya Exponents, Weak Painlevé Property and Integrability for Quasi-homogeneous Differential Systems | Regular and Chaotic Dynamics
+
+945. 4. Christopher, C., Llibre, J., and Pereira, J. V., Multiplicity of Invariant Algebraic Curves in Polynomial Vector Fields, Pacific J. Math., 2007, vol. 229, no. 1, pp. 63–117. *Link*. https://link.springer.com
+
+946. Kovalevskaya Exponents, Weak Painlevé Property and Integrability for Quasi-homogeneous Differential Systems | Regular and Chaotic Dynamics
+
+947. 1. Ayoul, M. and Zung, N. T., Galoisian Obstructions to Non-Hamiltonian Integrability, C. R. Math. Acad. Sci. Paris, 2010, vol. 348, nos. 23–24, pp. 1323–1326
 
 ## S1 — QGT → Metriplectic (Berry curvature ↔ J, quantum metric ↔ M)
 
-Xiao, Chang & Niu (2010), “Berry phase effects on electronic properties” — <https://link.aps.org/doi/10.1103/RevModPhys.82.1959>
-Zhang et al. (2019), “Direct measurement of the quantum geometric tensor in a topological Bloch band” — <https://www.science.org/doi/10.1126/science.aaz8721>
-Yu et al. (2023), “Extracting the quantum geometric tensor from dynamical response” — <https://link.aps.org/doi/10.1103/PhysRevResearch.5.L032003>
+948. Xiao, Chang & Niu (2010), “Berry phase effects on electronic properties” . https://link.aps.org/doi/10.1103/RevModPhys.82.1959
+
+949. Zhang et al. (2019), “Direct measurement of the quantum geometric tensor in a topological Bloch band” . https://www.science.org/doi/10.1126/science.aaz8721
+
+950. Yu et al. (2023), “Extracting the quantum geometric tensor from dynamical response” . https://link.aps.org/doi/10.1103/PhysRevResearch.5.L032003
 
 ## S2 — Contact Geometry → Metriplectic; GENERIC (two-generator formalism)
 
-Grmela & Öttinger (1997), “Dynamics and thermodynamics of complex fluids I” — <https://link.aps.org/doi/10.1103/PhysRevE.56.662>
-Grmela & Öttinger (1997), “... II. Illustrations of a general formalism” — <https://link.aps.org/doi/10.1103/PhysRevE.56.663>
-Bravetti, López‑Monsalvo & Nettel (2017), “Contact geometry and thermodynamics” — <https://link.springer.com/article/10.1007/s00220-016-2843-5>
-Mrugała (1991), “Contact geometry in thermodynamics: the Legendre submanifolds” — <https://www.researchgate.net/publication/225404262_Contact_geometry_in_thermodynamics_The_Legendre_submanifolds>
-de León & Lainz Valcázar (2021), “A review on contact Hamiltonian systems” — <https://digibug.ugr.es/entities/publication/99b9f2b9-8801-4d9b-9d28-4f390bc6dad8>
+951. Grmela & Öttinger (1997), “Dynamics and thermodynamics of complex fluids I” . https://link.aps.org/doi/10.1103/PhysRevE.56.662
+
+952. Grmela & Öttinger (1997), “... II. Illustrations of a general formalism” . https://link.aps.org/doi/10.1103/PhysRevE.56.663
+
+953. Bravetti, López‑Monsalvo & Nettel (2017), “Contact geometry and thermodynamics” . https://link.springer.com/article/10.1007/s00220-016-2843-5
+
+954. Mrugała (1991), “Contact geometry in thermodynamics: the Legendre submanifolds” . https://www.researchgate.net/publication/225404262_Contact_geometry_in_thermodynamics_The_Legendre_submanifolds
+
+955. de León & Lainz Valcázar (2021), “A review on contact Hamiltonian systems” . https://digibug.ugr.es/entities/publication/99b9f2b9-8801-4d9b-9d28-4f390bc6dad8
 
 ## S3 — A8 Hierarchical Scaling (Γ‑convergence, microstructure, phase‑field)
 
-Modica & Mortola (1977), “Un esempio di Γ‑convergenza” — <https://www.math.cmu.edu/~giacomel/cubmodmica.pdf>
-Kohn & Müller (1994), “Surface energy and microstructure in coherent phase transitions” — <https://onlinelibrary.wiley.com/doi/abs/10.1002/cpa.3160470402>
-Conti (2000), “Branched microstructures: scaling and asymptotic self‑similarity” — <https://scispace.com/pdf/branched-microstructures-scaling-and-asymptotic-self-14emes0s6p.pdf>
-Choksi et al. (2008), “Ground state energy scaling laws…” — <https://www.math.mcgill.ca/rchoksi/pub/cpam2.pdf>
-Chan & Conti (2014/2015), “Energy scaling and branched microstructures…” — <https://arxiv.org/abs/1403.6242>
-Desai & Kapral (2009), *Dynamics of Self‑Organized and Self‑Assembled Structures* (CUP) — <https://www.cambridge.org/core/books/dynamics-of-selforganized-and-selfassembled-structures/A7BFC5BDA65E1086F3089345363C3A10>
-Krause, Gaffney & Walker (2022/2023), “Concentration‑Dependent Domain Evolution in Reaction–Diffusion Systems” — <https://link.springer.com/article/10.1007/s11538-022-01115-2>
+956. Modica & Mortola (1977), “Un esempio di Γ‑convergenza” . https://www.math.cmu.edu/~giacomel/cubmodmica.pdf
+
+957. Kohn & Müller (1994), “Surface energy and microstructure in coherent phase transitions” . https://onlinelibrary.wiley.com/doi/abs/10.1002/cpa.3160470402
+
+958. Conti (2000), “Branched microstructures: scaling and asymptotic self‑similarity” . https://scispace.com/pdf/branched-microstructures-scaling-and-asymptotic-self-14emes0s6p.pdf
+
+959. Choksi et al. (2008), “Ground state energy scaling laws…” . https://www.math.mcgill.ca/rchoksi/pub/cpam2.pdf
+
+960. Chan & Conti (2014/2015), “Energy scaling and branched microstructures…” . *arXiv*. https://arxiv.org/abs/1403.6242
+
+961. Desai & Kapral (2009), *Dynamics of Self‑Organized and Self‑Assembled Structures* (CUP) . https://www.cambridge.org/core/books/dynamics-of-selforganized-and-selfassembled-structures/A7BFC5BDA65E1086F3089345363C3A10
+
+962. Krause, Gaffney & Walker (2022/2023), “Concentration‑Dependent Domain Evolution in Reaction–Diffusion Systems” . https://link.springer.com/article/10.1007/s11538-022-01115-2
 
 ## S4 — Telegraph–Fisher Causality (finite‑speed transport from relaxation)
 
-Cattaneo (1958), “Sur une forme de l’équation de la chaleur éliminant le paradoxe d’une propagation instantanée” — <https://biprepap2.polito.it/retrieve/01fe68f0-b9c1-4df5-a80d-fb5e7025bf49/cattaneo1958.pdf>
-Porrà, Masoliver & Weiss (1997), “When the telegrapher’s equation furnishes a better approximation…” — <https://link.aps.org/doi/10.1103/PhysRevE.55.7771>
-Masoliver (2017), “Three‑dimensional telegrapher’s equation and its fractional generalization” — <https://link.aps.org/doi/10.1103/PhysRevE.96.022101>
-Masoliver (2021), “Telegraphic Transport Processes and Their Fractional Generalization” (review) — <https://pmc.ncbi.nlm.nih.gov/articles/PMC8003232/>
+963. Cattaneo (1958), “Sur une forme de l’équation de la chaleur éliminant le paradoxe d’une propagation instantanée” . https://biprepap2.polito.it/retrieve/01fe68f0-b9c1-4df5-a80d-fb5e7025bf49/cattaneo1958.pdf
+
+964. Porrà, Masoliver & Weiss (1997), “When the telegrapher’s equation furnishes a better approximation…” . https://link.aps.org/doi/10.1103/PhysRevE.55.7771
+
+965. Masoliver (2017), “Three‑dimensional telegrapher’s equation and its fractional generalization” . https://link.aps.org/doi/10.1103/PhysRevE.96.022101
+
+966. Masoliver (2021), “Telegraphic Transport Processes and Their Fractional Generalization” (review) . https://pmc.ncbi.nlm.nih.gov/articles/PMC8003232/
 
 ## S5 — Integrability Closure (no hidden first integrals)
 
-Prelle & Singer (1983), “Elementary first integrals of differential equations” — <https://www.sciencedirect.com/science/article/abs/pii/0021904583901631>
-Christopher & Llibre (2007), “Integrability via the Darboux method: a survey” — <https://link.springer.com/article/10.1007/s10440-006-9062-1>
+967. Prelle & Singer (1983), “Elementary first integrals of differential equations” . https://www.sciencedirect.com/science/article/abs/pii/0021904583901631
+
+968. Christopher & Llibre (2007), “Integrability via the Darboux method: a survey” . https://link.springer.com/article/10.1007/s10440-006-9062-1
 
 ## Information Geometry & Thermodynamic Metrics (M‑limb foundations)
 
-Ruppeiner (1979), “Thermodynamics: A Riemannian geometric model” — <https://link.aps.org/doi/10.1103/PhysRevA.20.1608>
-Weinhold (1975), “Metric geometry of equilibrium thermodynamics” — <https://pubs.aip.org/aip/jcp/article/63/6/2479/701646/Metric-geometry-of-equilibrium-thermodynamics>
-Amari (2016), *Information Geometry and Its Applications* — <https://link.springer.com/book/10.1007/978-4-431-55978-8>
-Quinn et al. (2022), “Information geometry of multiparameter models” — <https://pmc.ncbi.nlm.nih.gov/articles/PMC10018491/>
+969. Ruppeiner (1979), “Thermodynamics: A Riemannian geometric model” . https://link.aps.org/doi/10.1103/PhysRevA.20.1608
+
+970. Weinhold (1975), “Metric geometry of equilibrium thermodynamics” . https://pubs.aip.org/aip/jcp/article/63/6/2479/701646/Metric-geometry-of-equilibrium-thermodynamics
+
+971. Amari (2016), *Information Geometry and Its Applications* . https://link.springer.com/book/10.1007/978-4-431-55978-8
+
+972. Quinn et al. (2022), “Information geometry of multiparameter models” . https://pmc.ncbi.nlm.nih.gov/articles/PMC10018491/
 
 ## Quantum–Classical Transition (Decoherence, coarse‑graining, Born rule)
 
-Zurek (2003), “Decoherence, einselection, and the quantum origins of the classical” — <https://link.aps.org/doi/10.1103/RevModPhys.75.715>
-Kofler & Brukner (2007), “Classical world arising out of quantum physics under coarse‑grained measurements” — <https://link.aps.org/doi/10.1103/PhysRevLett.99.180403>
-Masanes, Galley & Müller (2019), “The measurement postulates of quantum mechanics are derivable from the structure of the theory” (Nat. Commun.) — <https://www.nature.com/articles/s41467-019-10305-3>
+973. Zurek (2003), “Decoherence, einselection, and the quantum origins of the classical” . https://link.aps.org/doi/10.1103/RevModPhys.75.715
+
+974. Kofler & Brukner (2007), “Classical world arising out of quantum physics under coarse‑grained measurements” . https://link.aps.org/doi/10.1103/PhysRevLett.99.180403
+
+975. Masanes, Galley & Müller (2019), “The measurement postulates of quantum mechanics are derivable from the structure of the theory” (Nat. Commun.) . https://www.nature.com/articles/s41467-019-10305-3
 
 ## Entanglement & Area Laws (A8 ↔ boundary energy)
 
-Calabrese & Cardy (2004), “Entanglement entropy and quantum field theory” — <https://stacks.iop.org/1742-5468/2004/i=06/a=P06002>
-Ryu & Takayanagi (2006), “Holographic derivation of entanglement entropy from AdS/CFT” — <https://link.aps.org/doi/10.1103/PhysRevLett.96.181602>
+976. Calabrese & Cardy (2004), “Entanglement entropy and quantum field theory” . https://stacks.iop.org/1742-5468/2004/i=06/a=P06002
+
+977. Ryu & Takayanagi (2006), “Holographic derivation of entanglement entropy from AdS/CFT” . https://link.aps.org/doi/10.1103/PhysRevLett.96.181602
 
 ## Cosmology (CMB anomalies referenced; for VDM phenomenology)
 
-de Oliveira‑Costa et al. (2004), “The significance of the largest scale CMB fluctuations…” — <https://link.aps.org/doi/10.1103/PhysRevD.69.063516>
-Vielva et al. (2004), “Detection of a non‑Gaussian spot in WMAP” — <https://academic.oup.com/mnras/article/354/3/641/1097443>
-Cruz et al. (2007), “A Cosmic Microwave Background feature consistent with a cosmic texture” — <https://www.science.org/doi/10.1126/science.1148694>
+978. de Oliveira‑Costa et al. (2004), “The significance of the largest scale CMB fluctuations…” . https://link.aps.org/doi/10.1103/PhysRevD.69.063516
+
+979. Vielva et al. (2004), “Detection of a non‑Gaussian spot in WMAP” . https://academic.oup.com/mnras/article/354/3/641/1097443
+
+980. Cruz et al. (2007), “A Cosmic Microwave Background feature consistent with a cosmic texture” . https://www.science.org/doi/10.1126/science.1148694
 
 ## Comparative QG Context (LQG, swampland, causal sets, emergent gravity)
 
-Ashtekar & Lewandowski (2004), “Background independent quantum gravity: a status report” — <https://iopscience.iop.org/article/10.1088/0264-9381/21/15/R01>
-Vafa (2005), “The String Landscape and the Swampland” — <https://arxiv.org/abs/hep-th/0509212>
-Palti (2019), “The Swampland: Introduction and review” — <https://arxiv.org/abs/1903.06239>
-Bombelli, Lee, Meyer & Sorkin (1987), “Space‑Time as a Causal Set” — <https://jamesowenweatherall.com/SCPPRG/BombelliEal1987PhysRevLett_SptCauset.pdf>
-Surya (2019), “The causal set approach to quantum gravity” (Living Reviews) — <https://doi.org/10.1007/s41114-019-0023-1>
-Verlinde (2011), “On the origin of gravity and the laws of Newton” — <https://link.springer.com/article/10.1007/JHEP04(2011)029>
-Verlinde (2017), “Emergent Gravity and the Dark Universe” — <https://scipost.org/10.21468/SciPostPhys.2.3.016>
-Wolfram (2020), “A Class of Models with the Potential to Represent Fundamental Physics” — <https://arxiv.org/abs/2004.08210>
+981. Ashtekar & Lewandowski (2004), “Background independent quantum gravity: a status report” . https://iopscience.iop.org/article/10.1088/0264-9381/21/15/R01
+
+982. Vafa (2005), “The String Landscape and the Swampland” . *arXiv*. https://arxiv.org/abs/hep-th/0509212
+
+983. Palti (2019), “The Swampland: Introduction and review” . *arXiv*. https://arxiv.org/abs/1903.06239
+
+984. Bombelli, Lee, Meyer & Sorkin (1987), “Space‑Time as a Causal Set” . https://jamesowenweatherall.com/SCPPRG/BombelliEal1987PhysRevLett_SptCauset.pdf
+
+985. Surya (2019), “The causal set approach to quantum gravity” (Living Reviews) . https://doi.org/10.1007/s41114-019-0023-1
+
+986. Verlinde (2011), “On the origin of gravity and the laws of Newton” . https://link.springer.com/article/10.1007/JHEP04(2011)029
+
+987. Verlinde (2017), “Emergent Gravity and the Dark Universe” . https://scipost.org/10.21468/SciPostPhys.2.3.016
+
+988. Wolfram (2020), “A Class of Models with the Potential to Represent Fundamental Physics” . *arXiv*. https://arxiv.org/abs/2004.08210
 
 ## Methods & Numerics (referenced for instruments)
 
-Langtangen & Logg (2017), *Solving PDEs in Python: The FEniCS Tutorial I* — <https://pub.fenicsproject.org/tutorial/pdf/fenics-tutorial-vol1.pdf>
+989. Langtangen & Logg (2017), *Solving PDEs in Python: The FEniCS Tutorial I* . https://pub.fenicsproject.org/tutorial/pdf/fenics-tutorial-vol1.pdf
 
 ## Quantum Advantage
 
-<https://scitechdaily.com/oxford-physicists-simulate-quantum-light-from-darkness-for-the-first-time/> "Oxford Physicists Simulate Quantum “Light from Darkness” for the First Time"
+990. . https://scitechdaily.com/oxford-physicists-simulate-quantum-light-from-darkness-for-the-first-time/
 
-<https://www.nature.com/articles/s42005-025-02128-8> "Computational modelling of the semi-classical quantum vacuum in 3D | Communications Physics"
+991. . https://www.nature.com/articles/s42005-025-02128-8
 
-Fujii K. Out-of-Time-Order Correlator Spectroscopy. arXiv.org. Published November 27, 2025. <https://arxiv.org/abs/2511.22654>
+992. Fujii K. Out-of-Time-Order Correlator Spectroscopy. arXiv.org. Published November 27, 2025. *arXiv*. https://arxiv.org/abs/2511.22654
